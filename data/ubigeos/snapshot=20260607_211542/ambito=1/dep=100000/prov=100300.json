@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "NASCA",
+    "prov_ubigeo": "100300",
+    "ubigeo": "100302",
+    "nombre": "CHANGUILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "NASCA",
+    "prov_ubigeo": "100300",
+    "ubigeo": "100303",
+    "nombre": "EL INGENIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "NASCA",
+    "prov_ubigeo": "100300",
+    "ubigeo": "100304",
+    "nombre": "MARCONA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "NASCA",
+    "prov_ubigeo": "100300",
+    "ubigeo": "100301",
+    "nombre": "NASCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "NASCA",
+    "prov_ubigeo": "100300",
+    "ubigeo": "100305",
+    "nombre": "VISTA ALEGRE"
+  }
+]

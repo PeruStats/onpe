@@ -1,0 +1,200 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921381",
+    "nombre": "ATLANTA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921303",
+    "nombre": "BOSTON"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921350",
+    "nombre": "CAROLINA DEL NORTE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921304",
+    "nombre": "CHICAGO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921373",
+    "nombre": "DALLAS"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921308",
+    "nombre": "DENVER"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921385",
+    "nombre": "HARTFORD"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921313",
+    "nombre": "HOUSTON"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921315",
+    "nombre": "LOS ÁNGELES"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921317",
+    "nombre": "MIAMI"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921335",
+    "nombre": "NUEVA JERSEY"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921318",
+    "nombre": "NUEVA ORLEANS"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921319",
+    "nombre": "NUEVA YORK"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921322",
+    "nombre": "OKLAHOMA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921320",
+    "nombre": "ORLANDO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921372",
+    "nombre": "PHOENIX"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921374",
+    "nombre": "SALT LAKE CITY"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921323",
+    "nombre": "SAN ANTONIO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921324",
+    "nombre": "SAN DIEGO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921325",
+    "nombre": "SAN FRANCISCO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921328",
+    "nombre": "SEATTLE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ESTADOS UNIDOS DE ÁMERICA",
+    "prov_ubigeo": "921300",
+    "ubigeo": "921331",
+    "nombre": "WASHINGTON D. C."
+  }
+]

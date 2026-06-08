@@ -1,0 +1,182 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030301",
+    "nombre": "ANDAHUAYLAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030302",
+    "nombre": "ANDARAPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030303",
+    "nombre": "CHIARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030304",
+    "nombre": "HUANCARAMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030305",
+    "nombre": "HUANCARAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030317",
+    "nombre": "HUAYANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030320",
+    "nombre": "JOSÉ MARIA ARGUEDAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030319",
+    "nombre": "KAQUIABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030306",
+    "nombre": "KISHUARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030307",
+    "nombre": "PACOBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030313",
+    "nombre": "PACUCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030308",
+    "nombre": "PAMPACHIRI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030314",
+    "nombre": "POMACOCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030309",
+    "nombre": "SAN ANTONIO DE CACHI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030310",
+    "nombre": "SAN JERÓNIMO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030318",
+    "nombre": "SAN MIGUEL DE CHACCRAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030315",
+    "nombre": "SANTA MARÍA DE CHICMO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030311",
+    "nombre": "TALAVERA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030316",
+    "nombre": "TUMAY HUARACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030312",
+    "nombre": "TURPO"
+  }
+]

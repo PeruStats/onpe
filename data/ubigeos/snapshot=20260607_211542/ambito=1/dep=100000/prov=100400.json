@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PISCO",
+    "prov_ubigeo": "100400",
+    "ubigeo": "100402",
+    "nombre": "HUANCANO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PISCO",
+    "prov_ubigeo": "100400",
+    "ubigeo": "100403",
+    "nombre": "HUMAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PISCO",
+    "prov_ubigeo": "100400",
+    "ubigeo": "100404",
+    "nombre": "INDEPENDENCIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PISCO",
+    "prov_ubigeo": "100400",
+    "ubigeo": "100405",
+    "nombre": "PARACAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PISCO",
+    "prov_ubigeo": "100400",
+    "ubigeo": "100401",
+    "nombre": "PISCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PISCO",
+    "prov_ubigeo": "100400",
+    "ubigeo": "100406",
+    "nombre": "SAN ANDRÉS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PISCO",
+    "prov_ubigeo": "100400",
+    "ubigeo": "100407",
+    "nombre": "SAN CLEMENTE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PISCO",
+    "prov_ubigeo": "100400",
+    "ubigeo": "100408",
+    "nombre": "TUPAC AMARU INCA"
+  }
+]

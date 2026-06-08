@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100209",
+    "nombre": "ALTO LARAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100202",
+    "nombre": "CHAVÍN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100201",
+    "nombre": "CHINCHA ALTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100203",
+    "nombre": "CHINCHA BAJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100204",
+    "nombre": "EL CARMEN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100205",
+    "nombre": "GROCIO PRADO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100210",
+    "nombre": "PUEBLO NUEVO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100211",
+    "nombre": "SAN JUAN DE YANAC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100206",
+    "nombre": "SAN PEDRO DE HUACARPANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100207",
+    "nombre": "SUNAMPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100208",
+    "nombre": "TAMBO DE MORA"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "BÉLGICA",
+    "prov_ubigeo": "940400",
+    "ubigeo": "940401",
+    "nombre": "AMBERES"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "BÉLGICA",
+    "prov_ubigeo": "940400",
+    "ubigeo": "940402",
+    "nombre": "BRUSELAS"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "BÉLGICA",
+    "prov_ubigeo": "940400",
+    "ubigeo": "940403",
+    "nombre": "GANTE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "BÉLGICA",
+    "prov_ubigeo": "940400",
+    "ubigeo": "940404",
+    "nombre": "LIEJA"
+  }
+]

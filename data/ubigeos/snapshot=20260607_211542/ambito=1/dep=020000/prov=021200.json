@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021210",
+    "nombre": "CATAC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021202",
+    "nombre": "COTAPARACO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021203",
+    "nombre": "HUAYLLAPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021209",
+    "nombre": "LLACLLIN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021204",
+    "nombre": "MARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021205",
+    "nombre": "PAMPAS CHICO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021206",
+    "nombre": "PARARIN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021201",
+    "nombre": "RECUAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021207",
+    "nombre": "TAPACOCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021208",
+    "nombre": "TICAPAMPA"
+  }
+]

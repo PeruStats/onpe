@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "TOCACHE",
+    "prov_ubigeo": "210800",
+    "ubigeo": "210802",
+    "nombre": "NUEVO PROGRESO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "TOCACHE",
+    "prov_ubigeo": "210800",
+    "ubigeo": "210803",
+    "nombre": "PÓLVORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "TOCACHE",
+    "prov_ubigeo": "210800",
+    "ubigeo": "210806",
+    "nombre": "SANTA LUCÍA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "TOCACHE",
+    "prov_ubigeo": "210800",
+    "ubigeo": "210804",
+    "nombre": "SHUNTE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "TOCACHE",
+    "prov_ubigeo": "210800",
+    "ubigeo": "210801",
+    "nombre": "TOCACHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "TOCACHE",
+    "prov_ubigeo": "210800",
+    "ubigeo": "210805",
+    "nombre": "UCHIZA"
+  }
+]

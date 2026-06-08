@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SULLANA",
+    "prov_ubigeo": "190600",
+    "ubigeo": "190602",
+    "nombre": "BELLAVISTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SULLANA",
+    "prov_ubigeo": "190600",
+    "ubigeo": "190608",
+    "nombre": "IGNACIO ESCUDERO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SULLANA",
+    "prov_ubigeo": "190600",
+    "ubigeo": "190603",
+    "nombre": "LANCONES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SULLANA",
+    "prov_ubigeo": "190600",
+    "ubigeo": "190604",
+    "nombre": "MARCAVELICA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SULLANA",
+    "prov_ubigeo": "190600",
+    "ubigeo": "190605",
+    "nombre": "MIGUEL CHECA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SULLANA",
+    "prov_ubigeo": "190600",
+    "ubigeo": "190606",
+    "nombre": "QUERECOTILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SULLANA",
+    "prov_ubigeo": "190600",
+    "ubigeo": "190607",
+    "nombre": "SALITRAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SULLANA",
+    "prov_ubigeo": "190600",
+    "ubigeo": "190601",
+    "nombre": "SULLANA"
+  }
+]

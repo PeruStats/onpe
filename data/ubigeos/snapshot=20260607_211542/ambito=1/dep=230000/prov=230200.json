@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "CONTRALMIRANTE VILLAR",
+    "prov_ubigeo": "230200",
+    "ubigeo": "230203",
+    "nombre": "CANOAS DE PUNTA SAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "CONTRALMIRANTE VILLAR",
+    "prov_ubigeo": "230200",
+    "ubigeo": "230202",
+    "nombre": "CASITAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "CONTRALMIRANTE VILLAR",
+    "prov_ubigeo": "230200",
+    "ubigeo": "230201",
+    "nombre": "ZORRITOS"
+  }
+]

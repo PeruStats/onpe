@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022001",
+    "nombre": "ACAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022002",
+    "nombre": "CAJAMARQUILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022003",
+    "nombre": "CARHUAPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022004",
+    "nombre": "COCHAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022005",
+    "nombre": "CONGAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022006",
+    "nombre": "LLIPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022007",
+    "nombre": "OCROS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022008",
+    "nombre": "SAN CRISTÓBAL DE RAJAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022009",
+    "nombre": "SAN PEDRO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "OCROS",
+    "prov_ubigeo": "022000",
+    "ubigeo": "022010",
+    "nombre": "SANTIAGO DE CHILCAS"
+  }
+]

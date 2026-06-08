@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "TALARA",
+    "prov_ubigeo": "190700",
+    "ubigeo": "190702",
+    "nombre": "EL ALTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "TALARA",
+    "prov_ubigeo": "190700",
+    "ubigeo": "190703",
+    "nombre": "LA BREA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "TALARA",
+    "prov_ubigeo": "190700",
+    "ubigeo": "190704",
+    "nombre": "LOBITOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "TALARA",
+    "prov_ubigeo": "190700",
+    "ubigeo": "190706",
+    "nombre": "LOS ÓRGANOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "TALARA",
+    "prov_ubigeo": "190700",
+    "ubigeo": "190705",
+    "nombre": "MÁNCORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "TALARA",
+    "prov_ubigeo": "190700",
+    "ubigeo": "190701",
+    "nombre": "PARIÑAS"
+  }
+]

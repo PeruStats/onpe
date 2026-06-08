@@ -1,0 +1,308 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110302",
+    "nombre": "ACOLLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110303",
+    "nombre": "APATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110304",
+    "nombre": "ATAURA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110305",
+    "nombre": "CANCHAYLLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110331",
+    "nombre": "CURICACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110306",
+    "nombre": "EL MANTARO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110307",
+    "nombre": "HUAMALÍ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110308",
+    "nombre": "HUARIPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110309",
+    "nombre": "HUERTAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110310",
+    "nombre": "JANJAILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110301",
+    "nombre": "JAUJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110311",
+    "nombre": "JULCÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110312",
+    "nombre": "LEONOR ORDOÑEZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110313",
+    "nombre": "LLOCLLAPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110314",
+    "nombre": "MARCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110315",
+    "nombre": "MASMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110332",
+    "nombre": "MASMA CHICCHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110316",
+    "nombre": "MOLINOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110317",
+    "nombre": "MONOBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110318",
+    "nombre": "MUQUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110319",
+    "nombre": "MUQUIYAUYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110320",
+    "nombre": "PACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110321",
+    "nombre": "PACCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110322",
+    "nombre": "PANCAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110323",
+    "nombre": "PARCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110324",
+    "nombre": "POMACANCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110325",
+    "nombre": "RICRAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110326",
+    "nombre": "SAN LORENZO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110327",
+    "nombre": "SAN PEDRO DE CHUNAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110333",
+    "nombre": "SAUSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110328",
+    "nombre": "SINCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110329",
+    "nombre": "TUNAN MARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110330",
+    "nombre": "YAULI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110334",
+    "nombre": "YAUYOS"
+  }
+]

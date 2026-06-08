@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PAITA",
+    "prov_ubigeo": "190500",
+    "ubigeo": "190502",
+    "nombre": "AMOTAPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PAITA",
+    "prov_ubigeo": "190500",
+    "ubigeo": "190503",
+    "nombre": "ARENAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PAITA",
+    "prov_ubigeo": "190500",
+    "ubigeo": "190505",
+    "nombre": "COLÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PAITA",
+    "prov_ubigeo": "190500",
+    "ubigeo": "190504",
+    "nombre": "LA HUACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PAITA",
+    "prov_ubigeo": "190500",
+    "ubigeo": "190501",
+    "nombre": "PAITA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PAITA",
+    "prov_ubigeo": "190500",
+    "ubigeo": "190506",
+    "nombre": "TAMARINDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PAITA",
+    "prov_ubigeo": "190500",
+    "ubigeo": "190507",
+    "nombre": "VICHAYAL"
+  }
+]

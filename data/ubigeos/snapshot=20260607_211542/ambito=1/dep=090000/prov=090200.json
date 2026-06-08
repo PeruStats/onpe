@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "AMBO",
+    "prov_ubigeo": "090200",
+    "ubigeo": "090201",
+    "nombre": "AMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "AMBO",
+    "prov_ubigeo": "090200",
+    "ubigeo": "090202",
+    "nombre": "CAYNA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "AMBO",
+    "prov_ubigeo": "090200",
+    "ubigeo": "090203",
+    "nombre": "COLPAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "AMBO",
+    "prov_ubigeo": "090200",
+    "ubigeo": "090204",
+    "nombre": "CONCHAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "AMBO",
+    "prov_ubigeo": "090200",
+    "ubigeo": "090205",
+    "nombre": "HUACAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "AMBO",
+    "prov_ubigeo": "090200",
+    "ubigeo": "090206",
+    "nombre": "SAN FRANCISCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "AMBO",
+    "prov_ubigeo": "090200",
+    "ubigeo": "090207",
+    "nombre": "SAN RAFAEL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "AMBO",
+    "prov_ubigeo": "090200",
+    "ubigeo": "090208",
+    "nombre": "TOMAY - KICHWA"
+  }
+]

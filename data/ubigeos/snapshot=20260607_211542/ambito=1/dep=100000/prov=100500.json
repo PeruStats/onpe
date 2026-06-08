@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PALPA",
+    "prov_ubigeo": "100500",
+    "ubigeo": "100502",
+    "nombre": "LLIPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PALPA",
+    "prov_ubigeo": "100500",
+    "ubigeo": "100501",
+    "nombre": "PALPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PALPA",
+    "prov_ubigeo": "100500",
+    "ubigeo": "100503",
+    "nombre": "RÍO GRANDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PALPA",
+    "prov_ubigeo": "100500",
+    "ubigeo": "100504",
+    "nombre": "SANTA CRUZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PALPA",
+    "prov_ubigeo": "100500",
+    "ubigeo": "100505",
+    "nombre": "TIBILLO"
+  }
+]

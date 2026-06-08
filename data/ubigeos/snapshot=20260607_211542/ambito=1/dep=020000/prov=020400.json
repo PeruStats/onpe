@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020402",
+    "nombre": "ACOPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020403",
+    "nombre": "AMASHCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020404",
+    "nombre": "ANTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020405",
+    "nombre": "ATAQUERO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020401",
+    "nombre": "CARHUAZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020406",
+    "nombre": "MARCARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020407",
+    "nombre": "PARIAHUANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020408",
+    "nombre": "SAN MIGUEL DE ACO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020409",
+    "nombre": "SHILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020410",
+    "nombre": "TINCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020411",
+    "nombre": "YUNGAR"
+  }
+]

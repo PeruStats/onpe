@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "CANGALLO",
+    "prov_ubigeo": "050200",
+    "ubigeo": "050201",
+    "nombre": "CANGALLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "CANGALLO",
+    "prov_ubigeo": "050200",
+    "ubigeo": "050204",
+    "nombre": "CHUSCHI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "CANGALLO",
+    "prov_ubigeo": "050200",
+    "ubigeo": "050206",
+    "nombre": "LOS MOROCHUCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "CANGALLO",
+    "prov_ubigeo": "050200",
+    "ubigeo": "050211",
+    "nombre": "MARÍA PARADO DE BELLIDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "CANGALLO",
+    "prov_ubigeo": "050200",
+    "ubigeo": "050207",
+    "nombre": "PARAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "CANGALLO",
+    "prov_ubigeo": "050200",
+    "ubigeo": "050208",
+    "nombre": "TOTOS"
+  }
+]

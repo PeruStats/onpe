@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "JULCÁN",
+    "prov_ubigeo": "121000",
+    "ubigeo": "121003",
+    "nombre": "CALAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "JULCÁN",
+    "prov_ubigeo": "121000",
+    "ubigeo": "121002",
+    "nombre": "CARABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "JULCÁN",
+    "prov_ubigeo": "121000",
+    "ubigeo": "121004",
+    "nombre": "HUASO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "JULCÁN",
+    "prov_ubigeo": "121000",
+    "ubigeo": "121001",
+    "nombre": "JULCÁN"
+  }
+]

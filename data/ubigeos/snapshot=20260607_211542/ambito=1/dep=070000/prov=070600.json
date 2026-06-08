@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANCHIS",
+    "prov_ubigeo": "070600",
+    "ubigeo": "070603",
+    "nombre": "CHECACUPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANCHIS",
+    "prov_ubigeo": "070600",
+    "ubigeo": "070602",
+    "nombre": "COMBAPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANCHIS",
+    "prov_ubigeo": "070600",
+    "ubigeo": "070604",
+    "nombre": "MARANGANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANCHIS",
+    "prov_ubigeo": "070600",
+    "ubigeo": "070605",
+    "nombre": "PITUMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANCHIS",
+    "prov_ubigeo": "070600",
+    "ubigeo": "070606",
+    "nombre": "SAN PABLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANCHIS",
+    "prov_ubigeo": "070600",
+    "ubigeo": "070607",
+    "nombre": "SAN PEDRO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANCHIS",
+    "prov_ubigeo": "070600",
+    "ubigeo": "070601",
+    "nombre": "SICUANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANCHIS",
+    "prov_ubigeo": "070600",
+    "ubigeo": "070608",
+    "nombre": "TINTA"
+  }
+]

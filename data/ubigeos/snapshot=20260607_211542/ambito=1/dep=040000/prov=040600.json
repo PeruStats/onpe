@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CONDESUYOS",
+    "prov_ubigeo": "040600",
+    "ubigeo": "040602",
+    "nombre": "ANDARAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CONDESUYOS",
+    "prov_ubigeo": "040600",
+    "ubigeo": "040603",
+    "nombre": "CAYARANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CONDESUYOS",
+    "prov_ubigeo": "040600",
+    "ubigeo": "040604",
+    "nombre": "CHICHAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CONDESUYOS",
+    "prov_ubigeo": "040600",
+    "ubigeo": "040601",
+    "nombre": "CHUQUIBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CONDESUYOS",
+    "prov_ubigeo": "040600",
+    "ubigeo": "040605",
+    "nombre": "IRAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CONDESUYOS",
+    "prov_ubigeo": "040600",
+    "ubigeo": "040608",
+    "nombre": "RÍO GRANDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CONDESUYOS",
+    "prov_ubigeo": "040600",
+    "ubigeo": "040606",
+    "nombre": "SALAMANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CONDESUYOS",
+    "prov_ubigeo": "040600",
+    "ubigeo": "040607",
+    "nombre": "YANAQUIHUA"
+  }
+]

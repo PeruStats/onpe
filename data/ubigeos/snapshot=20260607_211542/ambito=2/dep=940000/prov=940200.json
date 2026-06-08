@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ALEMANIA",
+    "prov_ubigeo": "940200",
+    "ubigeo": "940201",
+    "nombre": "BERLÍN"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ALEMANIA",
+    "prov_ubigeo": "940200",
+    "ubigeo": "940203",
+    "nombre": "BREMEN"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ALEMANIA",
+    "prov_ubigeo": "940200",
+    "ubigeo": "940213",
+    "nombre": "COLONIA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ALEMANIA",
+    "prov_ubigeo": "940200",
+    "ubigeo": "940205",
+    "nombre": "FRANKFURT"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ALEMANIA",
+    "prov_ubigeo": "940200",
+    "ubigeo": "940206",
+    "nombre": "HAMBURGO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ALEMANIA",
+    "prov_ubigeo": "940200",
+    "ubigeo": "940245",
+    "nombre": "MÚNICH"
+  }
+]

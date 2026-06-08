@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120402",
+    "nombre": "AGALLPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120403",
+    "nombre": "CHARAT"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120404",
+    "nombre": "HUARANCHAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120405",
+    "nombre": "LA CUESTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120413",
+    "nombre": "MACHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120401",
+    "nombre": "OTUZCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120408",
+    "nombre": "PARANDAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120409",
+    "nombre": "SALPO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120410",
+    "nombre": "SINSICAP"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "OTUZCO",
+    "prov_ubigeo": "120400",
+    "ubigeo": "120411",
+    "nombre": "USQUIL"
+  }
+]

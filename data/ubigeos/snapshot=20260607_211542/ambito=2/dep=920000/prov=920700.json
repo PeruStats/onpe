@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "COLOMBIA",
+    "prov_ubigeo": "920700",
+    "ubigeo": "920701",
+    "nombre": "BARRANQUILLA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "COLOMBIA",
+    "prov_ubigeo": "920700",
+    "ubigeo": "920702",
+    "nombre": "BOGOTÁ"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "COLOMBIA",
+    "prov_ubigeo": "920700",
+    "ubigeo": "920709",
+    "nombre": "BUCARAMANGA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "COLOMBIA",
+    "prov_ubigeo": "920700",
+    "ubigeo": "920703",
+    "nombre": "CALI"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "COLOMBIA",
+    "prov_ubigeo": "920700",
+    "ubigeo": "920737",
+    "nombre": "CARTAGENA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "COLOMBIA",
+    "prov_ubigeo": "920700",
+    "ubigeo": "920705",
+    "nombre": "LETICIA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "COLOMBIA",
+    "prov_ubigeo": "920700",
+    "ubigeo": "920706",
+    "nombre": "MEDELLÍN"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "COLOMBIA",
+    "prov_ubigeo": "920700",
+    "ubigeo": "920717",
+    "nombre": "PASTO"
+  }
+]

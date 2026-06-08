@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "MADRE DE DIOS",
+    "dep_ubigeo": "160000",
+    "prov_name": "TAMBOPATA",
+    "prov_ubigeo": "160100",
+    "ubigeo": "160102",
+    "nombre": "INAMBARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MADRE DE DIOS",
+    "dep_ubigeo": "160000",
+    "prov_name": "TAMBOPATA",
+    "prov_ubigeo": "160100",
+    "ubigeo": "160104",
+    "nombre": "LABERINTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MADRE DE DIOS",
+    "dep_ubigeo": "160000",
+    "prov_name": "TAMBOPATA",
+    "prov_ubigeo": "160100",
+    "ubigeo": "160103",
+    "nombre": "LAS PIEDRAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MADRE DE DIOS",
+    "dep_ubigeo": "160000",
+    "prov_name": "TAMBOPATA",
+    "prov_ubigeo": "160100",
+    "ubigeo": "160101",
+    "nombre": "TAMBOPATA"
+  }
+]

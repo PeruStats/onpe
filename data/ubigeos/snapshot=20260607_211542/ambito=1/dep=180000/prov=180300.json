@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "OXAPAMPA",
+    "prov_ubigeo": "180300",
+    "ubigeo": "180302",
+    "nombre": "CHONTABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "OXAPAMPA",
+    "prov_ubigeo": "180300",
+    "ubigeo": "180308",
+    "nombre": "CONSTITUCIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "OXAPAMPA",
+    "prov_ubigeo": "180300",
+    "ubigeo": "180303",
+    "nombre": "HUANCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "OXAPAMPA",
+    "prov_ubigeo": "180300",
+    "ubigeo": "180301",
+    "nombre": "OXAPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "OXAPAMPA",
+    "prov_ubigeo": "180300",
+    "ubigeo": "180307",
+    "nombre": "PALCAZU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "OXAPAMPA",
+    "prov_ubigeo": "180300",
+    "ubigeo": "180306",
+    "nombre": "POZUZO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "OXAPAMPA",
+    "prov_ubigeo": "180300",
+    "ubigeo": "180304",
+    "nombre": "PUERTO BERMÚDEZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "OXAPAMPA",
+    "prov_ubigeo": "180300",
+    "ubigeo": "180305",
+    "nombre": "VILLA RICA"
+  }
+]

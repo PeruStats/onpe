@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ECUADOR",
+    "prov_ubigeo": "921100",
+    "ubigeo": "921110",
+    "nombre": "AZUAY"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ECUADOR",
+    "prov_ubigeo": "921100",
+    "ubigeo": "921101",
+    "nombre": "GUAYAQUIL"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ECUADOR",
+    "prov_ubigeo": "921100",
+    "ubigeo": "921102",
+    "nombre": "LOJA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ECUADOR",
+    "prov_ubigeo": "921100",
+    "ubigeo": "921104",
+    "nombre": "MACHALA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ECUADOR",
+    "prov_ubigeo": "921100",
+    "ubigeo": "921105",
+    "nombre": "QUITO"
+  }
+]

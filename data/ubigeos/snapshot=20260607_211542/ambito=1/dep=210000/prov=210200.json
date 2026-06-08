@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "HUALLAGA",
+    "prov_ubigeo": "210200",
+    "ubigeo": "210205",
+    "nombre": "ALTO SAPOSOA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "HUALLAGA",
+    "prov_ubigeo": "210200",
+    "ubigeo": "210206",
+    "nombre": "EL ESLABÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "HUALLAGA",
+    "prov_ubigeo": "210200",
+    "ubigeo": "210202",
+    "nombre": "PISCOYACU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "HUALLAGA",
+    "prov_ubigeo": "210200",
+    "ubigeo": "210203",
+    "nombre": "SACANCHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "HUALLAGA",
+    "prov_ubigeo": "210200",
+    "ubigeo": "210201",
+    "nombre": "SAPOSOA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "HUALLAGA",
+    "prov_ubigeo": "210200",
+    "ubigeo": "210204",
+    "nombre": "TINGO DE SAPOSOA"
+  }
+]

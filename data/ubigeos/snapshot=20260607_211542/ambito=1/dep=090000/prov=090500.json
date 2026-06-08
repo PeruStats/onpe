@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "MARAÑÓN",
+    "prov_ubigeo": "090500",
+    "ubigeo": "090502",
+    "nombre": "CHOLÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "MARAÑÓN",
+    "prov_ubigeo": "090500",
+    "ubigeo": "090501",
+    "nombre": "HUACRACHUCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "MARAÑÓN",
+    "prov_ubigeo": "090500",
+    "ubigeo": "090506",
+    "nombre": "LA MORADA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "MARAÑÓN",
+    "prov_ubigeo": "090500",
+    "ubigeo": "090505",
+    "nombre": "SAN BUENAVENTURA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "MARAÑÓN",
+    "prov_ubigeo": "090500",
+    "ubigeo": "090507",
+    "nombre": "SANTA ROSA DE ALTO YANAJANCA"
+  }
+]

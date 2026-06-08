@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "MARISCAL NIETO",
+    "prov_ubigeo": "170100",
+    "ubigeo": "170102",
+    "nombre": "CARUMAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "MARISCAL NIETO",
+    "prov_ubigeo": "170100",
+    "ubigeo": "170103",
+    "nombre": "CUCHUMBAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "MARISCAL NIETO",
+    "prov_ubigeo": "170100",
+    "ubigeo": "170101",
+    "nombre": "MOQUEGUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "MARISCAL NIETO",
+    "prov_ubigeo": "170100",
+    "ubigeo": "170106",
+    "nombre": "SAMEGUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "MARISCAL NIETO",
+    "prov_ubigeo": "170100",
+    "ubigeo": "170107",
+    "nombre": "SAN ANTONIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "MARISCAL NIETO",
+    "prov_ubigeo": "170100",
+    "ubigeo": "170104",
+    "nombre": "SAN CRISTÓBAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "MARISCAL NIETO",
+    "prov_ubigeo": "170100",
+    "ubigeo": "170105",
+    "nombre": "TORATA"
+  }
+]

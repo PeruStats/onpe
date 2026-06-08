@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070808",
+    "nombre": "ALTO PICHIGUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070802",
+    "nombre": "CONDOROMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070803",
+    "nombre": "COPORAQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070801",
+    "nombre": "ESPINAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070804",
+    "nombre": "OCORURO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070805",
+    "nombre": "PALLPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070806",
+    "nombre": "PICHIGUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070807",
+    "nombre": "SUYCKUTAMBO"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050302",
+    "nombre": "AYAHUANCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050310",
+    "nombre": "CANAYRE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050313",
+    "nombre": "CHACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050303",
+    "nombre": "HUAMANGUILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050301",
+    "nombre": "HUANTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050304",
+    "nombre": "IGUAIN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050309",
+    "nombre": "LLOCHEGUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050305",
+    "nombre": "LURICOCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050312",
+    "nombre": "PUCACOLPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050314",
+    "nombre": "PUTIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050307",
+    "nombre": "SANTILLANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050308",
+    "nombre": "SIVIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANTA",
+    "prov_ubigeo": "050300",
+    "ubigeo": "050311",
+    "nombre": "UCHURACCAY"
+  }
+]

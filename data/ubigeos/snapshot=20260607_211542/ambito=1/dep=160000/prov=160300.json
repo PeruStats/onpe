@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "MADRE DE DIOS",
+    "dep_ubigeo": "160000",
+    "prov_name": "TAHUAMANÚ",
+    "prov_ubigeo": "160300",
+    "ubigeo": "160302",
+    "nombre": "IBERIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MADRE DE DIOS",
+    "dep_ubigeo": "160000",
+    "prov_name": "TAHUAMANÚ",
+    "prov_ubigeo": "160300",
+    "ubigeo": "160301",
+    "nombre": "IÑAPARÍ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MADRE DE DIOS",
+    "dep_ubigeo": "160000",
+    "prov_name": "TAHUAMANÚ",
+    "prov_ubigeo": "160300",
+    "ubigeo": "160303",
+    "nombre": "TAHUAMANÚ"
+  }
+]

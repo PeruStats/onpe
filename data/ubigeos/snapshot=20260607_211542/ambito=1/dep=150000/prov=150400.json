@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150402",
+    "nombre": "ALTO TAPICHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150403",
+    "nombre": "CAPELO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150404",
+    "nombre": "EMILIO SAN MARTÍN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150410",
+    "nombre": "JENARO HERRERA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150405",
+    "nombre": "MAQUIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150406",
+    "nombre": "PUINAHUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150401",
+    "nombre": "REQUENA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150407",
+    "nombre": "SAQUENA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150408",
+    "nombre": "SOPLIN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150409",
+    "nombre": "TAPICHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "REQUENA",
+    "prov_ubigeo": "150400",
+    "ubigeo": "150411",
+    "nombre": "YAQUERANA"
+  }
+]

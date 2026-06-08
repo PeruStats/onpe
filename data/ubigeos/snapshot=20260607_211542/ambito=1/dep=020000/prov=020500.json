@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CASMA",
+    "prov_ubigeo": "020500",
+    "ubigeo": "020502",
+    "nombre": "BUENA VISTA ALTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CASMA",
+    "prov_ubigeo": "020500",
+    "ubigeo": "020501",
+    "nombre": "CASMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CASMA",
+    "prov_ubigeo": "020500",
+    "ubigeo": "020503",
+    "nombre": "COMANDANTE NOEL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CASMA",
+    "prov_ubigeo": "020500",
+    "ubigeo": "020505",
+    "nombre": "YAUTAN"
+  }
+]

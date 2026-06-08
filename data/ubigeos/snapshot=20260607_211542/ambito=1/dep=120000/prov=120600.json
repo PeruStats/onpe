@@ -1,0 +1,119 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120602",
+    "nombre": "BULDIBUYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120603",
+    "nombre": "CHILLIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120605",
+    "nombre": "HUANCASPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120604",
+    "nombre": "HUAYLILLAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120606",
+    "nombre": "HUAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120607",
+    "nombre": "ONGON"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120608",
+    "nombre": "PARCOY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120609",
+    "nombre": "PATAZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120610",
+    "nombre": "PIÁS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120613",
+    "nombre": "SANTIAGO DE CHALLAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120611",
+    "nombre": "TAURIJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120601",
+    "nombre": "TAYABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120612",
+    "nombre": "URPAY"
+  }
+]

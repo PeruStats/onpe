@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANCA SANCOS",
+    "prov_ubigeo": "050800",
+    "ubigeo": "050804",
+    "nombre": "CARAPO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANCA SANCOS",
+    "prov_ubigeo": "050800",
+    "ubigeo": "050802",
+    "nombre": "SACSAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANCA SANCOS",
+    "prov_ubigeo": "050800",
+    "ubigeo": "050801",
+    "nombre": "SANCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUANCA SANCOS",
+    "prov_ubigeo": "050800",
+    "ubigeo": "050803",
+    "nombre": "SANTIAGO DE LUCANAMARCA"
+  }
+]

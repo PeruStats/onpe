@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150102",
+    "nombre": "ALTO NANAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150112",
+    "nombre": "BELÉN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150103",
+    "nombre": "FERNANDO LORES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150110",
+    "nombre": "INDIANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150101",
+    "nombre": "IQUITOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150104",
+    "nombre": "LAS AMAZONAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150105",
+    "nombre": "MAZAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150106",
+    "nombre": "NAPO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150111",
+    "nombre": "PUNCHANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150113",
+    "nombre": "SAN JUAN BAUTISTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150108",
+    "nombre": "TORRES CAUSANA"
+  }
+]

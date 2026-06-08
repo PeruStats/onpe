@@ -1,0 +1,146 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140416",
+    "nombre": "ASIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140402",
+    "nombre": "CALANGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140403",
+    "nombre": "CERRO AZUL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140405",
+    "nombre": "CHILCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140404",
+    "nombre": "COAYLLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140406",
+    "nombre": "IMPERIAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140407",
+    "nombre": "LUNAHUANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140408",
+    "nombre": "MALA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140409",
+    "nombre": "NUEVO IMPERIAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140410",
+    "nombre": "PACARAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140411",
+    "nombre": "QUILMANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140412",
+    "nombre": "SAN ANTONIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140413",
+    "nombre": "SAN LUIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140414",
+    "nombre": "SANTA CRUZ DE FLORES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140401",
+    "nombre": "SAN VICENTE DE CAÑETE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140415",
+    "nombre": "ZUÑIGA"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010503",
+    "nombre": "CHIRIMOTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010502",
+    "nombre": "COCHAMAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010504",
+    "nombre": "HUAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010505",
+    "nombre": "LIMABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010506",
+    "nombre": "LONGAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010508",
+    "nombre": "MARISCAL BENAVIDES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010507",
+    "nombre": "MILPUCC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010509",
+    "nombre": "OMIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010501",
+    "nombre": "SAN NICOLÁS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010510",
+    "nombre": "SANTA ROSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010511",
+    "nombre": "TOTORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "RODRÍGUEZ DE MENDOZA",
+    "prov_ubigeo": "010500",
+    "ubigeo": "010512",
+    "nombre": "VISTA ALEGRE"
+  }
+]

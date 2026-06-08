@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "EL DORADO",
+    "prov_ubigeo": "211000",
+    "ubigeo": "211002",
+    "nombre": "AGUA BLANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "EL DORADO",
+    "prov_ubigeo": "211000",
+    "ubigeo": "211001",
+    "nombre": "SAN JOSÉ DE SISA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "EL DORADO",
+    "prov_ubigeo": "211000",
+    "ubigeo": "211004",
+    "nombre": "SAN MARTÍN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "EL DORADO",
+    "prov_ubigeo": "211000",
+    "ubigeo": "211005",
+    "nombre": "SANTA ROSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "EL DORADO",
+    "prov_ubigeo": "211000",
+    "ubigeo": "211003",
+    "nombre": "SHATOJA"
+  }
+]

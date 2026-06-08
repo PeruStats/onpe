@@ -1,0 +1,119 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080402",
+    "nombre": "ARMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080403",
+    "nombre": "AURAHUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080405",
+    "nombre": "CAPILLAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080401",
+    "nombre": "CASTROVIRREYNA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080408",
+    "nombre": "CHUPAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080406",
+    "nombre": "COCAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080409",
+    "nombre": "HUACHOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080410",
+    "nombre": "HUAMATAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080414",
+    "nombre": "MOLLEPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080422",
+    "nombre": "SAN JUAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080429",
+    "nombre": "SANTA ANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080427",
+    "nombre": "TANTARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CASTROVIRREYNA",
+    "prov_ubigeo": "080400",
+    "ubigeo": "080428",
+    "nombre": "TICRAPO"
+  }
+]

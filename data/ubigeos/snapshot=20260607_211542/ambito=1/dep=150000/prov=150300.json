@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "LORETO",
+    "prov_ubigeo": "150300",
+    "ubigeo": "150301",
+    "nombre": "NAUTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "LORETO",
+    "prov_ubigeo": "150300",
+    "ubigeo": "150302",
+    "nombre": "PARINARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "LORETO",
+    "prov_ubigeo": "150300",
+    "ubigeo": "150303",
+    "nombre": "TIGRE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "LORETO",
+    "prov_ubigeo": "150300",
+    "ubigeo": "150305",
+    "nombre": "TROMPETEROS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "LORETO",
+    "prov_ubigeo": "150300",
+    "ubigeo": "150304",
+    "nombre": "URARINAS"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210315",
+    "nombre": "ALONSO DE ALVARADO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210303",
+    "nombre": "BARRANQUITA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210304",
+    "nombre": "CAYNARACHI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210305",
+    "nombre": "CUÑUMBUQUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210301",
+    "nombre": "LAMAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210306",
+    "nombre": "PINTO RECODO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210307",
+    "nombre": "RUMISAPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210316",
+    "nombre": "SAN ROQUE DE CUMBAZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210311",
+    "nombre": "SHANAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210313",
+    "nombre": "TABALOSOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210314",
+    "nombre": "ZAPATERO"
+  }
+]

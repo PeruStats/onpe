@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "BOLÍVAR",
+    "prov_ubigeo": "120200",
+    "ubigeo": "120202",
+    "nombre": "BAMBAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "BOLÍVAR",
+    "prov_ubigeo": "120200",
+    "ubigeo": "120201",
+    "nombre": "BOLÍVAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "BOLÍVAR",
+    "prov_ubigeo": "120200",
+    "ubigeo": "120203",
+    "nombre": "CONDORMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "BOLÍVAR",
+    "prov_ubigeo": "120200",
+    "ubigeo": "120204",
+    "nombre": "LONGOTEA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "BOLÍVAR",
+    "prov_ubigeo": "120200",
+    "ubigeo": "120206",
+    "nombre": "UCHUMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "BOLÍVAR",
+    "prov_ubigeo": "120200",
+    "ubigeo": "120205",
+    "nombre": "UCUNCHA"
+  }
+]

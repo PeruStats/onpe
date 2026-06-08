@@ -1,0 +1,128 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210602",
+    "nombre": "ALBERTO LEVEAU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210604",
+    "nombre": "CACATACHI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210606",
+    "nombre": "CHAZUTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210607",
+    "nombre": "CHIPURANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210608",
+    "nombre": "EL PORVENIR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210609",
+    "nombre": "HUIMBAYOC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210610",
+    "nombre": "JUAN GUERRA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210621",
+    "nombre": "LA BANDA DE SHILCAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210611",
+    "nombre": "MORALES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210612",
+    "nombre": "PAPAPLAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210616",
+    "nombre": "SAN ANTONIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210619",
+    "nombre": "SAUCE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210620",
+    "nombre": "SHAPAJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210601",
+    "nombre": "TARAPOTO"
+  }
+]

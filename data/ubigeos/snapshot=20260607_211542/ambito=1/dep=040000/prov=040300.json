@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040301",
+    "nombre": "CAMANÁ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040302",
+    "nombre": "JOSÉ MARIA QUIMPER"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040303",
+    "nombre": "MARIANO NICOLÁS VALCARCEL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040304",
+    "nombre": "MARISCAL CÁCERES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040305",
+    "nombre": "NICOLÁS DE PIEROLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040306",
+    "nombre": "OCOÑA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040307",
+    "nombre": "QUILCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040308",
+    "nombre": "SAMUEL PASTOR"
+  }
+]

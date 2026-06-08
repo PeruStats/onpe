@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920202",
+    "nombre": "BUENOS AIRES"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920224",
+    "nombre": "CATAMARCA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920203",
+    "nombre": "CÓRDOBA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920204",
+    "nombre": "CORRIENTES"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920205",
+    "nombre": "LA PLATA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920226",
+    "nombre": "LA RIOJA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920206",
+    "nombre": "MENDOZA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920207",
+    "nombre": "ROSARIO DE SANTA FE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920208",
+    "nombre": "SALTA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920210",
+    "nombre": "SAN JUAN"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "ARGENTINA",
+    "prov_ubigeo": "920200",
+    "ubigeo": "920219",
+    "nombre": "SAN LUIS"
+  }
+]

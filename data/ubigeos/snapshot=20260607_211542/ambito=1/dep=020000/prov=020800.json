@@ -1,0 +1,146 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020816",
+    "nombre": "ANRA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020802",
+    "nombre": "CAJAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020803",
+    "nombre": "CHAVÍN DE HUÁNTAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020804",
+    "nombre": "HUACACHI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020806",
+    "nombre": "HUACCHIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020805",
+    "nombre": "HUACHIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020807",
+    "nombre": "HUANTAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020801",
+    "nombre": "HUARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020808",
+    "nombre": "MASIN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020809",
+    "nombre": "PAUCAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020810",
+    "nombre": "PONTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020811",
+    "nombre": "RAHUAPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020812",
+    "nombre": "RAPAYAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020813",
+    "nombre": "SAN MARCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020814",
+    "nombre": "SAN PEDRO DE CHANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020815",
+    "nombre": "UCO"
+  }
+]

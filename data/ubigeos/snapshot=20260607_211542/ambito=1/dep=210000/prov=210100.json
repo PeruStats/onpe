@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MOYOBAMBA",
+    "prov_ubigeo": "210100",
+    "ubigeo": "210102",
+    "nombre": "CALZADA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MOYOBAMBA",
+    "prov_ubigeo": "210100",
+    "ubigeo": "210103",
+    "nombre": "HABANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MOYOBAMBA",
+    "prov_ubigeo": "210100",
+    "ubigeo": "210104",
+    "nombre": "JEPELACIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MOYOBAMBA",
+    "prov_ubigeo": "210100",
+    "ubigeo": "210101",
+    "nombre": "MOYOBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MOYOBAMBA",
+    "prov_ubigeo": "210100",
+    "ubigeo": "210105",
+    "nombre": "SORITOR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MOYOBAMBA",
+    "prov_ubigeo": "210100",
+    "ubigeo": "210106",
+    "nombre": "YANTALÓ"
+  }
+]

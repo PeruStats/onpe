@@ -1,0 +1,173 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080102",
+    "nombre": "ACOBAMBILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080103",
+    "nombre": "ACORIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080119",
+    "nombre": "ASCENSIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080104",
+    "nombre": "CONAYCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080105",
+    "nombre": "CUENCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080106",
+    "nombre": "HUACHOCOLPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080101",
+    "nombre": "HUANCAVELICA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080120",
+    "nombre": "HUANDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080108",
+    "nombre": "HUAYLLAHUARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080109",
+    "nombre": "IZCUCHACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080110",
+    "nombre": "LARIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080111",
+    "nombre": "MANTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080112",
+    "nombre": "MARISCAL CÁCERES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080113",
+    "nombre": "MOYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080114",
+    "nombre": "NUEVO OCCORO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080115",
+    "nombre": "PALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080116",
+    "nombre": "PILCHACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080117",
+    "nombre": "VILCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080118",
+    "nombre": "YAULI"
+  }
+]

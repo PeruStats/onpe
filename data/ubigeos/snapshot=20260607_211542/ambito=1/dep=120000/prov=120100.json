@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120113",
+    "nombre": "ALTO TRUJILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120110",
+    "nombre": "EL PORVENIR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120112",
+    "nombre": "FLORENCIA DE MORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120102",
+    "nombre": "HUANCHACO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120111",
+    "nombre": "LA ESPERANZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120103",
+    "nombre": "LAREDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120104",
+    "nombre": "MOCHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120109",
+    "nombre": "POROTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120105",
+    "nombre": "SALAVERRY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120106",
+    "nombre": "SIMBAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120101",
+    "nombre": "TRUJILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120107",
+    "nombre": "VÍCTOR LARCO HERRERA"
+  }
+]

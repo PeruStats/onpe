@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "OCEANÍA",
+    "dep_ubigeo": "950000",
+    "prov_name": "NUEVA ZELANDA",
+    "prov_ubigeo": "950200",
+    "ubigeo": "950201",
+    "nombre": "AUCKLAND"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "OCEANÍA",
+    "dep_ubigeo": "950000",
+    "prov_name": "NUEVA ZELANDA",
+    "prov_ubigeo": "950200",
+    "ubigeo": "950202",
+    "nombre": "WELLINGTON"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "ISRAEL",
+    "prov_ubigeo": "930600",
+    "ubigeo": "930603",
+    "nombre": "RAMLA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "ISRAEL",
+    "prov_ubigeo": "930600",
+    "ubigeo": "930602",
+    "nombre": "TEL AVIV"
+  }
+]

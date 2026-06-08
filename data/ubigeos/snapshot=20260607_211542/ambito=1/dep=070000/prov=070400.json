@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CALCA",
+    "prov_ubigeo": "070400",
+    "ubigeo": "070401",
+    "nombre": "CALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CALCA",
+    "prov_ubigeo": "070400",
+    "ubigeo": "070402",
+    "nombre": "COYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CALCA",
+    "prov_ubigeo": "070400",
+    "ubigeo": "070403",
+    "nombre": "LAMAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CALCA",
+    "prov_ubigeo": "070400",
+    "ubigeo": "070404",
+    "nombre": "LARES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CALCA",
+    "prov_ubigeo": "070400",
+    "ubigeo": "070405",
+    "nombre": "PISAC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CALCA",
+    "prov_ubigeo": "070400",
+    "ubigeo": "070406",
+    "nombre": "SAN SALVADOR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CALCA",
+    "prov_ubigeo": "070400",
+    "ubigeo": "070407",
+    "nombre": "TARAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CALCA",
+    "prov_ubigeo": "070400",
+    "ubigeo": "070408",
+    "nombre": "YANATILE"
+  }
+]

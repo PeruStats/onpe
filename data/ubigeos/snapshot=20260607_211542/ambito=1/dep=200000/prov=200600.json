@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200602",
+    "nombre": "CABANILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200603",
+    "nombre": "CALAPUJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200601",
+    "nombre": "LAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200604",
+    "nombre": "NICASIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200605",
+    "nombre": "OCUVIRI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200606",
+    "nombre": "PALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200607",
+    "nombre": "PARATIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200608",
+    "nombre": "PUCARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200609",
+    "nombre": "SANTA LUCÍA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200610",
+    "nombre": "VILAVILA"
+  }
+]

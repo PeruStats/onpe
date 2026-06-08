@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CANADÁ",
+    "prov_ubigeo": "920600",
+    "ubigeo": "920608",
+    "nombre": "ALBERTA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CANADÁ",
+    "prov_ubigeo": "920600",
+    "ubigeo": "920601",
+    "nombre": "MONTREAL"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CANADÁ",
+    "prov_ubigeo": "920600",
+    "ubigeo": "920602",
+    "nombre": "OTTAWA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CANADÁ",
+    "prov_ubigeo": "920600",
+    "ubigeo": "920603",
+    "nombre": "TORONTO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CANADÁ",
+    "prov_ubigeo": "920600",
+    "ubigeo": "920604",
+    "nombre": "VANCOUVER"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CANADÁ",
+    "prov_ubigeo": "920600",
+    "ubigeo": "920605",
+    "nombre": "WINNIPEG"
+  }
+]

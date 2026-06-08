@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110502",
+    "nombre": "ACOBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110503",
+    "nombre": "HUARICOLCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110504",
+    "nombre": "HUASAHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110505",
+    "nombre": "LA UNIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110506",
+    "nombre": "PALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110507",
+    "nombre": "PALCAMAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110508",
+    "nombre": "SAN PEDRO DE CAJAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110509",
+    "nombre": "TAPO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110501",
+    "nombre": "TARMA"
+  }
+]

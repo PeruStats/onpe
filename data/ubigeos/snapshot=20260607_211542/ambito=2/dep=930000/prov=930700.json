@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930705",
+    "nombre": "FUKUOKA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930721",
+    "nombre": "GUNMA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930709",
+    "nombre": "HIROSHIMA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930731",
+    "nombre": "KOBE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930727",
+    "nombre": "MIE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930713",
+    "nombre": "NAGOYA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930704",
+    "nombre": "OKINAWA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930720",
+    "nombre": "SAITAMA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930736",
+    "nombre": "SHIGA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930726",
+    "nombre": "SHIZUOKA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "JAPÓN",
+    "prov_ubigeo": "930700",
+    "ubigeo": "930703",
+    "nombre": "TOKIO"
+  }
+]

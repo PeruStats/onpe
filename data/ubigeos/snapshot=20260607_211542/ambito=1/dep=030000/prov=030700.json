@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030712",
+    "nombre": "AHUAYRO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030705",
+    "nombre": "ANCO HUALLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030701",
+    "nombre": "CHINCHEROS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030704",
+    "nombre": "COCHARCAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030710",
+    "nombre": "EL PORVENIR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030706",
+    "nombre": "HUACCANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030711",
+    "nombre": "LOS CHANKAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030703",
+    "nombre": "OCOBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030702",
+    "nombre": "ONGOY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030708",
+    "nombre": "RANRACANCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030709",
+    "nombre": "ROCCHACC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "CHINCHEROS",
+    "prov_ubigeo": "030700",
+    "ubigeo": "030707",
+    "nombre": "URANMARCA"
+  }
+]

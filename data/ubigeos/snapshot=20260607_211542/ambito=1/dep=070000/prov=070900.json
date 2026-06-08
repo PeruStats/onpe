@@ -1,0 +1,164 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070917",
+    "nombre": "CIELO PUNCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070902",
+    "nombre": "ECHARATE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070903",
+    "nombre": "HUAYOPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070911",
+    "nombre": "INKAWASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070909",
+    "nombre": "KIMBIRI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070916",
+    "nombre": "KUMPIRUSHIATO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070918",
+    "nombre": "MANITEA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070904",
+    "nombre": "MARANURA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070915",
+    "nombre": "MEGANTONI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070905",
+    "nombre": "OCOBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070910",
+    "nombre": "PICHARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070908",
+    "nombre": "QUELLOUNO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070901",
+    "nombre": "SANTA ANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070906",
+    "nombre": "SANTA TERESA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070919",
+    "nombre": "UNIÓN ASHÁNINKA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070907",
+    "nombre": "VILCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070913",
+    "nombre": "VILLA KINTIARINA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070912",
+    "nombre": "VILLA VIRGEN"
+  }
+]

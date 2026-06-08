@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941701",
+    "nombre": "BOLONIA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941755",
+    "nombre": "BOLZANO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941703",
+    "nombre": "FLORENCIA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941704",
+    "nombre": "GÉNOVA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941717",
+    "nombre": "MARCAS"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941706",
+    "nombre": "MILÁN"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941707",
+    "nombre": "NÁPOLES"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941748",
+    "nombre": "PERUGIA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941709",
+    "nombre": "ROMA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941710",
+    "nombre": "TRIESTE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941711",
+    "nombre": "TURÍN"
+  }
+]

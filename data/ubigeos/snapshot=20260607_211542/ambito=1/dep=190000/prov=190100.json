@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190103",
+    "nombre": "CASTILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190104",
+    "nombre": "CATACAOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190113",
+    "nombre": "CURA MORI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190114",
+    "nombre": "EL TALLÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190105",
+    "nombre": "LA ARENA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190107",
+    "nombre": "LAS LOMAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190106",
+    "nombre": "LA UNIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190101",
+    "nombre": "PIURA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190109",
+    "nombre": "TAMBO GRANDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190115",
+    "nombre": "VEINTISÉIS DE OCTUBRE"
+  }
+]

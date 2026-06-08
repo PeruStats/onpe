@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "URUBAMBA",
+    "prov_ubigeo": "071300",
+    "ubigeo": "071302",
+    "nombre": "CHINCHERO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "URUBAMBA",
+    "prov_ubigeo": "071300",
+    "ubigeo": "071303",
+    "nombre": "HUAYLLABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "URUBAMBA",
+    "prov_ubigeo": "071300",
+    "ubigeo": "071304",
+    "nombre": "MACHUPICCHU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "URUBAMBA",
+    "prov_ubigeo": "071300",
+    "ubigeo": "071305",
+    "nombre": "MARAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "URUBAMBA",
+    "prov_ubigeo": "071300",
+    "ubigeo": "071306",
+    "nombre": "OLLANTAYTAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "URUBAMBA",
+    "prov_ubigeo": "071300",
+    "ubigeo": "071301",
+    "nombre": "URUBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "URUBAMBA",
+    "prov_ubigeo": "071300",
+    "ubigeo": "071307",
+    "nombre": "YUCAY"
+  }
+]

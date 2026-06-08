@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070502",
+    "nombre": "CHECCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070503",
+    "nombre": "KUNTURKANKI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070504",
+    "nombre": "LANGUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070505",
+    "nombre": "LAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070506",
+    "nombre": "PAMPAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070507",
+    "nombre": "QUEHUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070508",
+    "nombre": "TÚPAC AMARU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070501",
+    "nombre": "YANAOCA"
+  }
+]

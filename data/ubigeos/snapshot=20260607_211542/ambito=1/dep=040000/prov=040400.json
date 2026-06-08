@@ -1,0 +1,119 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040402",
+    "nombre": "ACARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040403",
+    "nombre": "ATICO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040404",
+    "nombre": "ATIQUIPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040405",
+    "nombre": "BELLA UNIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040406",
+    "nombre": "CAHUACHO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040401",
+    "nombre": "CARAVELÍ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040407",
+    "nombre": "CHALA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040408",
+    "nombre": "CHAPARRA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040409",
+    "nombre": "HUANUHUANU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040410",
+    "nombre": "JAQUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040411",
+    "nombre": "LOMAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040412",
+    "nombre": "QUICACHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CARAVELÍ",
+    "prov_ubigeo": "040400",
+    "ubigeo": "040413",
+    "nombre": "YAUCA"
+  }
+]

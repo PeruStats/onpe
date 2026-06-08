@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PARURO",
+    "prov_ubigeo": "071000",
+    "ubigeo": "071002",
+    "nombre": "ACCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PARURO",
+    "prov_ubigeo": "071000",
+    "ubigeo": "071003",
+    "nombre": "CCAPI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PARURO",
+    "prov_ubigeo": "071000",
+    "ubigeo": "071004",
+    "nombre": "COLCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PARURO",
+    "prov_ubigeo": "071000",
+    "ubigeo": "071005",
+    "nombre": "HUANOQUITE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PARURO",
+    "prov_ubigeo": "071000",
+    "ubigeo": "071006",
+    "nombre": "OMACHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PARURO",
+    "prov_ubigeo": "071000",
+    "ubigeo": "071008",
+    "nombre": "PACCARITAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PARURO",
+    "prov_ubigeo": "071000",
+    "ubigeo": "071001",
+    "nombre": "PARURO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PARURO",
+    "prov_ubigeo": "071000",
+    "ubigeo": "071009",
+    "nombre": "PILLPINTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PARURO",
+    "prov_ubigeo": "071000",
+    "ubigeo": "071007",
+    "nombre": "YAURISQUE"
+  }
+]

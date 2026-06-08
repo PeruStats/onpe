@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040802",
+    "nombre": "ALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040803",
+    "nombre": "CHARCANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040801",
+    "nombre": "COTAHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040804",
+    "nombre": "HUAYNACOTAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040805",
+    "nombre": "PAMPAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040806",
+    "nombre": "PUYCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040807",
+    "nombre": "QUECHUALLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040808",
+    "nombre": "SAYLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040809",
+    "nombre": "TAURIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040810",
+    "nombre": "TOMEPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "LA UNIÓN",
+    "prov_ubigeo": "040800",
+    "ubigeo": "040811",
+    "nombre": "TORO"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170203",
+    "nombre": "CHOJATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170202",
+    "nombre": "COALAQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170204",
+    "nombre": "ICHUÑA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170205",
+    "nombre": "LA CAPILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170206",
+    "nombre": "LLOQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170207",
+    "nombre": "MATALAQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170201",
+    "nombre": "OMATE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170208",
+    "nombre": "PUQUINA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170209",
+    "nombre": "QUINISTAQUILLAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170210",
+    "nombre": "UBINAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "GENERAL SÁNCHEZ CERRO",
+    "prov_ubigeo": "170200",
+    "ubigeo": "170211",
+    "nombre": "YUNGA"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220111",
+    "nombre": "ALTO DE LA ALIANZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220102",
+    "nombre": "CALANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220112",
+    "nombre": "CIUDAD NUEVA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220113",
+    "nombre": "CORONEL GREGORIO ALBARRACÍN LANCHIPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220104",
+    "nombre": "INCLÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220114",
+    "nombre": "LA YARADA LOS PALOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220107",
+    "nombre": "PACHIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220108",
+    "nombre": "PALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220109",
+    "nombre": "POCOLLAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220110",
+    "nombre": "SAMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220101",
+    "nombre": "TACNA"
+  }
+]

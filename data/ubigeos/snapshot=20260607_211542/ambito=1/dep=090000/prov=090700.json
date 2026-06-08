@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PACHITEA",
+    "prov_ubigeo": "090700",
+    "ubigeo": "090702",
+    "nombre": "CHAGLLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PACHITEA",
+    "prov_ubigeo": "090700",
+    "ubigeo": "090704",
+    "nombre": "MOLINO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PACHITEA",
+    "prov_ubigeo": "090700",
+    "ubigeo": "090701",
+    "nombre": "PANAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PACHITEA",
+    "prov_ubigeo": "090700",
+    "ubigeo": "090706",
+    "nombre": "UMARI"
+  }
+]

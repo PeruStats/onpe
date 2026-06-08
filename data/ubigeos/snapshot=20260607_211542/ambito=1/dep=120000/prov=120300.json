@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SÁNCHEZ CARRIÓN",
+    "prov_ubigeo": "120300",
+    "ubigeo": "120304",
+    "nombre": "CHUGAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SÁNCHEZ CARRIÓN",
+    "prov_ubigeo": "120300",
+    "ubigeo": "120302",
+    "nombre": "COCHORCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SÁNCHEZ CARRIÓN",
+    "prov_ubigeo": "120300",
+    "ubigeo": "120303",
+    "nombre": "CURGOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SÁNCHEZ CARRIÓN",
+    "prov_ubigeo": "120300",
+    "ubigeo": "120301",
+    "nombre": "HUAMACHUCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SÁNCHEZ CARRIÓN",
+    "prov_ubigeo": "120300",
+    "ubigeo": "120305",
+    "nombre": "MARCABAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SÁNCHEZ CARRIÓN",
+    "prov_ubigeo": "120300",
+    "ubigeo": "120306",
+    "nombre": "SANAGORÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SÁNCHEZ CARRIÓN",
+    "prov_ubigeo": "120300",
+    "ubigeo": "120307",
+    "nombre": "SARÍN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SÁNCHEZ CARRIÓN",
+    "prov_ubigeo": "120300",
+    "ubigeo": "120308",
+    "nombre": "SARTIMBAMBA"
+  }
+]

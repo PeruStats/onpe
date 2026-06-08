@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080302",
+    "nombre": "ANCHONGA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080303",
+    "nombre": "CALLANMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080312",
+    "nombre": "CCOCHACCASA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080305",
+    "nombre": "CHINCHO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080304",
+    "nombre": "CONGALLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080306",
+    "nombre": "HUALLAY - GRANDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080307",
+    "nombre": "HUANCA-HUANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080308",
+    "nombre": "JULCAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080301",
+    "nombre": "LIRCAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080309",
+    "nombre": "SAN ANTONIO DE ANTAPARCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080310",
+    "nombre": "SANTO TOMÁS DE PATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080311",
+    "nombre": "SECCLLA"
+  }
+]

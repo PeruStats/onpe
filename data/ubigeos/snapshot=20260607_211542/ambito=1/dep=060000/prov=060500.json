@@ -1,0 +1,137 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060502",
+    "nombre": "CALLAYUC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060504",
+    "nombre": "CHOROS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060503",
+    "nombre": "CUJILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060501",
+    "nombre": "CUTERVO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060505",
+    "nombre": "LA RAMADA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060506",
+    "nombre": "PIMPINGOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060507",
+    "nombre": "QUEROCOTILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060508",
+    "nombre": "SAN ANDRÉS DE CUTERVO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060509",
+    "nombre": "SAN JUAN DE CUTERVO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060510",
+    "nombre": "SAN LUIS DE LUCMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060511",
+    "nombre": "SANTA CRUZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060512",
+    "nombre": "SANTO DOMINGO DE LA CAPILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060513",
+    "nombre": "SANTO TOMÁS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060514",
+    "nombre": "SOCOTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060515",
+    "nombre": "TORIBIO CASANOVA"
+  }
+]

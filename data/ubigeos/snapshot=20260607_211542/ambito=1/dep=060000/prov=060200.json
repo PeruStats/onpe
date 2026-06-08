@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJABAMBA",
+    "prov_ubigeo": "060200",
+    "ubigeo": "060202",
+    "nombre": "CACHACHI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJABAMBA",
+    "prov_ubigeo": "060200",
+    "ubigeo": "060201",
+    "nombre": "CAJABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJABAMBA",
+    "prov_ubigeo": "060200",
+    "ubigeo": "060203",
+    "nombre": "CONDEBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJABAMBA",
+    "prov_ubigeo": "060200",
+    "ubigeo": "060205",
+    "nombre": "SITACOCHA"
+  }
+]

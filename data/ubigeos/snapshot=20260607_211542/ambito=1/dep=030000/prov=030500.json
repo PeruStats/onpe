@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "COTABAMBAS",
+    "prov_ubigeo": "030500",
+    "ubigeo": "030506",
+    "nombre": "CHALLHUAHUACHO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "COTABAMBAS",
+    "prov_ubigeo": "030500",
+    "ubigeo": "030503",
+    "nombre": "COTABAMBAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "COTABAMBAS",
+    "prov_ubigeo": "030500",
+    "ubigeo": "030502",
+    "nombre": "COYLLURQUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "COTABAMBAS",
+    "prov_ubigeo": "030500",
+    "ubigeo": "030504",
+    "nombre": "HAQUIRA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "COTABAMBAS",
+    "prov_ubigeo": "030500",
+    "ubigeo": "030505",
+    "nombre": "MARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "COTABAMBAS",
+    "prov_ubigeo": "030500",
+    "ubigeo": "030501",
+    "nombre": "TAMBOBAMBA"
+  }
+]

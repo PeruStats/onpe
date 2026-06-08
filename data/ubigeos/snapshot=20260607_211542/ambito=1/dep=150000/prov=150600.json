@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MARISCAL RAMÓN CASTILLA",
+    "prov_ubigeo": "150600",
+    "ubigeo": "150602",
+    "nombre": "PEBAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MARISCAL RAMÓN CASTILLA",
+    "prov_ubigeo": "150600",
+    "ubigeo": "150601",
+    "nombre": "RAMÓN CASTILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MARISCAL RAMÓN CASTILLA",
+    "prov_ubigeo": "150600",
+    "ubigeo": "150604",
+    "nombre": "SAN PABLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MARISCAL RAMÓN CASTILLA",
+    "prov_ubigeo": "150600",
+    "ubigeo": "150605",
+    "nombre": "SANTA ROSA DE LORETO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MARISCAL RAMÓN CASTILLA",
+    "prov_ubigeo": "150600",
+    "ubigeo": "150603",
+    "nombre": "YAVARI"
+  }
+]

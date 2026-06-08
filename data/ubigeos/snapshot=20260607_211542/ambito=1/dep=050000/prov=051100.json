@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051102",
+    "nombre": "BELÉN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051103",
+    "nombre": "CHALCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051110",
+    "nombre": "CHILCAYOC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051109",
+    "nombre": "HUACAÑA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051111",
+    "nombre": "MORCOLLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051105",
+    "nombre": "PAICO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051101",
+    "nombre": "QUEROBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051107",
+    "nombre": "SAN PEDRO DE LARCAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051104",
+    "nombre": "SAN SALVADOR DE QUIJE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051106",
+    "nombre": "SANTIAGO DE PAUCARAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051108",
+    "nombre": "SORAS"
+  }
+]

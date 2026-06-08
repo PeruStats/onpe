@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "ASUNCIÓN",
+    "prov_ubigeo": "021800",
+    "ubigeo": "021802",
+    "nombre": "ACOCHACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "ASUNCIÓN",
+    "prov_ubigeo": "021800",
+    "ubigeo": "021801",
+    "nombre": "CHACAS"
+  }
+]

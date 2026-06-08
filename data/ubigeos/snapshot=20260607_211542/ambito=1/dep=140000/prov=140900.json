@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "BARRANCA",
+    "prov_ubigeo": "140900",
+    "ubigeo": "140901",
+    "nombre": "BARRANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "BARRANCA",
+    "prov_ubigeo": "140900",
+    "ubigeo": "140902",
+    "nombre": "PARAMONGA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "BARRANCA",
+    "prov_ubigeo": "140900",
+    "ubigeo": "140903",
+    "nombre": "PATIVILCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "BARRANCA",
+    "prov_ubigeo": "140900",
+    "ubigeo": "140904",
+    "nombre": "SUPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "BARRANCA",
+    "prov_ubigeo": "140900",
+    "ubigeo": "140905",
+    "nombre": "SUPE PUERTO"
+  }
+]

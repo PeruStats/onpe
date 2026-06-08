@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "VIRÚ",
+    "prov_ubigeo": "121200",
+    "ubigeo": "121202",
+    "nombre": "CHAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "VIRÚ",
+    "prov_ubigeo": "121200",
+    "ubigeo": "121203",
+    "nombre": "GUADALUPITO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "VIRÚ",
+    "prov_ubigeo": "121200",
+    "ubigeo": "121201",
+    "nombre": "VIRÚ"
+  }
+]

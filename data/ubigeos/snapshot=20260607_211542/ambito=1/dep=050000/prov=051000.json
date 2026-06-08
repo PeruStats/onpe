@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051002",
+    "nombre": "COLTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051003",
+    "nombre": "CORCULLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051004",
+    "nombre": "LAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051005",
+    "nombre": "MARCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051006",
+    "nombre": "OYOLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051007",
+    "nombre": "PARARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051001",
+    "nombre": "PAUSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051008",
+    "nombre": "SAN JAVIER DE ALPABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051009",
+    "nombre": "SAN JOSÉ DE USHUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051010",
+    "nombre": "SARA SARA"
+  }
+]

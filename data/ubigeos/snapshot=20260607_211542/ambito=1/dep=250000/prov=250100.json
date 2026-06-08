@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "CORONEL PORTILLO",
+    "prov_ubigeo": "250100",
+    "ubigeo": "250101",
+    "nombre": "CALLERIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "CORONEL PORTILLO",
+    "prov_ubigeo": "250100",
+    "ubigeo": "250104",
+    "nombre": "CAMPOVERDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "CORONEL PORTILLO",
+    "prov_ubigeo": "250100",
+    "ubigeo": "250105",
+    "nombre": "IPARÍA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "CORONEL PORTILLO",
+    "prov_ubigeo": "250100",
+    "ubigeo": "250107",
+    "nombre": "MANANTAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "CORONEL PORTILLO",
+    "prov_ubigeo": "250100",
+    "ubigeo": "250103",
+    "nombre": "MASISEA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "CORONEL PORTILLO",
+    "prov_ubigeo": "250100",
+    "ubigeo": "250106",
+    "nombre": "NUEVA REQUENA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "CORONEL PORTILLO",
+    "prov_ubigeo": "250100",
+    "ubigeo": "250102",
+    "nombre": "YARINACOCHA"
+  }
+]

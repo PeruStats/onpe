@@ -1,0 +1,128 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040502",
+    "nombre": "ANDAGUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040501",
+    "nombre": "APLAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040503",
+    "nombre": "AYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040504",
+    "nombre": "CHACHAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040505",
+    "nombre": "CHILCAYMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040506",
+    "nombre": "CHOCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040507",
+    "nombre": "HUANCARQUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040508",
+    "nombre": "MACHAGUAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040509",
+    "nombre": "ORCOPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040510",
+    "nombre": "PAMPACOLCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040511",
+    "nombre": "TIPAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040513",
+    "nombre": "UÑON"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040512",
+    "nombre": "URACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CASTILLA",
+    "prov_ubigeo": "040500",
+    "ubigeo": "040514",
+    "nombre": "VIRACO"
+  }
+]

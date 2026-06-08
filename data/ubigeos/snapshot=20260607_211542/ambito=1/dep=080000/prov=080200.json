@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ACOBAMBA",
+    "prov_ubigeo": "080200",
+    "ubigeo": "080201",
+    "nombre": "ACOBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ACOBAMBA",
+    "prov_ubigeo": "080200",
+    "ubigeo": "080203",
+    "nombre": "ANDABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ACOBAMBA",
+    "prov_ubigeo": "080200",
+    "ubigeo": "080202",
+    "nombre": "ANTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ACOBAMBA",
+    "prov_ubigeo": "080200",
+    "ubigeo": "080204",
+    "nombre": "CAJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ACOBAMBA",
+    "prov_ubigeo": "080200",
+    "ubigeo": "080205",
+    "nombre": "MARCAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ACOBAMBA",
+    "prov_ubigeo": "080200",
+    "ubigeo": "080206",
+    "nombre": "PAUCARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ACOBAMBA",
+    "prov_ubigeo": "080200",
+    "ubigeo": "080207",
+    "nombre": "POMACOCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ACOBAMBA",
+    "prov_ubigeo": "080200",
+    "ubigeo": "080208",
+    "nombre": "ROSARIO"
+  }
+]

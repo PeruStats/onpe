@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060301",
+    "nombre": "CELENDÍN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060303",
+    "nombre": "CHUMUCH"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060302",
+    "nombre": "CORTEGANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060304",
+    "nombre": "HUASMÍN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060305",
+    "nombre": "JORGE CHÁVEZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060306",
+    "nombre": "JOSÉ GÁLVEZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060312",
+    "nombre": "LA LIBERTAD DE PALLÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060307",
+    "nombre": "MIGUEL IGLESIAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060308",
+    "nombre": "OXAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060309",
+    "nombre": "SOROCHUCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060310",
+    "nombre": "SUCRE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060311",
+    "nombre": "UTCO"
+  }
+]

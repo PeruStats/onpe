@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "EMIRATOS ÁRABES UNIDOS",
+    "prov_ubigeo": "933700",
+    "ubigeo": "933702",
+    "nombre": "ABU DABI"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "EMIRATOS ÁRABES UNIDOS",
+    "prov_ubigeo": "933700",
+    "ubigeo": "933701",
+    "nombre": "DUBÁI"
+  }
+]

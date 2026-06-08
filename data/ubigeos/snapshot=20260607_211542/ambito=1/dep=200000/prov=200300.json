@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200302",
+    "nombre": "AJOYANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200303",
+    "nombre": "AYAPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200304",
+    "nombre": "COASA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200305",
+    "nombre": "CORANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200306",
+    "nombre": "CRUCERO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200307",
+    "nombre": "ITUATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200301",
+    "nombre": "MACUSANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200308",
+    "nombre": "OLLACHEA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200309",
+    "nombre": "SAN GABÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CARABAYA",
+    "prov_ubigeo": "200300",
+    "ubigeo": "200310",
+    "nombre": "USICAYOS"
+  }
+]

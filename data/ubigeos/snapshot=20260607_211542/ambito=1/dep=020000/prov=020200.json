@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "AIJA",
+    "prov_ubigeo": "020200",
+    "ubigeo": "020201",
+    "nombre": "AIJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "AIJA",
+    "prov_ubigeo": "020200",
+    "ubigeo": "020203",
+    "nombre": "CORIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "AIJA",
+    "prov_ubigeo": "020200",
+    "ubigeo": "020205",
+    "nombre": "HUACLLAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "AIJA",
+    "prov_ubigeo": "020200",
+    "ubigeo": "020206",
+    "nombre": "LA MERCED"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "AIJA",
+    "prov_ubigeo": "020200",
+    "ubigeo": "020208",
+    "nombre": "SUCCHA"
+  }
+]

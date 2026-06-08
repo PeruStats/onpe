@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "PADRE ABAD",
+    "prov_ubigeo": "250200",
+    "ubigeo": "250205",
+    "nombre": "ALEXANDER VON HUMBOLDT"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "PADRE ABAD",
+    "prov_ubigeo": "250200",
+    "ubigeo": "250206",
+    "nombre": "BOQUERÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "PADRE ABAD",
+    "prov_ubigeo": "250200",
+    "ubigeo": "250203",
+    "nombre": "CURIMANÁ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "PADRE ABAD",
+    "prov_ubigeo": "250200",
+    "ubigeo": "250207",
+    "nombre": "HUIPOCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "PADRE ABAD",
+    "prov_ubigeo": "250200",
+    "ubigeo": "250202",
+    "nombre": "IRAZOLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "PADRE ABAD",
+    "prov_ubigeo": "250200",
+    "ubigeo": "250204",
+    "nombre": "NESHUYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "PADRE ABAD",
+    "prov_ubigeo": "250200",
+    "ubigeo": "250201",
+    "nombre": "PADRE ABAD"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BOLIVIA",
+    "prov_ubigeo": "920400",
+    "ubigeo": "920401",
+    "nombre": "COCHABAMBA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BOLIVIA",
+    "prov_ubigeo": "920400",
+    "ubigeo": "920403",
+    "nombre": "LA PAZ"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BOLIVIA",
+    "prov_ubigeo": "920400",
+    "ubigeo": "920405",
+    "nombre": "SANTA CRUZ"
+  }
+]

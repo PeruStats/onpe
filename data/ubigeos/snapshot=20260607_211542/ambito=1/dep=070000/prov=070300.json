@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ANTA",
+    "prov_ubigeo": "070300",
+    "ubigeo": "070309",
+    "nombre": "ANCAHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ANTA",
+    "prov_ubigeo": "070300",
+    "ubigeo": "070301",
+    "nombre": "ANTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ANTA",
+    "prov_ubigeo": "070300",
+    "ubigeo": "070308",
+    "nombre": "CACHIMAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ANTA",
+    "prov_ubigeo": "070300",
+    "ubigeo": "070302",
+    "nombre": "CHINCHAYPUJIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ANTA",
+    "prov_ubigeo": "070300",
+    "ubigeo": "070303",
+    "nombre": "HUAROCONDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ANTA",
+    "prov_ubigeo": "070300",
+    "ubigeo": "070304",
+    "nombre": "LIMATAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ANTA",
+    "prov_ubigeo": "070300",
+    "ubigeo": "070305",
+    "nombre": "MOLLEPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ANTA",
+    "prov_ubigeo": "070300",
+    "ubigeo": "070306",
+    "nombre": "PUCYURA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ANTA",
+    "prov_ubigeo": "070300",
+    "ubigeo": "070307",
+    "nombre": "ZURITE"
+  }
+]

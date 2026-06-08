@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "HUALGAYOC",
+    "prov_ubigeo": "060700",
+    "ubigeo": "060701",
+    "nombre": "BAMBAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "HUALGAYOC",
+    "prov_ubigeo": "060700",
+    "ubigeo": "060702",
+    "nombre": "CHUGUR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "HUALGAYOC",
+    "prov_ubigeo": "060700",
+    "ubigeo": "060703",
+    "nombre": "HUALGAYOC"
+  }
+]

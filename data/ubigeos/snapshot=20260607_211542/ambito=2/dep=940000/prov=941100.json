@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "FRANCIA",
+    "prov_ubigeo": "941100",
+    "ubigeo": "941101",
+    "nombre": "BURDEOS"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "FRANCIA",
+    "prov_ubigeo": "941100",
+    "ubigeo": "941103",
+    "nombre": "ESTRASBURGO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "FRANCIA",
+    "prov_ubigeo": "941100",
+    "ubigeo": "941105",
+    "nombre": "LYON"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "FRANCIA",
+    "prov_ubigeo": "941100",
+    "ubigeo": "941106",
+    "nombre": "MARSELLA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "FRANCIA",
+    "prov_ubigeo": "941100",
+    "ubigeo": "941107",
+    "nombre": "NIZA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "FRANCIA",
+    "prov_ubigeo": "941100",
+    "ubigeo": "941108",
+    "nombre": "PARÍS"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "FRANCIA",
+    "prov_ubigeo": "941100",
+    "ubigeo": "941110",
+    "nombre": "TOULOUSE"
+  }
+]

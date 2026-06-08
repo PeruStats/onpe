@@ -1,0 +1,119 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180101",
+    "nombre": "CHAUPIMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180103",
+    "nombre": "HUACHÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180104",
+    "nombre": "HUARIACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180105",
+    "nombre": "HUAYLLAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180106",
+    "nombre": "NINACACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180107",
+    "nombre": "PALLANCHACRA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180108",
+    "nombre": "PAUCARTAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180109",
+    "nombre": "SAN FRANCISCO DE ASÍS DE YARUSYACÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180110",
+    "nombre": "SIMÓN BOLÍVAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180111",
+    "nombre": "TICLACAYÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180112",
+    "nombre": "TINYAHUARCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180113",
+    "nombre": "VICCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180114",
+    "nombre": "YANACANCHA"
+  }
+]

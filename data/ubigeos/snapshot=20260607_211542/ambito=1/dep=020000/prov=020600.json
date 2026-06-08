@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CORONGO",
+    "prov_ubigeo": "020600",
+    "ubigeo": "020602",
+    "nombre": "ACO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CORONGO",
+    "prov_ubigeo": "020600",
+    "ubigeo": "020603",
+    "nombre": "BAMBAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CORONGO",
+    "prov_ubigeo": "020600",
+    "ubigeo": "020601",
+    "nombre": "CORONGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CORONGO",
+    "prov_ubigeo": "020600",
+    "ubigeo": "020604",
+    "nombre": "CUSCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CORONGO",
+    "prov_ubigeo": "020600",
+    "ubigeo": "020605",
+    "nombre": "LA PAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CORONGO",
+    "prov_ubigeo": "020600",
+    "ubigeo": "020606",
+    "nombre": "YANAC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CORONGO",
+    "prov_ubigeo": "020600",
+    "ubigeo": "020607",
+    "nombre": "YUPAN"
+  }
+]

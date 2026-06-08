@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LAURICOCHA",
+    "prov_ubigeo": "091000",
+    "ubigeo": "091002",
+    "nombre": "BAÑOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LAURICOCHA",
+    "prov_ubigeo": "091000",
+    "ubigeo": "091001",
+    "nombre": "JESÚS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LAURICOCHA",
+    "prov_ubigeo": "091000",
+    "ubigeo": "091007",
+    "nombre": "JIVIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LAURICOCHA",
+    "prov_ubigeo": "091000",
+    "ubigeo": "091004",
+    "nombre": "QUEROPALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LAURICOCHA",
+    "prov_ubigeo": "091000",
+    "ubigeo": "091006",
+    "nombre": "RONDOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LAURICOCHA",
+    "prov_ubigeo": "091000",
+    "ubigeo": "091003",
+    "nombre": "SAN FRANCISCO DE ASÍS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LAURICOCHA",
+    "prov_ubigeo": "091000",
+    "ubigeo": "091005",
+    "nombre": "SAN MIGUEL DE CAURI"
+  }
+]

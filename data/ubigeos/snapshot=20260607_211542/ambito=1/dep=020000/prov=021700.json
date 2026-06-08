@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARLOS FERMÍN FITZCARRALD",
+    "prov_ubigeo": "021700",
+    "ubigeo": "021701",
+    "nombre": "SAN LUIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARLOS FERMÍN FITZCARRALD",
+    "prov_ubigeo": "021700",
+    "ubigeo": "021703",
+    "nombre": "SAN NICOLÁS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARLOS FERMÍN FITZCARRALD",
+    "prov_ubigeo": "021700",
+    "ubigeo": "021702",
+    "nombre": "YAUYA"
+  }
+]

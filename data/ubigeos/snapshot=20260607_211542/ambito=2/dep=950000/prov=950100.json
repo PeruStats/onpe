@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "OCEANÍA",
+    "dep_ubigeo": "950000",
+    "prov_name": "AUSTRALIA",
+    "prov_ubigeo": "950100",
+    "ubigeo": "950102",
+    "nombre": "BRISBANE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "OCEANÍA",
+    "dep_ubigeo": "950000",
+    "prov_name": "AUSTRALIA",
+    "prov_ubigeo": "950100",
+    "ubigeo": "950103",
+    "nombre": "CAMBERRA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "OCEANÍA",
+    "dep_ubigeo": "950000",
+    "prov_name": "AUSTRALIA",
+    "prov_ubigeo": "950100",
+    "ubigeo": "950104",
+    "nombre": "MELBOURNE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "OCEANÍA",
+    "dep_ubigeo": "950000",
+    "prov_name": "AUSTRALIA",
+    "prov_ubigeo": "950100",
+    "ubigeo": "950106",
+    "nombre": "PERTH"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "OCEANÍA",
+    "dep_ubigeo": "950000",
+    "prov_name": "AUSTRALIA",
+    "prov_ubigeo": "950100",
+    "ubigeo": "950105",
+    "nombre": "SÍDNEY"
+  }
+]

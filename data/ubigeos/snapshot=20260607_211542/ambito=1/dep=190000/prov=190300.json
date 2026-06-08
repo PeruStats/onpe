@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "HUANCABAMBA",
+    "prov_ubigeo": "190300",
+    "ubigeo": "190302",
+    "nombre": "CANCHAQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "HUANCABAMBA",
+    "prov_ubigeo": "190300",
+    "ubigeo": "190306",
+    "nombre": "EL CARMEN DE LA FRONTERA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "HUANCABAMBA",
+    "prov_ubigeo": "190300",
+    "ubigeo": "190301",
+    "nombre": "HUANCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "HUANCABAMBA",
+    "prov_ubigeo": "190300",
+    "ubigeo": "190303",
+    "nombre": "HUARMACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "HUANCABAMBA",
+    "prov_ubigeo": "190300",
+    "ubigeo": "190308",
+    "nombre": "LALAQUIZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "HUANCABAMBA",
+    "prov_ubigeo": "190300",
+    "ubigeo": "190307",
+    "nombre": "SAN MIGUEL DE EL FAIQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "HUANCABAMBA",
+    "prov_ubigeo": "190300",
+    "ubigeo": "190304",
+    "nombre": "SONDOR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "HUANCABAMBA",
+    "prov_ubigeo": "190300",
+    "ubigeo": "190305",
+    "nombre": "SONDORILLO"
+  }
+]

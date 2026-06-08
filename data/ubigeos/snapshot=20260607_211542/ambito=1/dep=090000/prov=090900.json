@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUACAYBAMBA",
+    "prov_ubigeo": "090900",
+    "ubigeo": "090903",
+    "nombre": "CANCHABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUACAYBAMBA",
+    "prov_ubigeo": "090900",
+    "ubigeo": "090904",
+    "nombre": "COCHABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUACAYBAMBA",
+    "prov_ubigeo": "090900",
+    "ubigeo": "090901",
+    "nombre": "HUACAYBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUACAYBAMBA",
+    "prov_ubigeo": "090900",
+    "ubigeo": "090902",
+    "nombre": "PINRA"
+  }
+]

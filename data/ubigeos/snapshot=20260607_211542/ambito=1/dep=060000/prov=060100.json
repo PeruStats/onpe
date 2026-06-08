@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060102",
+    "nombre": "ASUNCIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060101",
+    "nombre": "CAJAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060104",
+    "nombre": "CHETILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060103",
+    "nombre": "COSPAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060105",
+    "nombre": "ENCAÑADA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060106",
+    "nombre": "JESÚS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060108",
+    "nombre": "LLACANORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060107",
+    "nombre": "LOS BAÑOS DEL INCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060109",
+    "nombre": "MAGDALENA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060110",
+    "nombre": "MATARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060111",
+    "nombre": "NAMORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060112",
+    "nombre": "SAN JUAN"
+  }
+]

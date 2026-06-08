@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140802",
+    "nombre": "ATAVILLOS ALTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140803",
+    "nombre": "ATAVILLOS BAJO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140804",
+    "nombre": "AUCALLAMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140805",
+    "nombre": "CHANCAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140801",
+    "nombre": "HUARAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140806",
+    "nombre": "IHUARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140807",
+    "nombre": "LAMPIAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140808",
+    "nombre": "PACARAOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140809",
+    "nombre": "SAN MIGUEL DE ACOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140811",
+    "nombre": "SANTA CRUZ DE ANDAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140812",
+    "nombre": "SUMBILCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140810",
+    "nombre": "VEINTISIETE DE NOVIEMBRE"
+  }
+]

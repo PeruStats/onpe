@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "EL COLLAO",
+    "prov_ubigeo": "201200",
+    "ubigeo": "201204",
+    "nombre": "CAPASO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "EL COLLAO",
+    "prov_ubigeo": "201200",
+    "ubigeo": "201205",
+    "nombre": "CONDURIRI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "EL COLLAO",
+    "prov_ubigeo": "201200",
+    "ubigeo": "201201",
+    "nombre": "ILAVE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "EL COLLAO",
+    "prov_ubigeo": "201200",
+    "ubigeo": "201202",
+    "nombre": "PILCUYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "EL COLLAO",
+    "prov_ubigeo": "201200",
+    "ubigeo": "201203",
+    "nombre": "SANTA ROSA"
+  }
+]

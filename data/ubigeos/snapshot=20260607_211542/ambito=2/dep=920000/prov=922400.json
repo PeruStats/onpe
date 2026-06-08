@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "REPÚBLICA DOMINICANA",
+    "prov_ubigeo": "922400",
+    "ubigeo": "922403",
+    "nombre": "SANTIAGO DE LOS CABALLEROS"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "REPÚBLICA DOMINICANA",
+    "prov_ubigeo": "922400",
+    "ubigeo": "922401",
+    "nombre": "SANTO DOMINGO"
+  }
+]

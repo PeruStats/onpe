@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "MARISCAL LUZURIAGA",
+    "prov_ubigeo": "020900",
+    "ubigeo": "020902",
+    "nombre": "CASCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "MARISCAL LUZURIAGA",
+    "prov_ubigeo": "020900",
+    "ubigeo": "020908",
+    "nombre": "ELEAZAR GUZMÁN BARRÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "MARISCAL LUZURIAGA",
+    "prov_ubigeo": "020900",
+    "ubigeo": "020904",
+    "nombre": "FIDEL OLIVAS ESCUDERO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "MARISCAL LUZURIAGA",
+    "prov_ubigeo": "020900",
+    "ubigeo": "020905",
+    "nombre": "LLAMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "MARISCAL LUZURIAGA",
+    "prov_ubigeo": "020900",
+    "ubigeo": "020906",
+    "nombre": "LLUMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "MARISCAL LUZURIAGA",
+    "prov_ubigeo": "020900",
+    "ubigeo": "020903",
+    "nombre": "LUCMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "MARISCAL LUZURIAGA",
+    "prov_ubigeo": "020900",
+    "ubigeo": "020907",
+    "nombre": "MUSGA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "MARISCAL LUZURIAGA",
+    "prov_ubigeo": "020900",
+    "ubigeo": "020901",
+    "nombre": "PISCOBAMBA"
+  }
+]

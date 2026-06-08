@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071202",
+    "nombre": "ANDAHUAYLILLAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071203",
+    "nombre": "CAMANTI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071204",
+    "nombre": "CCARHUAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071205",
+    "nombre": "CCATCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071206",
+    "nombre": "CUSIPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071207",
+    "nombre": "HUARO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071208",
+    "nombre": "LUCRE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071209",
+    "nombre": "MARCAPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071210",
+    "nombre": "OCONGATE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071211",
+    "nombre": "OROPESA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071212",
+    "nombre": "QUIQUIJANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071201",
+    "nombre": "URCOS"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "REPÚBLICA POPULAR CHINA",
+    "prov_ubigeo": "930200",
+    "ubigeo": "930201",
+    "nombre": "BEIJING (PEKIN)"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "REPÚBLICA POPULAR CHINA",
+    "prov_ubigeo": "930200",
+    "ubigeo": "930232",
+    "nombre": "GUANGZHOU"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "REPÚBLICA POPULAR CHINA",
+    "prov_ubigeo": "930200",
+    "ubigeo": "930226",
+    "nombre": "REGION ADMINISTRATIVA ESPECIAL HONG KONG"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "REPÚBLICA POPULAR CHINA",
+    "prov_ubigeo": "930200",
+    "ubigeo": "930206",
+    "nombre": "SHANGHÁI"
+  }
+]

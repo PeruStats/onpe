@@ -1,0 +1,191 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050502",
+    "nombre": "AUCARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050503",
+    "nombre": "CABANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050504",
+    "nombre": "CARMEN SALCEDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050506",
+    "nombre": "CHAVIÑA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050508",
+    "nombre": "CHIPAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050510",
+    "nombre": "HUAC-HUAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050511",
+    "nombre": "LARAMATE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050512",
+    "nombre": "LEONCIO PRADO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050514",
+    "nombre": "LLAUTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050513",
+    "nombre": "LUCANAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050516",
+    "nombre": "OCAÑA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050517",
+    "nombre": "OTOCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050501",
+    "nombre": "PUQUIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050529",
+    "nombre": "SAISA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050520",
+    "nombre": "SANCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050532",
+    "nombre": "SAN CRISTÓBAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050521",
+    "nombre": "SAN JUAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050522",
+    "nombre": "SAN PEDRO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050531",
+    "nombre": "SAN PEDRO DE PALCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050524",
+    "nombre": "SANTA ANA DE HUAYCAHUACHO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050525",
+    "nombre": "SANTA LUCÍA"
+  }
+]

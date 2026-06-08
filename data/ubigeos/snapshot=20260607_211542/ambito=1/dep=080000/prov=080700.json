@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080702",
+    "nombre": "ANCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080703",
+    "nombre": "CHINCHIHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080701",
+    "nombre": "CHURCAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080711",
+    "nombre": "COSME"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080704",
+    "nombre": "EL CARMEN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080705",
+    "nombre": "LA MERCED"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080706",
+    "nombre": "LOCROJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080710",
+    "nombre": "PACHAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080707",
+    "nombre": "PAUCARBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080708",
+    "nombre": "SAN MIGUEL DE MAYOCC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "CHURCAMPA",
+    "prov_ubigeo": "080700",
+    "ubigeo": "080709",
+    "nombre": "SAN PEDRO DE CORIS"
+  }
+]

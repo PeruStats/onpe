@@ -1,0 +1,128 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940935",
+    "nombre": "ALMERÍA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940902",
+    "nombre": "BARCELONA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940903",
+    "nombre": "BILBAO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940909",
+    "nombre": "LAS PALMAS"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940910",
+    "nombre": "MADRID"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940911",
+    "nombre": "MÁLAGA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940913",
+    "nombre": "MALLORCA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940931",
+    "nombre": "OVIEDO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940905",
+    "nombre": "SALAMANCA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940918",
+    "nombre": "SEVILLA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940915",
+    "nombre": "TENERIFE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940920",
+    "nombre": "VALENCIA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940922",
+    "nombre": "VIGO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ESPAÑA",
+    "prov_ubigeo": "940900",
+    "ubigeo": "940917",
+    "nombre": "ZARAGOZA"
+  }
+]

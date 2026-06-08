@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091102",
+    "nombre": "APARICIO POMARES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091103",
+    "nombre": "CAHUAC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091104",
+    "nombre": "CHACABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091101",
+    "nombre": "CHAVINILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091108",
+    "nombre": "CHORAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091105",
+    "nombre": "JACAS CHICO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091106",
+    "nombre": "OBAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091107",
+    "nombre": "PAMPAMARCA"
+  }
+]

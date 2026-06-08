@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "DATEM DEL MARAÑÓN",
+    "prov_ubigeo": "150700",
+    "ubigeo": "150702",
+    "nombre": "ANDOAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "DATEM DEL MARAÑÓN",
+    "prov_ubigeo": "150700",
+    "ubigeo": "150701",
+    "nombre": "BARRANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "DATEM DEL MARAÑÓN",
+    "prov_ubigeo": "150700",
+    "ubigeo": "150703",
+    "nombre": "CAHUAPANAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "DATEM DEL MARAÑÓN",
+    "prov_ubigeo": "150700",
+    "ubigeo": "150704",
+    "nombre": "MANSERICHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "DATEM DEL MARAÑÓN",
+    "prov_ubigeo": "150700",
+    "ubigeo": "150705",
+    "nombre": "MORONA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "DATEM DEL MARAÑÓN",
+    "prov_ubigeo": "150700",
+    "ubigeo": "150706",
+    "nombre": "PASTAZA"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "CHEPÉN",
+    "prov_ubigeo": "120900",
+    "ubigeo": "120901",
+    "nombre": "CHEPÉN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "CHEPÉN",
+    "prov_ubigeo": "120900",
+    "ubigeo": "120902",
+    "nombre": "PACANGA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "CHEPÉN",
+    "prov_ubigeo": "120900",
+    "ubigeo": "120903",
+    "nombre": "PUEBLO NUEVO"
+  }
+]

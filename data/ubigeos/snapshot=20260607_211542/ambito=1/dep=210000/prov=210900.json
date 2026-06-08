@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210902",
+    "nombre": "BUENOS AIRES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210903",
+    "nombre": "CASPISAPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210901",
+    "nombre": "PICOTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210904",
+    "nombre": "PILLUANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210905",
+    "nombre": "PUCACACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210906",
+    "nombre": "SAN CRISTÓBAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210907",
+    "nombre": "SAN HILARIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210910",
+    "nombre": "SHAMBOYACU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210908",
+    "nombre": "TINGO DE PONASA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "PICOTA",
+    "prov_ubigeo": "210900",
+    "ubigeo": "210909",
+    "nombre": "TRES UNIDOS"
+  }
+]

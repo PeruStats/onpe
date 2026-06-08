@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PACASMAYO",
+    "prov_ubigeo": "120500",
+    "ubigeo": "120503",
+    "nombre": "GUADALUPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PACASMAYO",
+    "prov_ubigeo": "120500",
+    "ubigeo": "120504",
+    "nombre": "JEQUETEPEQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PACASMAYO",
+    "prov_ubigeo": "120500",
+    "ubigeo": "120506",
+    "nombre": "PACASMAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PACASMAYO",
+    "prov_ubigeo": "120500",
+    "ubigeo": "120508",
+    "nombre": "SAN JOSÉ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PACASMAYO",
+    "prov_ubigeo": "120500",
+    "ubigeo": "120501",
+    "nombre": "SAN PEDRO DE LLOC"
+  }
+]

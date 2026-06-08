@@ -1,0 +1,146 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080601",
+    "nombre": "AYAVI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080602",
+    "nombre": "CÓRDOVA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080603",
+    "nombre": "HUAYACUNDO ARMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080604",
+    "nombre": "HUAYTARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080605",
+    "nombre": "LARAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080606",
+    "nombre": "OCOYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080607",
+    "nombre": "PILPICHACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080608",
+    "nombre": "QUERCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080609",
+    "nombre": "QUITO-ARMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080610",
+    "nombre": "SAN ANTONIO DE CUSICANCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080611",
+    "nombre": "SAN FRANCISCO DE SANGAYAICO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080612",
+    "nombre": "SAN ISIDRO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080613",
+    "nombre": "SANTIAGO DE CHOCORVOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080614",
+    "nombre": "SANTIAGO DE QUIRAHUARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080615",
+    "nombre": "SANTO DOMINGO DE CAPILLAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUAYTARA",
+    "prov_ubigeo": "080600",
+    "ubigeo": "080616",
+    "nombre": "TAMBO"
+  }
+]

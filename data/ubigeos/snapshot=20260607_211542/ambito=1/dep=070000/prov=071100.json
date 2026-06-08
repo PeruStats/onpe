@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PAUCARTAMBO",
+    "prov_ubigeo": "071100",
+    "ubigeo": "071102",
+    "nombre": "CAICAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PAUCARTAMBO",
+    "prov_ubigeo": "071100",
+    "ubigeo": "071104",
+    "nombre": "CHALLABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PAUCARTAMBO",
+    "prov_ubigeo": "071100",
+    "ubigeo": "071103",
+    "nombre": "COLQUEPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PAUCARTAMBO",
+    "prov_ubigeo": "071100",
+    "ubigeo": "071106",
+    "nombre": "HUANCARANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PAUCARTAMBO",
+    "prov_ubigeo": "071100",
+    "ubigeo": "071105",
+    "nombre": "KOSÑIPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PAUCARTAMBO",
+    "prov_ubigeo": "071100",
+    "ubigeo": "071101",
+    "nombre": "PAUCARTAMBO"
+  }
+]

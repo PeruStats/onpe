@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "SUECIA",
+    "prov_ubigeo": "942700",
+    "ubigeo": "942701",
+    "nombre": "ESTOCOLMO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "SUECIA",
+    "prov_ubigeo": "942700",
+    "ubigeo": "942703",
+    "nombre": "MALMO"
+  }
+]

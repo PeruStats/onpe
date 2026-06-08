@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "UCAYALI",
+    "prov_ubigeo": "150500",
+    "ubigeo": "150501",
+    "nombre": "CONTAMANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "UCAYALI",
+    "prov_ubigeo": "150500",
+    "ubigeo": "150506",
+    "nombre": "INAHUAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "UCAYALI",
+    "prov_ubigeo": "150500",
+    "ubigeo": "150503",
+    "nombre": "PADRE MÁRQUEZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "UCAYALI",
+    "prov_ubigeo": "150500",
+    "ubigeo": "150504",
+    "nombre": "PAMPA HERMOSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "UCAYALI",
+    "prov_ubigeo": "150500",
+    "ubigeo": "150505",
+    "nombre": "SARAYACU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "UCAYALI",
+    "prov_ubigeo": "150500",
+    "ubigeo": "150502",
+    "nombre": "VARGAS GUERRA"
+  }
+]

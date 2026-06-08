@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "ZARUMILLA",
+    "prov_ubigeo": "230300",
+    "ubigeo": "230304",
+    "nombre": "AGUAS VERDES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "ZARUMILLA",
+    "prov_ubigeo": "230300",
+    "ubigeo": "230302",
+    "nombre": "MATAPALO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "ZARUMILLA",
+    "prov_ubigeo": "230300",
+    "ubigeo": "230303",
+    "nombre": "PAPAYAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "ZARUMILLA",
+    "prov_ubigeo": "230300",
+    "ubigeo": "230301",
+    "nombre": "ZARUMILLA"
+  }
+]

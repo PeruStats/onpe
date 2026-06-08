@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ROMÁN",
+    "prov_ubigeo": "200900",
+    "ubigeo": "200902",
+    "nombre": "CABANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ROMÁN",
+    "prov_ubigeo": "200900",
+    "ubigeo": "200903",
+    "nombre": "CABANILLAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ROMÁN",
+    "prov_ubigeo": "200900",
+    "ubigeo": "200904",
+    "nombre": "CARACOTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ROMÁN",
+    "prov_ubigeo": "200900",
+    "ubigeo": "200901",
+    "nombre": "JULIACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ROMÁN",
+    "prov_ubigeo": "200900",
+    "ubigeo": "200905",
+    "nombre": "SAN MIGUEL"
+  }
+]

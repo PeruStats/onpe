@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MOHO",
+    "prov_ubigeo": "201300",
+    "ubigeo": "201302",
+    "nombre": "CONIMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MOHO",
+    "prov_ubigeo": "201300",
+    "ubigeo": "201304",
+    "nombre": "HUAYRAPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MOHO",
+    "prov_ubigeo": "201300",
+    "ubigeo": "201301",
+    "nombre": "MOHO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MOHO",
+    "prov_ubigeo": "201300",
+    "ubigeo": "201303",
+    "nombre": "TILALI"
+  }
+]

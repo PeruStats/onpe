@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "HUANCANÉ",
+    "prov_ubigeo": "200500",
+    "ubigeo": "200502",
+    "nombre": "COJATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "HUANCANÉ",
+    "prov_ubigeo": "200500",
+    "ubigeo": "200501",
+    "nombre": "HUANCANÉ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "HUANCANÉ",
+    "prov_ubigeo": "200500",
+    "ubigeo": "200511",
+    "nombre": "HUATASANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "HUANCANÉ",
+    "prov_ubigeo": "200500",
+    "ubigeo": "200504",
+    "nombre": "INCHUPALLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "HUANCANÉ",
+    "prov_ubigeo": "200500",
+    "ubigeo": "200506",
+    "nombre": "PUSI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "HUANCANÉ",
+    "prov_ubigeo": "200500",
+    "ubigeo": "200507",
+    "nombre": "ROSASPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "HUANCANÉ",
+    "prov_ubigeo": "200500",
+    "ubigeo": "200508",
+    "nombre": "TARACO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "HUANCANÉ",
+    "prov_ubigeo": "200500",
+    "ubigeo": "200509",
+    "nombre": "VILQUE CHICO"
+  }
+]

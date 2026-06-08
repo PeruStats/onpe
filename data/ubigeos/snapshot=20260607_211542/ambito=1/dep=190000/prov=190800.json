@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SECHURA",
+    "prov_ubigeo": "190800",
+    "ubigeo": "190804",
+    "nombre": "BELLAVISTA DE LA UNIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SECHURA",
+    "prov_ubigeo": "190800",
+    "ubigeo": "190803",
+    "nombre": "BERNAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SECHURA",
+    "prov_ubigeo": "190800",
+    "ubigeo": "190805",
+    "nombre": "CRISTO NOS VALGA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SECHURA",
+    "prov_ubigeo": "190800",
+    "ubigeo": "190806",
+    "nombre": "RINCONADA LLICUAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SECHURA",
+    "prov_ubigeo": "190800",
+    "ubigeo": "190801",
+    "nombre": "SECHURA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SECHURA",
+    "prov_ubigeo": "190800",
+    "ubigeo": "190802",
+    "nombre": "VICE"
+  }
+]

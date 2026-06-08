@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140502",
+    "nombre": "AMBAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140504",
+    "nombre": "CALETA DE CARQUIN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140505",
+    "nombre": "CHECRAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140501",
+    "nombre": "HUACHO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140506",
+    "nombre": "HUALMAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140507",
+    "nombre": "HUAURA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140508",
+    "nombre": "LEONCIO PRADO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140509",
+    "nombre": "PACCHO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140511",
+    "nombre": "SANTA LEONOR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140512",
+    "nombre": "SANTA MARÍA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140513",
+    "nombre": "SAYAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140516",
+    "nombre": "VEGUETA"
+  }
+]

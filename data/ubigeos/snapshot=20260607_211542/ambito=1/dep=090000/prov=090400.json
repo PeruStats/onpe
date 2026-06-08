@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090402",
+    "nombre": "ARANCAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090403",
+    "nombre": "CHAVÍN DE PARIARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090404",
+    "nombre": "JACAS GRANDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090405",
+    "nombre": "JIRCÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090401",
+    "nombre": "LLATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090406",
+    "nombre": "MIRAFLORES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090407",
+    "nombre": "MONZÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090408",
+    "nombre": "PUNCHAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090409",
+    "nombre": "PUÑOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090410",
+    "nombre": "SINGA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUAMALIES",
+    "prov_ubigeo": "090400",
+    "ubigeo": "090411",
+    "nombre": "TANTAMAYO"
+  }
+]

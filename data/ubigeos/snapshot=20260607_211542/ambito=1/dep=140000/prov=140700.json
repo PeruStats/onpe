@@ -1,0 +1,299 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140702",
+    "nombre": "ALIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140703",
+    "nombre": "ALLAUCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140704",
+    "nombre": "AYAVIRI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140705",
+    "nombre": "AZÁNGARO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140706",
+    "nombre": "CACRA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140707",
+    "nombre": "CARANIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140733",
+    "nombre": "CATAHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140710",
+    "nombre": "CHOCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140708",
+    "nombre": "COCHAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140709",
+    "nombre": "COLONIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140730",
+    "nombre": "HONGOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140711",
+    "nombre": "HUAMPARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140712",
+    "nombre": "HUANCAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140713",
+    "nombre": "HUANGASCAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140714",
+    "nombre": "HUANTAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140715",
+    "nombre": "HUAÑEC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140716",
+    "nombre": "LARAOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140717",
+    "nombre": "LINCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140731",
+    "nombre": "MADEAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140718",
+    "nombre": "MIRAFLORES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140719",
+    "nombre": "OMAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140732",
+    "nombre": "PUTINZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140720",
+    "nombre": "QUINCHES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140721",
+    "nombre": "QUINOCAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140722",
+    "nombre": "SAN JOAQUÍN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140723",
+    "nombre": "SAN PEDRO DE PILAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140724",
+    "nombre": "TANTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140725",
+    "nombre": "TAURIPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140727",
+    "nombre": "TOMÁS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140726",
+    "nombre": "TUPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140728",
+    "nombre": "VIÑAC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140729",
+    "nombre": "VITIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140701",
+    "nombre": "YAUYOS"
+  }
+]

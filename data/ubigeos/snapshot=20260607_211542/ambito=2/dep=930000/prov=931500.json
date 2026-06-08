@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "TURQUÍA",
+    "prov_ubigeo": "931500",
+    "ubigeo": "931503",
+    "nombre": "ANKARA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "ASIA",
+    "dep_ubigeo": "930000",
+    "prov_name": "TURQUÍA",
+    "prov_ubigeo": "931500",
+    "ubigeo": "931501",
+    "nombre": "ESTAMBUL"
+  }
+]

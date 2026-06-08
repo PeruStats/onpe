@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010304",
+    "nombre": "CHISQUILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010305",
+    "nombre": "CHURUJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010302",
+    "nombre": "COROSHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010303",
+    "nombre": "CUISPES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010306",
+    "nombre": "FLORIDA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010312",
+    "nombre": "JAZAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010301",
+    "nombre": "JUMBILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010307",
+    "nombre": "RECTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010308",
+    "nombre": "SAN CARLOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010309",
+    "nombre": "SHIPASBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010310",
+    "nombre": "VALERA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010311",
+    "nombre": "YAMBRASBAMBA"
+  }
+]

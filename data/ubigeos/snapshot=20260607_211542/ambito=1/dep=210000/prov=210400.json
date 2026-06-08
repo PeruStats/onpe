@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MARISCAL CÁCERES",
+    "prov_ubigeo": "210400",
+    "ubigeo": "210402",
+    "nombre": "CAMPANILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MARISCAL CÁCERES",
+    "prov_ubigeo": "210400",
+    "ubigeo": "210403",
+    "nombre": "HUICUNGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MARISCAL CÁCERES",
+    "prov_ubigeo": "210400",
+    "ubigeo": "210401",
+    "nombre": "JUANJUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MARISCAL CÁCERES",
+    "prov_ubigeo": "210400",
+    "ubigeo": "210404",
+    "nombre": "PACHIZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MARISCAL CÁCERES",
+    "prov_ubigeo": "210400",
+    "ubigeo": "210405",
+    "nombre": "PAJARILLO"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "ASCOPE",
+    "prov_ubigeo": "120800",
+    "ubigeo": "120801",
+    "nombre": "ASCOPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "ASCOPE",
+    "prov_ubigeo": "120800",
+    "ubigeo": "120808",
+    "nombre": "CASA GRANDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "ASCOPE",
+    "prov_ubigeo": "120800",
+    "ubigeo": "120802",
+    "nombre": "CHICAMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "ASCOPE",
+    "prov_ubigeo": "120800",
+    "ubigeo": "120803",
+    "nombre": "CHOCOPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "ASCOPE",
+    "prov_ubigeo": "120800",
+    "ubigeo": "120805",
+    "nombre": "MAGDALENA DE CAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "ASCOPE",
+    "prov_ubigeo": "120800",
+    "ubigeo": "120806",
+    "nombre": "PAIJÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "ASCOPE",
+    "prov_ubigeo": "120800",
+    "ubigeo": "120807",
+    "nombre": "RÁZURI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "ASCOPE",
+    "prov_ubigeo": "120800",
+    "ubigeo": "120804",
+    "nombre": "SANTIAGO DE CAO"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110902",
+    "nombre": "AHUAC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110903",
+    "nombre": "CHONGOS BAJO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110901",
+    "nombre": "CHUPACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110904",
+    "nombre": "HUACHAC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110905",
+    "nombre": "HUAMANCACA CHICO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110906",
+    "nombre": "SAN JUAN DE ISCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110907",
+    "nombre": "SAN JUAN DE JARPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110908",
+    "nombre": "TRES DE DICIEMBRE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110909",
+    "nombre": "YANACANCHA"
+  }
+]

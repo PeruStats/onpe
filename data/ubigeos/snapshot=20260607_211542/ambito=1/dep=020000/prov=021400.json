@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021407",
+    "nombre": "ACOBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021402",
+    "nombre": "ALFONSO UGARTE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021408",
+    "nombre": "CASHAPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021403",
+    "nombre": "CHINGALPO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021404",
+    "nombre": "HUAYLLABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021405",
+    "nombre": "QUICHES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021409",
+    "nombre": "RAGASH"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021410",
+    "nombre": "SAN JUAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021406",
+    "nombre": "SICSIBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SIHUAS",
+    "prov_ubigeo": "021400",
+    "ubigeo": "021401",
+    "nombre": "SIHUAS"
+  }
+]

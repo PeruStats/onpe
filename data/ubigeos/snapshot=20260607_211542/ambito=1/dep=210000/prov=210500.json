@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210509",
+    "nombre": "AWAJUN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210506",
+    "nombre": "ELÍAS SOPLÍN VARGAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210505",
+    "nombre": "NUEVA CAJAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210508",
+    "nombre": "PARDO MIGUEL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210502",
+    "nombre": "POSIC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210501",
+    "nombre": "RIOJA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210507",
+    "nombre": "SAN FERNANDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210503",
+    "nombre": "YORONGOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210504",
+    "nombre": "YURACYACU"
+  }
+]

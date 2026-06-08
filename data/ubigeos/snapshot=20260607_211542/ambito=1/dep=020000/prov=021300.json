@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021302",
+    "nombre": "CACERES DEL PERÚ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021301",
+    "nombre": "CHIMBOTE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021308",
+    "nombre": "COISHCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021303",
+    "nombre": "MACATE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021304",
+    "nombre": "MORO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021305",
+    "nombre": "NEPEÑA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021309",
+    "nombre": "NUEVO CHIMBOTE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021306",
+    "nombre": "SAMANCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021307",
+    "nombre": "SANTA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CUSCO",
+    "prov_ubigeo": "070100",
+    "ubigeo": "070102",
+    "nombre": "CCORCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CUSCO",
+    "prov_ubigeo": "070100",
+    "ubigeo": "070101",
+    "nombre": "CUSCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CUSCO",
+    "prov_ubigeo": "070100",
+    "ubigeo": "070103",
+    "nombre": "POROY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CUSCO",
+    "prov_ubigeo": "070100",
+    "ubigeo": "070104",
+    "nombre": "SAN JERÓNIMO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CUSCO",
+    "prov_ubigeo": "070100",
+    "ubigeo": "070105",
+    "nombre": "SAN SEBASTIÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CUSCO",
+    "prov_ubigeo": "070100",
+    "ubigeo": "070106",
+    "nombre": "SANTIAGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CUSCO",
+    "prov_ubigeo": "070100",
+    "ubigeo": "070107",
+    "nombre": "SAYLLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CUSCO",
+    "prov_ubigeo": "070100",
+    "ubigeo": "070108",
+    "nombre": "WANCHAQ"
+  }
+]

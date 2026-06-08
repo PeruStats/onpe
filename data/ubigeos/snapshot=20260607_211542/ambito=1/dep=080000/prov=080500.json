@@ -1,0 +1,209 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080502",
+    "nombre": "ACOSTAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080503",
+    "nombre": "ACRAQUIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080504",
+    "nombre": "AHUAYCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080529",
+    "nombre": "ANDAYMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080534",
+    "nombre": "COCHABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080506",
+    "nombre": "COLCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080509",
+    "nombre": "DANIEL HERNANDEZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080511",
+    "nombre": "HUACHOCOLPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080512",
+    "nombre": "HUARIBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080533",
+    "nombre": "LAMBRAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080515",
+    "nombre": "ÑAHUIMPUQUIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080501",
+    "nombre": "PAMPAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080517",
+    "nombre": "PAZOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080531",
+    "nombre": "PICHOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080528",
+    "nombre": "QUICHUAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080518",
+    "nombre": "QUISHUAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080530",
+    "nombre": "ROBLE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080519",
+    "nombre": "SALCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080526",
+    "nombre": "SALCAHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080520",
+    "nombre": "SAN MARCOS DE ROCCHAC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080532",
+    "nombre": "SANTIAGO DE TUCUMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080523",
+    "nombre": "SURCUBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080525",
+    "nombre": "TINTAY PUNCU"
+  }
+]

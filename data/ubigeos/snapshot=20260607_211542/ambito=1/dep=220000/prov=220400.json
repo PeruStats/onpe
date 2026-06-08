@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "CANDARAVE",
+    "prov_ubigeo": "220400",
+    "ubigeo": "220402",
+    "nombre": "CAIRANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "CANDARAVE",
+    "prov_ubigeo": "220400",
+    "ubigeo": "220406",
+    "nombre": "CAMILACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "CANDARAVE",
+    "prov_ubigeo": "220400",
+    "ubigeo": "220401",
+    "nombre": "CANDARAVE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "CANDARAVE",
+    "prov_ubigeo": "220400",
+    "ubigeo": "220403",
+    "nombre": "CURIBAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "CANDARAVE",
+    "prov_ubigeo": "220400",
+    "ubigeo": "220404",
+    "nombre": "HUANUARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "CANDARAVE",
+    "prov_ubigeo": "220400",
+    "ubigeo": "220405",
+    "nombre": "QUILAHUANI"
+  }
+]

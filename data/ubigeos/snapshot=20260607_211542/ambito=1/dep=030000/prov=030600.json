@@ -1,0 +1,128 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030601",
+    "nombre": "CHUQUIBAMBILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030614",
+    "nombre": "CURASCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030602",
+    "nombre": "CURPAHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030605",
+    "nombre": "GAMARRA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030603",
+    "nombre": "HUAYLLATI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030604",
+    "nombre": "MAMARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030606",
+    "nombre": "MICAELA BASTIDAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030608",
+    "nombre": "PATAYPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030607",
+    "nombre": "PROGRESO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030609",
+    "nombre": "SAN ANTONIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030613",
+    "nombre": "SANTA ROSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030610",
+    "nombre": "TURPAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030611",
+    "nombre": "VILCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "GRAU",
+    "prov_ubigeo": "030600",
+    "ubigeo": "030612",
+    "nombre": "VIRUNDO"
+  }
+]

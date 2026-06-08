@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN IGNACIO",
+    "prov_ubigeo": "061100",
+    "ubigeo": "061102",
+    "nombre": "CHIRINOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN IGNACIO",
+    "prov_ubigeo": "061100",
+    "ubigeo": "061103",
+    "nombre": "HUARANGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN IGNACIO",
+    "prov_ubigeo": "061100",
+    "ubigeo": "061105",
+    "nombre": "LA COIPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN IGNACIO",
+    "prov_ubigeo": "061100",
+    "ubigeo": "061104",
+    "nombre": "NAMBALLE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN IGNACIO",
+    "prov_ubigeo": "061100",
+    "ubigeo": "061101",
+    "nombre": "SAN IGNACIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN IGNACIO",
+    "prov_ubigeo": "061100",
+    "ubigeo": "061106",
+    "nombre": "SAN JOSÉ DE LOURDES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN IGNACIO",
+    "prov_ubigeo": "061100",
+    "ubigeo": "061107",
+    "nombre": "TABACONAS"
+  }
+]

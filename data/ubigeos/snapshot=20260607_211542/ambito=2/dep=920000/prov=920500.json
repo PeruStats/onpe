@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920502",
+    "nombre": "BELO HORIZONTE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920503",
+    "nombre": "BRASILIA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920504",
+    "nombre": "CURITIBA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920536",
+    "nombre": "FORTALEZA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920532",
+    "nombre": "GOIANIA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920505",
+    "nombre": "MANAOS"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920506",
+    "nombre": "PORTO ALEGRE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920508",
+    "nombre": "RÍO BRANCO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920509",
+    "nombre": "RÍO DE JANEIRO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920511",
+    "nombre": "SALVADOR"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "BRASIL",
+    "prov_ubigeo": "920500",
+    "ubigeo": "920510",
+    "nombre": "SAO PAULO"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110602",
+    "nombre": "CHACAPALPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110603",
+    "nombre": "HUAY-HUAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110601",
+    "nombre": "LA OROYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110604",
+    "nombre": "MARCAPOMACOCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110605",
+    "nombre": "MOROCOCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110606",
+    "nombre": "PACCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110607",
+    "nombre": "SANTA BÁRBARA DE CARHUACAYÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110610",
+    "nombre": "SANTA ROSA DE SACCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110608",
+    "nombre": "SUITUCANCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "YAULI",
+    "prov_ubigeo": "110600",
+    "ubigeo": "110609",
+    "nombre": "YAULI"
+  }
+]

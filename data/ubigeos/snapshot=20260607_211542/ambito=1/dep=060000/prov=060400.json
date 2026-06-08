@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CONTUMAZA",
+    "prov_ubigeo": "060400",
+    "ubigeo": "060403",
+    "nombre": "CHILETE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CONTUMAZA",
+    "prov_ubigeo": "060400",
+    "ubigeo": "060401",
+    "nombre": "CONTUMAZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CONTUMAZA",
+    "prov_ubigeo": "060400",
+    "ubigeo": "060406",
+    "nombre": "CUPISNIQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CONTUMAZA",
+    "prov_ubigeo": "060400",
+    "ubigeo": "060404",
+    "nombre": "GUZMANGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CONTUMAZA",
+    "prov_ubigeo": "060400",
+    "ubigeo": "060405",
+    "nombre": "SAN BENITO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CONTUMAZA",
+    "prov_ubigeo": "060400",
+    "ubigeo": "060409",
+    "nombre": "SANTA CRUZ DE TOLED"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CONTUMAZA",
+    "prov_ubigeo": "060400",
+    "ubigeo": "060407",
+    "nombre": "TANTARICA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CONTUMAZA",
+    "prov_ubigeo": "060400",
+    "ubigeo": "060408",
+    "nombre": "YONÁN"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010402",
+    "nombre": "CAMPORREDONDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010403",
+    "nombre": "COCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010404",
+    "nombre": "COLCAMAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010405",
+    "nombre": "CONILA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010406",
+    "nombre": "INGUILPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010401",
+    "nombre": "LAMUD"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010407",
+    "nombre": "LONGUITA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010408",
+    "nombre": "LONYA CHICO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010409",
+    "nombre": "LUYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010410",
+    "nombre": "LUYA VIEJO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010411",
+    "nombre": "MARÍA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010412",
+    "nombre": "OCALLI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010413",
+    "nombre": "OCUMAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010414",
+    "nombre": "PISUQUIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010423",
+    "nombre": "PROVIDENCIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010415",
+    "nombre": "SAN CRISTÓBAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010416",
+    "nombre": "SAN FRANCISCO DEL YESO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010417",
+    "nombre": "SAN JERÓNIMO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010418",
+    "nombre": "SAN JUAN DE LOPECANCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010419",
+    "nombre": "SANTA CATALINA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010420",
+    "nombre": "SANTO TOMÁS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010421",
+    "nombre": "TINGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010422",
+    "nombre": "TRITA"
+  }
+]

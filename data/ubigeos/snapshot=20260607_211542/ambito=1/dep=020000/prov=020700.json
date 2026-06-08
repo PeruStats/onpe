@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020701",
+    "nombre": "CARAZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020702",
+    "nombre": "HUALLANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020703",
+    "nombre": "HUATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020704",
+    "nombre": "HUAYLAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020705",
+    "nombre": "MATO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020706",
+    "nombre": "PAMPAROMAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020707",
+    "nombre": "PUEBLO LIBRE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020708",
+    "nombre": "SANTA CRUZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020710",
+    "nombre": "SANTO TORIBIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUAYLAS",
+    "prov_ubigeo": "020700",
+    "ubigeo": "020709",
+    "nombre": "YURACMARCA"
+  }
+]

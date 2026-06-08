@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060802",
+    "nombre": "BELLAVISTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060804",
+    "nombre": "CHONTALÍ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060803",
+    "nombre": "COLASAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060812",
+    "nombre": "HUABAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060801",
+    "nombre": "JAÉN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060811",
+    "nombre": "LAS PIRIAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060805",
+    "nombre": "POMAHUACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060806",
+    "nombre": "PUCARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060807",
+    "nombre": "SALLIQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060808",
+    "nombre": "SAN FELIPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060809",
+    "nombre": "SAN JOSÉ DEL ALTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060810",
+    "nombre": "SANTA ROSA"
+  }
+]

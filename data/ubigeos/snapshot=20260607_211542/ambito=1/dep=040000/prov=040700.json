@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "ISLAY",
+    "prov_ubigeo": "040700",
+    "ubigeo": "040702",
+    "nombre": "COCACHACRA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "ISLAY",
+    "prov_ubigeo": "040700",
+    "ubigeo": "040703",
+    "nombre": "DEÁN VALDIVIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "ISLAY",
+    "prov_ubigeo": "040700",
+    "ubigeo": "040704",
+    "nombre": "ISLAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "ISLAY",
+    "prov_ubigeo": "040700",
+    "ubigeo": "040705",
+    "nombre": "MEJÍA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "ISLAY",
+    "prov_ubigeo": "040700",
+    "ubigeo": "040701",
+    "nombre": "MOLLENDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "ISLAY",
+    "prov_ubigeo": "040700",
+    "ubigeo": "040706",
+    "nombre": "PUNTA DE BOMBÓN"
+  }
+]

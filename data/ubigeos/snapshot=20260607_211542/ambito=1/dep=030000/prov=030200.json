@@ -1,0 +1,155 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030202",
+    "nombre": "CAPAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030203",
+    "nombre": "CARAYBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030201",
+    "nombre": "CHALHUANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030206",
+    "nombre": "CHAPIMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030204",
+    "nombre": "COLCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030205",
+    "nombre": "COTARUSE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030207",
+    "nombre": "IHUAYLLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030217",
+    "nombre": "JUSTO APU SAHUARAURA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030208",
+    "nombre": "LUCRE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030209",
+    "nombre": "POCOHUANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030216",
+    "nombre": "SAN JUAN DE CHACÑA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030210",
+    "nombre": "SAÑAYCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030211",
+    "nombre": "SORAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030212",
+    "nombre": "TAPAIRIHUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030213",
+    "nombre": "TINTAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030214",
+    "nombre": "TORAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030215",
+    "nombre": "YANACA"
+  }
+]

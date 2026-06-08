@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020103",
+    "nombre": "COCHABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020104",
+    "nombre": "COLCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020105",
+    "nombre": "HUANCHAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020101",
+    "nombre": "HUARAZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020102",
+    "nombre": "INDEPENDENCIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020106",
+    "nombre": "JANGAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020107",
+    "nombre": "LA LIBERTAD"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020108",
+    "nombre": "OLLEROS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020109",
+    "nombre": "PAMPAS GRANDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020110",
+    "nombre": "PARIACOTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020111",
+    "nombre": "PIRA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020112",
+    "nombre": "TARICA"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "BELLAVISTA",
+    "prov_ubigeo": "210700",
+    "ubigeo": "210704",
+    "nombre": "ALTO BIAVO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "BELLAVISTA",
+    "prov_ubigeo": "210700",
+    "ubigeo": "210706",
+    "nombre": "BAJO BIAVO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "BELLAVISTA",
+    "prov_ubigeo": "210700",
+    "ubigeo": "210701",
+    "nombre": "BELLAVISTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "BELLAVISTA",
+    "prov_ubigeo": "210700",
+    "ubigeo": "210705",
+    "nombre": "HUALLAGA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "BELLAVISTA",
+    "prov_ubigeo": "210700",
+    "ubigeo": "210703",
+    "nombre": "SAN PABLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "BELLAVISTA",
+    "prov_ubigeo": "210700",
+    "ubigeo": "210702",
+    "nombre": "SAN RAFAEL"
+  }
+]

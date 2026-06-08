@@ -1,0 +1,137 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050410",
+    "nombre": "ANCHIHUAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050402",
+    "nombre": "ANCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050403",
+    "nombre": "AYNA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050404",
+    "nombre": "CHILCAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050405",
+    "nombre": "CHUNGUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050407",
+    "nombre": "LUIS CARRANZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050414",
+    "nombre": "NINABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050411",
+    "nombre": "ORONCCOY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050413",
+    "nombre": "PATIBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050415",
+    "nombre": "RÍO MAGDALENA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050409",
+    "nombre": "SAMUGARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050401",
+    "nombre": "SAN MIGUEL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050408",
+    "nombre": "SANTA ROSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050406",
+    "nombre": "TAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LA MAR",
+    "prov_ubigeo": "050400",
+    "ubigeo": "050412",
+    "nombre": "UNIÓN PROGRESO"
+  }
+]

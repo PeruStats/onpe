@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "YUNGAY",
+    "prov_ubigeo": "021500",
+    "ubigeo": "021502",
+    "nombre": "CASCAPARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "YUNGAY",
+    "prov_ubigeo": "021500",
+    "ubigeo": "021503",
+    "nombre": "MANCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "YUNGAY",
+    "prov_ubigeo": "021500",
+    "ubigeo": "021504",
+    "nombre": "MATACOTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "YUNGAY",
+    "prov_ubigeo": "021500",
+    "ubigeo": "021505",
+    "nombre": "QUILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "YUNGAY",
+    "prov_ubigeo": "021500",
+    "ubigeo": "021506",
+    "nombre": "RANRAHIRCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "YUNGAY",
+    "prov_ubigeo": "021500",
+    "ubigeo": "021507",
+    "nombre": "SHUPLUY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "YUNGAY",
+    "prov_ubigeo": "021500",
+    "ubigeo": "021508",
+    "nombre": "YANAMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "YUNGAY",
+    "prov_ubigeo": "021500",
+    "ubigeo": "021501",
+    "nombre": "YUNGAY"
+  }
+]

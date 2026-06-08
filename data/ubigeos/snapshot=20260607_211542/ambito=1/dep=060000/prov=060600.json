@@ -1,0 +1,173 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060602",
+    "nombre": "ANGUÍA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060605",
+    "nombre": "CHADÍN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060619",
+    "nombre": "CHALAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060606",
+    "nombre": "CHIGUIRIP"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060607",
+    "nombre": "CHIMBÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060618",
+    "nombre": "CHOROPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060601",
+    "nombre": "CHOTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060603",
+    "nombre": "COCHABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060604",
+    "nombre": "CONCHÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060608",
+    "nombre": "HUAMBOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060609",
+    "nombre": "LAJAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060610",
+    "nombre": "LLAMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060611",
+    "nombre": "MIRACOSTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060612",
+    "nombre": "PACCHA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060613",
+    "nombre": "PIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060614",
+    "nombre": "QUEROCOTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060617",
+    "nombre": "SAN JUAN DE LICUPIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060615",
+    "nombre": "TACABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060616",
+    "nombre": "TOCMOCHE"
+  }
+]

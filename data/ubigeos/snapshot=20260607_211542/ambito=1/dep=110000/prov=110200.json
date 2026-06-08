@@ -1,0 +1,137 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110202",
+    "nombre": "ACO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110203",
+    "nombre": "ANDAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110206",
+    "nombre": "CHAMBARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110205",
+    "nombre": "COCHAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110204",
+    "nombre": "COMAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110201",
+    "nombre": "CONCEPCIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110207",
+    "nombre": "HEROÍNAS TOLEDO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110208",
+    "nombre": "MANZANARES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110209",
+    "nombre": "MARISCAL CASTILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110210",
+    "nombre": "MATAHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110211",
+    "nombre": "MITO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110212",
+    "nombre": "NUEVE DE JULIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110213",
+    "nombre": "ORCOTUNA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110215",
+    "nombre": "SAN JOSÉ DE QUERO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110214",
+    "nombre": "SANTA ROSA DE OCOPA"
+  }
+]

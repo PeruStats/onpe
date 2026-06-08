@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "UTCUBAMBA",
+    "prov_ubigeo": "010700",
+    "ubigeo": "010701",
+    "nombre": "BAGUA GRANDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "UTCUBAMBA",
+    "prov_ubigeo": "010700",
+    "ubigeo": "010702",
+    "nombre": "CAJARURO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "UTCUBAMBA",
+    "prov_ubigeo": "010700",
+    "ubigeo": "010703",
+    "nombre": "CUMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "UTCUBAMBA",
+    "prov_ubigeo": "010700",
+    "ubigeo": "010704",
+    "nombre": "EL MILAGRO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "UTCUBAMBA",
+    "prov_ubigeo": "010700",
+    "ubigeo": "010705",
+    "nombre": "JAMALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "UTCUBAMBA",
+    "prov_ubigeo": "010700",
+    "ubigeo": "010706",
+    "nombre": "LONYA GRANDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "UTCUBAMBA",
+    "prov_ubigeo": "010700",
+    "ubigeo": "010707",
+    "nombre": "YAMON"
+  }
+]

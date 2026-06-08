@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "ALTO AMAZONAS",
+    "prov_ubigeo": "150200",
+    "ubigeo": "150202",
+    "nombre": "BALSAPUERTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "ALTO AMAZONAS",
+    "prov_ubigeo": "150200",
+    "ubigeo": "150205",
+    "nombre": "JEBEROS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "ALTO AMAZONAS",
+    "prov_ubigeo": "150200",
+    "ubigeo": "150206",
+    "nombre": "LAGUNAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "ALTO AMAZONAS",
+    "prov_ubigeo": "150200",
+    "ubigeo": "150210",
+    "nombre": "SANTA CRUZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "ALTO AMAZONAS",
+    "prov_ubigeo": "150200",
+    "ubigeo": "150211",
+    "nombre": "TENIENTE CÉSAR LÓPEZ ROJAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "ALTO AMAZONAS",
+    "prov_ubigeo": "150200",
+    "ubigeo": "150201",
+    "nombre": "YURIMAGUAS"
+  }
+]

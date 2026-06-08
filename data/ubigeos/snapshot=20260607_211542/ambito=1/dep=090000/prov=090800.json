@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PUERTO INCA",
+    "prov_ubigeo": "090800",
+    "ubigeo": "090803",
+    "nombre": "CODO DEL POZUZO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PUERTO INCA",
+    "prov_ubigeo": "090800",
+    "ubigeo": "090801",
+    "nombre": "HONORIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PUERTO INCA",
+    "prov_ubigeo": "090800",
+    "ubigeo": "090802",
+    "nombre": "PUERTO INCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PUERTO INCA",
+    "prov_ubigeo": "090800",
+    "ubigeo": "090804",
+    "nombre": "TOURNAVISTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PUERTO INCA",
+    "prov_ubigeo": "090800",
+    "ubigeo": "090805",
+    "nombre": "YUYAPICHIS"
+  }
+]

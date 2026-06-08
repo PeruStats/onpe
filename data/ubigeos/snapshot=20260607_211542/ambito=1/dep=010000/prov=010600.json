@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CONDORCANQUI",
+    "prov_ubigeo": "010600",
+    "ubigeo": "010603",
+    "nombre": "EL CENEPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CONDORCANQUI",
+    "prov_ubigeo": "010600",
+    "ubigeo": "010601",
+    "nombre": "NIEVA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CONDORCANQUI",
+    "prov_ubigeo": "010600",
+    "ubigeo": "010602",
+    "nombre": "RÍO SANTIAGO"
+  }
+]

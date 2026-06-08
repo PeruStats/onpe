@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200811",
+    "nombre": "ALTO INAMBARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200803",
+    "nombre": "CUYOCUYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200804",
+    "nombre": "LIMBANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200806",
+    "nombre": "PATAMBUCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200805",
+    "nombre": "PHARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200807",
+    "nombre": "QUIACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200801",
+    "nombre": "SANDIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200808",
+    "nombre": "SAN JUAN DEL ORO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200812",
+    "nombre": "SAN PEDRO DE PUTINA PUNCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SANDIA",
+    "prov_ubigeo": "200800",
+    "ubigeo": "200810",
+    "nombre": "YANAHUAYA"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200102",
+    "nombre": "ACORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200115",
+    "nombre": "AMANTANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200103",
+    "nombre": "ATUNCOLLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200104",
+    "nombre": "CAPACHICA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200106",
+    "nombre": "CHUCUITO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200105",
+    "nombre": "COATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200107",
+    "nombre": "HUATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200108",
+    "nombre": "MAÑAZO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200109",
+    "nombre": "PAUCARCOLLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200110",
+    "nombre": "PICHACANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200114",
+    "nombre": "PLATERIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200101",
+    "nombre": "PUNO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200111",
+    "nombre": "SAN ANTONIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200112",
+    "nombre": "TIQUILLACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "PUNO",
+    "prov_ubigeo": "200100",
+    "ubigeo": "200113",
+    "nombre": "VILQUE"
+  }
+]

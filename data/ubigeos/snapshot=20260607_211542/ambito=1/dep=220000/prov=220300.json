@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "JORGE BASADRE",
+    "prov_ubigeo": "220300",
+    "ubigeo": "220303",
+    "nombre": "ILABAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "JORGE BASADRE",
+    "prov_ubigeo": "220300",
+    "ubigeo": "220302",
+    "nombre": "ITE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "JORGE BASADRE",
+    "prov_ubigeo": "220300",
+    "ubigeo": "220301",
+    "nombre": "LOCUMBA"
+  }
+]

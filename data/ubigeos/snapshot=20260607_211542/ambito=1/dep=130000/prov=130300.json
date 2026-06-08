@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130302",
+    "nombre": "CHOCHOPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130303",
+    "nombre": "ÍLLIMO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130304",
+    "nombre": "JAYANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130301",
+    "nombre": "LAMBAYEQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130305",
+    "nombre": "MOCHUMÍ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130306",
+    "nombre": "MÓRROPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130307",
+    "nombre": "MOTUPE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130308",
+    "nombre": "OLMOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130309",
+    "nombre": "PACORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130310",
+    "nombre": "SALAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130311",
+    "nombre": "SAN JOSÉ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130312",
+    "nombre": "TÚCUME"
+  }
+]

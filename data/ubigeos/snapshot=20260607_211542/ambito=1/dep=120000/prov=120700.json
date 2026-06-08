@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SANTIAGO DE CHUCO",
+    "prov_ubigeo": "120700",
+    "ubigeo": "120708",
+    "nombre": "ANGASMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SANTIAGO DE CHUCO",
+    "prov_ubigeo": "120700",
+    "ubigeo": "120702",
+    "nombre": "CACHICADAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SANTIAGO DE CHUCO",
+    "prov_ubigeo": "120700",
+    "ubigeo": "120703",
+    "nombre": "MOLLEBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SANTIAGO DE CHUCO",
+    "prov_ubigeo": "120700",
+    "ubigeo": "120704",
+    "nombre": "MOLLEPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SANTIAGO DE CHUCO",
+    "prov_ubigeo": "120700",
+    "ubigeo": "120705",
+    "nombre": "QUIRUVILCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SANTIAGO DE CHUCO",
+    "prov_ubigeo": "120700",
+    "ubigeo": "120706",
+    "nombre": "SANTA CRUZ DE CHUCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SANTIAGO DE CHUCO",
+    "prov_ubigeo": "120700",
+    "ubigeo": "120701",
+    "nombre": "SANTIAGO DE CHUCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "SANTIAGO DE CHUCO",
+    "prov_ubigeo": "120700",
+    "ubigeo": "120707",
+    "nombre": "SITABAMBA"
+  }
+]

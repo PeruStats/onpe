@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "MÉXICO",
+    "prov_ubigeo": "921900",
+    "ubigeo": "921902",
+    "nombre": "CIUDAD DE MÉXICO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "MÉXICO",
+    "prov_ubigeo": "921900",
+    "ubigeo": "921901",
+    "nombre": "GUADALAJARA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "MÉXICO",
+    "prov_ubigeo": "921900",
+    "ubigeo": "921903",
+    "nombre": "MONTERREY"
+  }
+]

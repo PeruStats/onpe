@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021002",
+    "nombre": "BOLOGNESI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021001",
+    "nombre": "CABANA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021003",
+    "nombre": "CONCHUCOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021004",
+    "nombre": "HUACASCHUQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021005",
+    "nombre": "HUANDOVAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021006",
+    "nombre": "LACABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021007",
+    "nombre": "LLAPO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021008",
+    "nombre": "PALLASCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021009",
+    "nombre": "PAMPAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021010",
+    "nombre": "SANTA ROSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "PALLASCA",
+    "prov_ubigeo": "021000",
+    "ubigeo": "021011",
+    "nombre": "TAUCA"
+  }
+]

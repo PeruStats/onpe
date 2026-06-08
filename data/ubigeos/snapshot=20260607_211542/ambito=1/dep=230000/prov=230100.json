@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "TUMBES",
+    "prov_ubigeo": "230100",
+    "ubigeo": "230102",
+    "nombre": "CORRALES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "TUMBES",
+    "prov_ubigeo": "230100",
+    "ubigeo": "230103",
+    "nombre": "LA CRUZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "TUMBES",
+    "prov_ubigeo": "230100",
+    "ubigeo": "230104",
+    "nombre": "PAMPAS DE HOSPITAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "TUMBES",
+    "prov_ubigeo": "230100",
+    "ubigeo": "230105",
+    "nombre": "SAN JACINTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "TUMBES",
+    "prov_ubigeo": "230100",
+    "ubigeo": "230106",
+    "nombre": "SAN JUAN DE LA VIRGEN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "TUMBES",
+    "prov_ubigeo": "230100",
+    "ubigeo": "230101",
+    "nombre": "TUMBES"
+  }
+]

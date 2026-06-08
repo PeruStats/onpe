@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANTABAMBA",
+    "prov_ubigeo": "030400",
+    "ubigeo": "030401",
+    "nombre": "ANTABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANTABAMBA",
+    "prov_ubigeo": "030400",
+    "ubigeo": "030402",
+    "nombre": "EL ORO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANTABAMBA",
+    "prov_ubigeo": "030400",
+    "ubigeo": "030403",
+    "nombre": "HUAQUIRCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANTABAMBA",
+    "prov_ubigeo": "030400",
+    "ubigeo": "030404",
+    "nombre": "JUAN ESPINOZA MEDRANO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANTABAMBA",
+    "prov_ubigeo": "030400",
+    "ubigeo": "030405",
+    "nombre": "OROPESA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANTABAMBA",
+    "prov_ubigeo": "030400",
+    "ubigeo": "030406",
+    "nombre": "PACHACONAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANTABAMBA",
+    "prov_ubigeo": "030400",
+    "ubigeo": "030407",
+    "nombre": "SABAINO"
+  }
+]

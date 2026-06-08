@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "SATIPO",
+    "prov_ubigeo": "110700",
+    "ubigeo": "110702",
+    "nombre": "COVIRIALI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "SATIPO",
+    "prov_ubigeo": "110700",
+    "ubigeo": "110703",
+    "nombre": "LLAYLLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "SATIPO",
+    "prov_ubigeo": "110700",
+    "ubigeo": "110704",
+    "nombre": "MAZAMARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "SATIPO",
+    "prov_ubigeo": "110700",
+    "ubigeo": "110705",
+    "nombre": "PAMPA HERMOSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "SATIPO",
+    "prov_ubigeo": "110700",
+    "ubigeo": "110706",
+    "nombre": "PANGOA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "SATIPO",
+    "prov_ubigeo": "110700",
+    "ubigeo": "110707",
+    "nombre": "RÍO NEGRO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "SATIPO",
+    "prov_ubigeo": "110700",
+    "ubigeo": "110708",
+    "nombre": "RÍO TAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "SATIPO",
+    "prov_ubigeo": "110700",
+    "ubigeo": "110701",
+    "nombre": "SATIPO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "SATIPO",
+    "prov_ubigeo": "110700",
+    "ubigeo": "110709",
+    "nombre": "VIZCATÁN DEL ENE"
+  }
+]

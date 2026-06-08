@@ -1,0 +1,119 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090110",
+    "nombre": "AMARILIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090102",
+    "nombre": "CHINCHAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090103",
+    "nombre": "CHURUBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090101",
+    "nombre": "HUÁNUCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090104",
+    "nombre": "MARGOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090111",
+    "nombre": "PILLCO MARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090105",
+    "nombre": "QUISQUI (KICHKI)"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090106",
+    "nombre": "SAN FRANCISCO DE CAYRÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090113",
+    "nombre": "SAN PABLO DE PILLAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090107",
+    "nombre": "SAN PEDRO DE CHAULÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090108",
+    "nombre": "SANTA MARÍA DEL VALLE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090112",
+    "nombre": "YACUS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090109",
+    "nombre": "YARUMAYO"
+  }
+]

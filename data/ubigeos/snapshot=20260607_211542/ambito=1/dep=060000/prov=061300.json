@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN PABLO",
+    "prov_ubigeo": "061300",
+    "ubigeo": "061302",
+    "nombre": "SAN BERNARDINO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN PABLO",
+    "prov_ubigeo": "061300",
+    "ubigeo": "061303",
+    "nombre": "SAN LUIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN PABLO",
+    "prov_ubigeo": "061300",
+    "ubigeo": "061301",
+    "nombre": "SAN PABLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN PABLO",
+    "prov_ubigeo": "061300",
+    "ubigeo": "061304",
+    "nombre": "TUMBADÉN"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190402",
+    "nombre": "BUENOS AIRES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190403",
+    "nombre": "CHALACO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190401",
+    "nombre": "CHULUCANAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190408",
+    "nombre": "LA MATANZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190404",
+    "nombre": "MORROPÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190405",
+    "nombre": "SALITRAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190410",
+    "nombre": "SAN JUAN DE BIGOTE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190406",
+    "nombre": "SANTA CATALINA DE MOSSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190407",
+    "nombre": "SANTO DOMINGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190409",
+    "nombre": "YAMANGO"
+  }
+]

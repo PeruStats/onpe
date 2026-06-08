@@ -1,0 +1,101 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060910",
+    "nombre": "ANDABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060902",
+    "nombre": "CATACHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060903",
+    "nombre": "CHANCAYBAÑOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060904",
+    "nombre": "LA ESPERANZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060905",
+    "nombre": "NINABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060906",
+    "nombre": "PULÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060901",
+    "nombre": "SANTA CRUZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060911",
+    "nombre": "SAUCEPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060907",
+    "nombre": "SEXI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060908",
+    "nombre": "UTICYACU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060909",
+    "nombre": "YAUYUCAN"
+  }
+]

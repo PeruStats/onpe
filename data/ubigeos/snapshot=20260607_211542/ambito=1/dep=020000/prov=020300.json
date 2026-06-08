@@ -1,0 +1,137 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020302",
+    "nombre": "ABELARDO PARDO LEZAMETA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020321",
+    "nombre": "ANTONIO RAYMONDI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020304",
+    "nombre": "AQUIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020305",
+    "nombre": "CAJACAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020322",
+    "nombre": "CANIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020301",
+    "nombre": "CHIQUIAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020323",
+    "nombre": "COLQUIOC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020325",
+    "nombre": "HUALLANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020311",
+    "nombre": "HUASTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020310",
+    "nombre": "HUAYLLACAYAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020324",
+    "nombre": "LA PRIMAVERA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020313",
+    "nombre": "MANGAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020315",
+    "nombre": "PACLLON"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020317",
+    "nombre": "SAN MIGUEL DE CORPANQUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020320",
+    "nombre": "TICLLOS"
+  }
+]

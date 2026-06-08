@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BAGUA",
+    "prov_ubigeo": "010200",
+    "ubigeo": "010202",
+    "nombre": "ARAMANGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BAGUA",
+    "prov_ubigeo": "010200",
+    "ubigeo": "010205",
+    "nombre": "BAGUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BAGUA",
+    "prov_ubigeo": "010200",
+    "ubigeo": "010203",
+    "nombre": "COPALLIN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BAGUA",
+    "prov_ubigeo": "010200",
+    "ubigeo": "010204",
+    "nombre": "EL PARCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BAGUA",
+    "prov_ubigeo": "010200",
+    "ubigeo": "010206",
+    "nombre": "IMAZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BAGUA",
+    "prov_ubigeo": "010200",
+    "ubigeo": "010201",
+    "nombre": "LA PECA"
+  }
+]

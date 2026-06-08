@@ -1,0 +1,92 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190201",
+    "nombre": "AYABACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190202",
+    "nombre": "FRÍAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190209",
+    "nombre": "JILILÍ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190203",
+    "nombre": "LAGUNAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190204",
+    "nombre": "MONTERO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190205",
+    "nombre": "PACAIPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190210",
+    "nombre": "PAIMAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190206",
+    "nombre": "SAPILLICA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190207",
+    "nombre": "SICCHEZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "AYABACA",
+    "prov_ubigeo": "190200",
+    "ubigeo": "190208",
+    "nombre": "SUYO"
+  }
+]

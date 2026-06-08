@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "OYÓN",
+    "prov_ubigeo": "141000",
+    "ubigeo": "141004",
+    "nombre": "ANDAJES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "OYÓN",
+    "prov_ubigeo": "141000",
+    "ubigeo": "141003",
+    "nombre": "CAUJUL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "OYÓN",
+    "prov_ubigeo": "141000",
+    "ubigeo": "141006",
+    "nombre": "COCHAMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "OYÓN",
+    "prov_ubigeo": "141000",
+    "ubigeo": "141002",
+    "nombre": "NAVAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "OYÓN",
+    "prov_ubigeo": "141000",
+    "ubigeo": "141001",
+    "nombre": "OYÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "OYÓN",
+    "prov_ubigeo": "141000",
+    "ubigeo": "141005",
+    "nombre": "PACHANGARA"
+  }
+]

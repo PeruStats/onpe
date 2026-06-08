@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VILCAS HUAMÁN",
+    "prov_ubigeo": "050900",
+    "ubigeo": "050903",
+    "nombre": "ACCOMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VILCAS HUAMÁN",
+    "prov_ubigeo": "050900",
+    "ubigeo": "050904",
+    "nombre": "CARHUANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VILCAS HUAMÁN",
+    "prov_ubigeo": "050900",
+    "ubigeo": "050905",
+    "nombre": "CONCEPCIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VILCAS HUAMÁN",
+    "prov_ubigeo": "050900",
+    "ubigeo": "050906",
+    "nombre": "HUAMBALPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VILCAS HUAMÁN",
+    "prov_ubigeo": "050900",
+    "ubigeo": "050908",
+    "nombre": "INDEPENDENCIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VILCAS HUAMÁN",
+    "prov_ubigeo": "050900",
+    "ubigeo": "050907",
+    "nombre": "SAURAMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VILCAS HUAMÁN",
+    "prov_ubigeo": "050900",
+    "ubigeo": "050901",
+    "nombre": "VILCAS HUAMÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VILCAS HUAMÁN",
+    "prov_ubigeo": "050900",
+    "ubigeo": "050902",
+    "nombre": "VISCHONGO"
+  }
+]

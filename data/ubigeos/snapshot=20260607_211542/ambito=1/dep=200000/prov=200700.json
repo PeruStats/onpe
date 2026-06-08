@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MELGAR",
+    "prov_ubigeo": "200700",
+    "ubigeo": "200702",
+    "nombre": "ANTAUTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MELGAR",
+    "prov_ubigeo": "200700",
+    "ubigeo": "200701",
+    "nombre": "AYAVIRI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MELGAR",
+    "prov_ubigeo": "200700",
+    "ubigeo": "200703",
+    "nombre": "CUPI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MELGAR",
+    "prov_ubigeo": "200700",
+    "ubigeo": "200704",
+    "nombre": "LLALLI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MELGAR",
+    "prov_ubigeo": "200700",
+    "ubigeo": "200705",
+    "nombre": "MACARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MELGAR",
+    "prov_ubigeo": "200700",
+    "ubigeo": "200706",
+    "nombre": "NUÑOA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MELGAR",
+    "prov_ubigeo": "200700",
+    "ubigeo": "200707",
+    "nombre": "ORURILLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MELGAR",
+    "prov_ubigeo": "200700",
+    "ubigeo": "200708",
+    "nombre": "SANTA ROSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "MELGAR",
+    "prov_ubigeo": "200700",
+    "ubigeo": "200709",
+    "nombre": "UMACHIRI"
+  }
+]

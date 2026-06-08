@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHANCHAMAYO",
+    "prov_ubigeo": "110800",
+    "ubigeo": "110801",
+    "nombre": "CHANCHAMAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHANCHAMAYO",
+    "prov_ubigeo": "110800",
+    "ubigeo": "110806",
+    "nombre": "PERENÉ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHANCHAMAYO",
+    "prov_ubigeo": "110800",
+    "ubigeo": "110805",
+    "nombre": "PICHANAQUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHANCHAMAYO",
+    "prov_ubigeo": "110800",
+    "ubigeo": "110804",
+    "nombre": "SAN LUIS DE SHUARO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHANCHAMAYO",
+    "prov_ubigeo": "110800",
+    "ubigeo": "110802",
+    "nombre": "SAN RAMÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHANCHAMAYO",
+    "prov_ubigeo": "110800",
+    "ubigeo": "110803",
+    "nombre": "VITOC"
+  }
+]

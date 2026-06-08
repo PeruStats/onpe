@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "POMABAMBA",
+    "prov_ubigeo": "021100",
+    "ubigeo": "021102",
+    "nombre": "HUAYLLAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "POMABAMBA",
+    "prov_ubigeo": "021100",
+    "ubigeo": "021103",
+    "nombre": "PAROBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "POMABAMBA",
+    "prov_ubigeo": "021100",
+    "ubigeo": "021101",
+    "nombre": "POMABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "POMABAMBA",
+    "prov_ubigeo": "021100",
+    "ubigeo": "021104",
+    "nombre": "QUINUABAMBA"
+  }
+]

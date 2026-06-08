@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030101",
+    "nombre": "ABANCAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030104",
+    "nombre": "CHACOCHE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030102",
+    "nombre": "CIRCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030103",
+    "nombre": "CURAHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030105",
+    "nombre": "HUANIPACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030106",
+    "nombre": "LAMBRAMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030107",
+    "nombre": "PICHIRHUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030108",
+    "nombre": "SAN PEDRO DE CACHORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030109",
+    "nombre": "TAMBURCO"
+  }
+]

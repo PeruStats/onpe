@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "ATALAYA",
+    "prov_ubigeo": "250300",
+    "ubigeo": "250301",
+    "nombre": "RAIMONDI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "ATALAYA",
+    "prov_ubigeo": "250300",
+    "ubigeo": "250304",
+    "nombre": "SEPAHUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "ATALAYA",
+    "prov_ubigeo": "250300",
+    "ubigeo": "250302",
+    "nombre": "TAHUANIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "ATALAYA",
+    "prov_ubigeo": "250300",
+    "ubigeo": "250303",
+    "nombre": "YURÚA"
+  }
+]

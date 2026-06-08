@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PARINACOCHAS",
+    "prov_ubigeo": "050600",
+    "ubigeo": "050605",
+    "nombre": "CHUMPI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PARINACOCHAS",
+    "prov_ubigeo": "050600",
+    "ubigeo": "050601",
+    "nombre": "CORACORA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PARINACOCHAS",
+    "prov_ubigeo": "050600",
+    "ubigeo": "050604",
+    "nombre": "CORONEL CASTAÑEDA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PARINACOCHAS",
+    "prov_ubigeo": "050600",
+    "ubigeo": "050608",
+    "nombre": "PACAPAUSA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PARINACOCHAS",
+    "prov_ubigeo": "050600",
+    "ubigeo": "050611",
+    "nombre": "PULLO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PARINACOCHAS",
+    "prov_ubigeo": "050600",
+    "ubigeo": "050612",
+    "nombre": "PUYUSCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PARINACOCHAS",
+    "prov_ubigeo": "050600",
+    "ubigeo": "050615",
+    "nombre": "SAN FRANCISCO DE RIVACAYCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PARINACOCHAS",
+    "prov_ubigeo": "050600",
+    "ubigeo": "050616",
+    "nombre": "UPAHUACHO"
+  }
+]

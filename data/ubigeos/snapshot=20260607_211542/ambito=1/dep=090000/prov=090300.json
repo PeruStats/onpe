@@ -1,0 +1,83 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "DOS DE MAYO",
+    "prov_ubigeo": "090300",
+    "ubigeo": "090307",
+    "nombre": "CHUQUIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "DOS DE MAYO",
+    "prov_ubigeo": "090300",
+    "ubigeo": "090301",
+    "nombre": "LA UNIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "DOS DE MAYO",
+    "prov_ubigeo": "090300",
+    "ubigeo": "090312",
+    "nombre": "MARÍAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "DOS DE MAYO",
+    "prov_ubigeo": "090300",
+    "ubigeo": "090314",
+    "nombre": "PACHAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "DOS DE MAYO",
+    "prov_ubigeo": "090300",
+    "ubigeo": "090316",
+    "nombre": "QUIVILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "DOS DE MAYO",
+    "prov_ubigeo": "090300",
+    "ubigeo": "090317",
+    "nombre": "RIPÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "DOS DE MAYO",
+    "prov_ubigeo": "090300",
+    "ubigeo": "090321",
+    "nombre": "SHUNQUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "DOS DE MAYO",
+    "prov_ubigeo": "090300",
+    "ubigeo": "090322",
+    "nombre": "SILLAPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "DOS DE MAYO",
+    "prov_ubigeo": "090300",
+    "ubigeo": "090323",
+    "nombre": "YANAS"
+  }
+]

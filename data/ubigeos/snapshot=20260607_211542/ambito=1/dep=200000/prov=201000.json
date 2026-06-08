@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "YUNGUYO",
+    "prov_ubigeo": "201000",
+    "ubigeo": "201003",
+    "nombre": "ANAPIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "YUNGUYO",
+    "prov_ubigeo": "201000",
+    "ubigeo": "201004",
+    "nombre": "COPANI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "YUNGUYO",
+    "prov_ubigeo": "201000",
+    "ubigeo": "201005",
+    "nombre": "CUTURAPI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "YUNGUYO",
+    "prov_ubigeo": "201000",
+    "ubigeo": "201006",
+    "nombre": "OLLARAYA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "YUNGUYO",
+    "prov_ubigeo": "201000",
+    "ubigeo": "201007",
+    "nombre": "TINICACHI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "YUNGUYO",
+    "prov_ubigeo": "201000",
+    "ubigeo": "201002",
+    "nombre": "UNICACHI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "YUNGUYO",
+    "prov_ubigeo": "201000",
+    "ubigeo": "201001",
+    "nombre": "YUNGUYO"
+  }
+]

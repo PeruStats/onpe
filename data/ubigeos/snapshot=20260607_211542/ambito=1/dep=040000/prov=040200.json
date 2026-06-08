@@ -1,0 +1,182 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040202",
+    "nombre": "ACHOMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040203",
+    "nombre": "CABANACONDE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040205",
+    "nombre": "CALLALLI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040204",
+    "nombre": "CAYLLOMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040201",
+    "nombre": "CHIVAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040206",
+    "nombre": "COPORAQUE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040207",
+    "nombre": "HUAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040208",
+    "nombre": "HUANCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040209",
+    "nombre": "ICHUPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040210",
+    "nombre": "LARI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040211",
+    "nombre": "LLUTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040212",
+    "nombre": "MACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040213",
+    "nombre": "MADRIGAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040220",
+    "nombre": "MAJES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040214",
+    "nombre": "SAN ANTONIO DE CHUCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040215",
+    "nombre": "SIBAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040216",
+    "nombre": "TAPAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040217",
+    "nombre": "TISCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040218",
+    "nombre": "TUTI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040219",
+    "nombre": "YANQUE"
+  }
+]

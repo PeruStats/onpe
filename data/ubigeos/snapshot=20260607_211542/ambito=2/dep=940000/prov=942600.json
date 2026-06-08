@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "RUMANÍA",
+    "prov_ubigeo": "942600",
+    "ubigeo": "942601",
+    "nombre": "BUCAREST"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "RUMANÍA",
+    "prov_ubigeo": "942600",
+    "ubigeo": "942604",
+    "nombre": "TIMISOARA"
+  }
+]

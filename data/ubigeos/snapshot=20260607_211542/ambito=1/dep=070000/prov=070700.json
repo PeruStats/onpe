@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CHUMBIVILCAS",
+    "prov_ubigeo": "070700",
+    "ubigeo": "070702",
+    "nombre": "CAPACMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CHUMBIVILCAS",
+    "prov_ubigeo": "070700",
+    "ubigeo": "070704",
+    "nombre": "CHAMACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CHUMBIVILCAS",
+    "prov_ubigeo": "070700",
+    "ubigeo": "070703",
+    "nombre": "COLQUEMARCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CHUMBIVILCAS",
+    "prov_ubigeo": "070700",
+    "ubigeo": "070705",
+    "nombre": "LIVITACA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CHUMBIVILCAS",
+    "prov_ubigeo": "070700",
+    "ubigeo": "070706",
+    "nombre": "LLUSCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CHUMBIVILCAS",
+    "prov_ubigeo": "070700",
+    "ubigeo": "070707",
+    "nombre": "QUIÑOTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CHUMBIVILCAS",
+    "prov_ubigeo": "070700",
+    "ubigeo": "070701",
+    "nombre": "SANTO TOMÁS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CHUMBIVILCAS",
+    "prov_ubigeo": "070700",
+    "ubigeo": "070708",
+    "nombre": "VELILLE"
+  }
+]

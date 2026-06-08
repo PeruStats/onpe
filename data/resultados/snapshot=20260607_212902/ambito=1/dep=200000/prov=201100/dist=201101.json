@@ -1,0 +1,41 @@
+{
+  "totales": {
+    "actasContabilizadas": 59.091,
+    "contabilizadas": 26,
+    "totalActas": 44,
+    "participacionCiudadana": 47.101,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 40.909,
+    "pendientesJee": 18,
+    "fechaActualizacion": 1780886522483,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 201100,
+    "idUbigeoDistrito": 201101,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5832,
+    "totalVotosValidos": 5564,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 471,
+      "porcentajeVotosValidos": 8.465,
+      "porcentajeVotosEmitidos": 8.076
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 5093,
+      "porcentajeVotosValidos": 91.535,
+      "porcentajeVotosEmitidos": 87.329
+    }
+  ]
+}

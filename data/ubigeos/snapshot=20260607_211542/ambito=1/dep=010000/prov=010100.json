@@ -1,0 +1,191 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010102",
+    "nombre": "ASUNCIÓN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010103",
+    "nombre": "BALSAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010101",
+    "nombre": "CHACHAPOYAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010104",
+    "nombre": "CHETO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010105",
+    "nombre": "CHILIQUIN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010106",
+    "nombre": "CHUQUIBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010107",
+    "nombre": "GRANADA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010108",
+    "nombre": "HUANCAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010109",
+    "nombre": "LA JALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010110",
+    "nombre": "LEIMEBAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010111",
+    "nombre": "LEVANTO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010112",
+    "nombre": "MAGDALENA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010113",
+    "nombre": "MARISCAL CASTILLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010114",
+    "nombre": "MOLINOPAMPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010115",
+    "nombre": "MONTEVIDEO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010116",
+    "nombre": "OLLEROS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010117",
+    "nombre": "QUINJALCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010118",
+    "nombre": "SAN FRANCISCO DE DAGUAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010119",
+    "nombre": "SAN ISIDRO DE MAINO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010120",
+    "nombre": "SOLOCO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "CHACHAPOYAS",
+    "prov_ubigeo": "010100",
+    "ubigeo": "010121",
+    "nombre": "SONCHE"
+  }
+]

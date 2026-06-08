@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CANTA",
+    "prov_ubigeo": "140300",
+    "ubigeo": "140302",
+    "nombre": "ARAHUAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CANTA",
+    "prov_ubigeo": "140300",
+    "ubigeo": "140301",
+    "nombre": "CANTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CANTA",
+    "prov_ubigeo": "140300",
+    "ubigeo": "140303",
+    "nombre": "HUAMANTANGA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CANTA",
+    "prov_ubigeo": "140300",
+    "ubigeo": "140304",
+    "nombre": "HUAROS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CANTA",
+    "prov_ubigeo": "140300",
+    "ubigeo": "140305",
+    "nombre": "LACHAQUI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CANTA",
+    "prov_ubigeo": "140300",
+    "ubigeo": "140306",
+    "nombre": "SAN BUENAVENTURA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CANTA",
+    "prov_ubigeo": "140300",
+    "ubigeo": "140307",
+    "nombre": "SANTA ROSA DE QUIVES"
+  }
+]

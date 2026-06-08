@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "SUIZA",
+    "prov_ubigeo": "942800",
+    "ubigeo": "942802",
+    "nombre": "BERNA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "SUIZA",
+    "prov_ubigeo": "942800",
+    "ubigeo": "942803",
+    "nombre": "GINEBRA"
+  }
+]

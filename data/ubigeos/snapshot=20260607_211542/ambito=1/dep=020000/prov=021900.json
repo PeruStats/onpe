@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARMEY",
+    "prov_ubigeo": "021900",
+    "ubigeo": "021902",
+    "nombre": "COCHAPETI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARMEY",
+    "prov_ubigeo": "021900",
+    "ubigeo": "021905",
+    "nombre": "CULEBRAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARMEY",
+    "prov_ubigeo": "021900",
+    "ubigeo": "021901",
+    "nombre": "HUARMEY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARMEY",
+    "prov_ubigeo": "021900",
+    "ubigeo": "021903",
+    "nombre": "HUAYAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARMEY",
+    "prov_ubigeo": "021900",
+    "ubigeo": "021904",
+    "nombre": "MALVAS"
+  }
+]

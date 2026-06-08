@@ -1,0 +1,29 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "ILO",
+    "prov_ubigeo": "170300",
+    "ubigeo": "170302",
+    "nombre": "EL ALGARROBAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "ILO",
+    "prov_ubigeo": "170300",
+    "ubigeo": "170301",
+    "nombre": "ILO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "ILO",
+    "prov_ubigeo": "170300",
+    "ubigeo": "170303",
+    "nombre": "PACOCHA"
+  }
+]

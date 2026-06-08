@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JUNÍN",
+    "prov_ubigeo": "110400",
+    "ubigeo": "110402",
+    "nombre": "CARHUAMAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JUNÍN",
+    "prov_ubigeo": "110400",
+    "ubigeo": "110401",
+    "nombre": "JUNÍN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JUNÍN",
+    "prov_ubigeo": "110400",
+    "ubigeo": "110403",
+    "nombre": "ONDORES"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JUNÍN",
+    "prov_ubigeo": "110400",
+    "ubigeo": "110404",
+    "nombre": "ULCUMAYO"
+  }
+]

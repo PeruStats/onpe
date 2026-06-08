@@ -1,0 +1,119 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061013",
+    "nombre": "BOLÍVAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061002",
+    "nombre": "CALQUIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061012",
+    "nombre": "CATILLUC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061009",
+    "nombre": "EL PRADO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061003",
+    "nombre": "LA FLORIDA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061004",
+    "nombre": "LLAPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061005",
+    "nombre": "NANCHOC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061006",
+    "nombre": "NIEPOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061007",
+    "nombre": "SAN GREGORIO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061001",
+    "nombre": "SAN MIGUEL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061008",
+    "nombre": "SAN SILVESTRE DE COCHAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061011",
+    "nombre": "TONGOD"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MIGUEL",
+    "prov_ubigeo": "061000",
+    "ubigeo": "061010",
+    "nombre": "UNIÓN AGUA BLANCA"
+  }
+]

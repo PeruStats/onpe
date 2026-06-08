@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MARCOS",
+    "prov_ubigeo": "061200",
+    "ubigeo": "061207",
+    "nombre": "CHANCAY"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MARCOS",
+    "prov_ubigeo": "061200",
+    "ubigeo": "061205",
+    "nombre": "EDUARDO VILLANUEVA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MARCOS",
+    "prov_ubigeo": "061200",
+    "ubigeo": "061203",
+    "nombre": "GREGORIO PITA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MARCOS",
+    "prov_ubigeo": "061200",
+    "ubigeo": "061202",
+    "nombre": "ICHOCÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MARCOS",
+    "prov_ubigeo": "061200",
+    "ubigeo": "061204",
+    "nombre": "JOSÉ MANUEL QUIRÓZ"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MARCOS",
+    "prov_ubigeo": "061200",
+    "ubigeo": "061206",
+    "nombre": "JOSÉ SABOGAL"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MARCOS",
+    "prov_ubigeo": "061200",
+    "ubigeo": "061201",
+    "nombre": "PEDRO GÁLVEZ"
+  }
+]

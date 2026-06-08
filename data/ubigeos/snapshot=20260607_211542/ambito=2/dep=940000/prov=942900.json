@@ -1,0 +1,20 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "RUSIA",
+    "prov_ubigeo": "942900",
+    "ubigeo": "942901",
+    "nombre": "MOSCÚ"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "RUSIA",
+    "prov_ubigeo": "942900",
+    "ubigeo": "942910",
+    "nombre": "SAN PETERSBURGO"
+  }
+]

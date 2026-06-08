@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ACOMAYO",
+    "prov_ubigeo": "070200",
+    "ubigeo": "070201",
+    "nombre": "ACOMAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ACOMAYO",
+    "prov_ubigeo": "070200",
+    "ubigeo": "070202",
+    "nombre": "ACOPIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ACOMAYO",
+    "prov_ubigeo": "070200",
+    "ubigeo": "070203",
+    "nombre": "ACOS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ACOMAYO",
+    "prov_ubigeo": "070200",
+    "ubigeo": "070207",
+    "nombre": "MOSOC LLACTA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ACOMAYO",
+    "prov_ubigeo": "070200",
+    "ubigeo": "070204",
+    "nombre": "POMACANCHI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ACOMAYO",
+    "prov_ubigeo": "070200",
+    "ubigeo": "070205",
+    "nombre": "RONDOCAN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ACOMAYO",
+    "prov_ubigeo": "070200",
+    "ubigeo": "070206",
+    "nombre": "SANGARARA"
+  }
+]

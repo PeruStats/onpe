@@ -1,0 +1,65 @@
+[
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CHILE",
+    "prov_ubigeo": "921000",
+    "ubigeo": "921001",
+    "nombre": "ANTOFAGASTA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CHILE",
+    "prov_ubigeo": "921000",
+    "ubigeo": "921002",
+    "nombre": "ARICA"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CHILE",
+    "prov_ubigeo": "921000",
+    "ubigeo": "921003",
+    "nombre": "CONCEPCIÓN"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CHILE",
+    "prov_ubigeo": "921000",
+    "ubigeo": "921026",
+    "nombre": "COPIAPÓ"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CHILE",
+    "prov_ubigeo": "921000",
+    "ubigeo": "921005",
+    "nombre": "IQUIQUE"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CHILE",
+    "prov_ubigeo": "921000",
+    "ubigeo": "921006",
+    "nombre": "SANTIAGO"
+  },
+  {
+    "ambito": 2,
+    "dep_name": "AMÉRICA",
+    "dep_ubigeo": "920000",
+    "prov_name": "CHILE",
+    "prov_ubigeo": "921000",
+    "ubigeo": "921007",
+    "nombre": "VALPARAISO"
+  }
+]

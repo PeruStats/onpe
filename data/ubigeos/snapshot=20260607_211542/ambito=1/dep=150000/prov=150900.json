@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "PUTUMAYO",
+    "prov_ubigeo": "150900",
+    "ubigeo": "150901",
+    "nombre": "PUTUMAYO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "PUTUMAYO",
+    "prov_ubigeo": "150900",
+    "ubigeo": "150902",
+    "nombre": "ROSA PANDURO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "PUTUMAYO",
+    "prov_ubigeo": "150900",
+    "ubigeo": "150903",
+    "nombre": "TENIENTE MANUEL CLAVERO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "PUTUMAYO",
+    "prov_ubigeo": "150900",
+    "ubigeo": "150904",
+    "nombre": "YAGUAS"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ANTONIO DE PUTINA",
+    "prov_ubigeo": "201100",
+    "ubigeo": "201104",
+    "nombre": "ANANEA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ANTONIO DE PUTINA",
+    "prov_ubigeo": "201100",
+    "ubigeo": "201102",
+    "nombre": "PEDRO VILCA APAZA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ANTONIO DE PUTINA",
+    "prov_ubigeo": "201100",
+    "ubigeo": "201101",
+    "nombre": "PUTINA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ANTONIO DE PUTINA",
+    "prov_ubigeo": "201100",
+    "ubigeo": "201103",
+    "nombre": "QUILCAPUNCU"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ANTONIO DE PUTINA",
+    "prov_ubigeo": "201100",
+    "ubigeo": "201105",
+    "nombre": "SINA"
+  }
+]

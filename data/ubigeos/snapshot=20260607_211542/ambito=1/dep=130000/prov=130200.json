@@ -1,0 +1,56 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "FERREÑAFE",
+    "prov_ubigeo": "130200",
+    "ubigeo": "130203",
+    "nombre": "CAÑARIS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "FERREÑAFE",
+    "prov_ubigeo": "130200",
+    "ubigeo": "130201",
+    "nombre": "FERREÑAFE"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "FERREÑAFE",
+    "prov_ubigeo": "130200",
+    "ubigeo": "130202",
+    "nombre": "INCAHUASI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "FERREÑAFE",
+    "prov_ubigeo": "130200",
+    "ubigeo": "130206",
+    "nombre": "MANUEL ANTONIO MESONES MURO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "FERREÑAFE",
+    "prov_ubigeo": "130200",
+    "ubigeo": "130204",
+    "nombre": "PITIPO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "FERREÑAFE",
+    "prov_ubigeo": "130200",
+    "ubigeo": "130205",
+    "nombre": "PUEBLO NUEVO"
+  }
+]

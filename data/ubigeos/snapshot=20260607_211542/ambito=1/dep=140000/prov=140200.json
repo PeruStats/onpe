@@ -1,0 +1,47 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAJATAMBO",
+    "prov_ubigeo": "140200",
+    "ubigeo": "140201",
+    "nombre": "CAJATAMBO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAJATAMBO",
+    "prov_ubigeo": "140200",
+    "ubigeo": "140205",
+    "nombre": "COPA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAJATAMBO",
+    "prov_ubigeo": "140200",
+    "ubigeo": "140206",
+    "nombre": "GORGOR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAJATAMBO",
+    "prov_ubigeo": "140200",
+    "ubigeo": "140207",
+    "nombre": "HUANCAPON"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAJATAMBO",
+    "prov_ubigeo": "140200",
+    "ubigeo": "140208",
+    "nombre": "MANAS"
+  }
+]

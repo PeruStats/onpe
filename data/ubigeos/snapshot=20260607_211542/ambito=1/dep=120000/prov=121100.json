@@ -1,0 +1,38 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "GRAN CHIMÚ",
+    "prov_ubigeo": "121100",
+    "ubigeo": "121101",
+    "nombre": "CASCAS"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "GRAN CHIMÚ",
+    "prov_ubigeo": "121100",
+    "ubigeo": "121102",
+    "nombre": "LUCMA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "GRAN CHIMÚ",
+    "prov_ubigeo": "121100",
+    "ubigeo": "121103",
+    "nombre": "MARMOT"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "GRAN CHIMÚ",
+    "prov_ubigeo": "121100",
+    "ubigeo": "121104",
+    "nombre": "SAYAPULLO"
+  }
+]

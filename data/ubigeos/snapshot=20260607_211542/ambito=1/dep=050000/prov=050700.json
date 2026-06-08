@@ -1,0 +1,110 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050702",
+    "nombre": "ALCAMENCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050703",
+    "nombre": "APONGO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050715",
+    "nombre": "ASQUIPATA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050704",
+    "nombre": "CANARIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050706",
+    "nombre": "CAYARA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050707",
+    "nombre": "COLCA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050708",
+    "nombre": "HUALLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050709",
+    "nombre": "HUAMANQUIQUIA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050701",
+    "nombre": "HUANCAPI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050710",
+    "nombre": "HUANCARAYLLA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050713",
+    "nombre": "SARHUA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050714",
+    "nombre": "VILCANCHOS"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "DANIEL ALCIDES CARRIÓN",
+    "prov_ubigeo": "180200",
+    "ubigeo": "180202",
+    "nombre": "CHACAYÁN"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "DANIEL ALCIDES CARRIÓN",
+    "prov_ubigeo": "180200",
+    "ubigeo": "180203",
+    "nombre": "GOYLLARISQUIZGA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "DANIEL ALCIDES CARRIÓN",
+    "prov_ubigeo": "180200",
+    "ubigeo": "180204",
+    "nombre": "PAUCAR"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "DANIEL ALCIDES CARRIÓN",
+    "prov_ubigeo": "180200",
+    "ubigeo": "180205",
+    "nombre": "SAN PEDRO DE PILLAO"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "DANIEL ALCIDES CARRIÓN",
+    "prov_ubigeo": "180200",
+    "ubigeo": "180206",
+    "nombre": "SANTA ANA DE TUSI"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "DANIEL ALCIDES CARRIÓN",
+    "prov_ubigeo": "180200",
+    "ubigeo": "180207",
+    "nombre": "TAPUC"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "DANIEL ALCIDES CARRIÓN",
+    "prov_ubigeo": "180200",
+    "ubigeo": "180208",
+    "nombre": "VILCABAMBA"
+  },
+  {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "DANIEL ALCIDES CARRIÓN",
+    "prov_ubigeo": "180200",
+    "ubigeo": "180201",
+    "nombre": "YANAHUANCA"
+  }
+]
