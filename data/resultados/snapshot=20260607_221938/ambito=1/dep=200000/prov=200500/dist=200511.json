@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 9,
+    "totalActas": 9,
+    "participacionCiudadana": 79.239,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200500,
+    "idUbigeoDistrito": 200511,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2019,
+    "totalVotosValidos": 1936,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 116,
+      "porcentajeVotosValidos": 5.992,
+      "porcentajeVotosEmitidos": 5.745
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1820,
+      "porcentajeVotosValidos": 94.008,
+      "porcentajeVotosEmitidos": 90.144
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "HUANCANÉ",
+    "prov_ubigeo": "200500",
+    "ubigeo": "200511",
+    "nombre": "HUATASANI"
+  }
+}

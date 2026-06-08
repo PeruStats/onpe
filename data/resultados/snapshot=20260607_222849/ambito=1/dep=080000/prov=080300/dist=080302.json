@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 95.833,
+    "contabilizadas": 23,
+    "totalActas": 24,
+    "participacionCiudadana": 63.339,
+    "actasEnviadasJee": 4.167,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 80000,
+    "idUbigeoProvincia": 80300,
+    "idUbigeoDistrito": 80302,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 3946,
+    "totalVotosValidos": 3760,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 350,
+      "porcentajeVotosValidos": 9.309,
+      "porcentajeVotosEmitidos": 8.87
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3410,
+      "porcentajeVotosValidos": 90.691,
+      "porcentajeVotosEmitidos": 86.417
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "ANGARAES",
+    "prov_ubigeo": "080300",
+    "ubigeo": "080302",
+    "nombre": "ANCHONGA"
+  }
+}

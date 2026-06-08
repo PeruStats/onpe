@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 84.615,
+    "contabilizadas": 33,
+    "totalActas": 39,
+    "participacionCiudadana": 73.762,
+    "actasEnviadasJee": 2.564,
+    "enviadasJee": 1,
+    "actasPendientesJee": 12.821,
+    "pendientesJee": 5,
+    "fechaActualizacion": 1780889161712,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200900,
+    "idUbigeoDistrito": 200904,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 8265,
+    "totalVotosValidos": 7904,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1020,
+      "porcentajeVotosValidos": 12.905,
+      "porcentajeVotosEmitidos": 12.341
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 6884,
+      "porcentajeVotosValidos": 87.095,
+      "porcentajeVotosEmitidos": 83.291
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ROMÁN",
+    "prov_ubigeo": "200900",
+    "ubigeo": "200904",
+    "nombre": "CARACOTO"
+  }
+}

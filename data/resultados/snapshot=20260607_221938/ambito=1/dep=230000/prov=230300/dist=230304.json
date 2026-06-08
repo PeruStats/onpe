@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 97.959,
+    "contabilizadas": 48,
+    "totalActas": 49,
+    "participacionCiudadana": 72.753,
+    "actasEnviadasJee": 2.041,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 230000,
+    "idUbigeoProvincia": 230300,
+    "idUbigeoDistrito": 230304,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 10288,
+    "totalVotosValidos": 9642,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2404,
+      "porcentajeVotosValidos": 24.933,
+      "porcentajeVotosEmitidos": 23.367
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 7238,
+      "porcentajeVotosValidos": 75.067,
+      "porcentajeVotosEmitidos": 70.354
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "ZARUMILLA",
+    "prov_ubigeo": "230300",
+    "ubigeo": "230304",
+    "nombre": "AGUAS VERDES"
+  }
+}

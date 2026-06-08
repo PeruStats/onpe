@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 95.833,
+    "contabilizadas": 23,
+    "totalActas": 24,
+    "participacionCiudadana": 65.54,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 4.167,
+    "pendientesJee": 1,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 160000,
+    "idUbigeoProvincia": 160100,
+    "idUbigeoDistrito": 160104,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 4614,
+    "totalVotosValidos": 4421,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 798,
+      "porcentajeVotosValidos": 18.05,
+      "porcentajeVotosEmitidos": 17.295
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3623,
+      "porcentajeVotosValidos": 81.95,
+      "porcentajeVotosEmitidos": 78.522
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "MADRE DE DIOS",
+    "dep_ubigeo": "160000",
+    "prov_name": "TAMBOPATA",
+    "prov_ubigeo": "160100",
+    "ubigeo": "160104",
+    "nombre": "LABERINTO"
+  }
+}

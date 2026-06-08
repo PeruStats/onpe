@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 14,
+    "totalActas": 14,
+    "participacionCiudadana": 69.736,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 61300,
+    "idUbigeoDistrito": 61304,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2620,
+    "totalVotosValidos": 2464,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 822,
+      "porcentajeVotosValidos": 33.36,
+      "porcentajeVotosEmitidos": 31.374
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1642,
+      "porcentajeVotosValidos": 66.64,
+      "porcentajeVotosEmitidos": 62.672
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN PABLO",
+    "prov_ubigeo": "061300",
+    "ubigeo": "061304",
+    "nombre": "TUMBADÉN"
+  }
+}

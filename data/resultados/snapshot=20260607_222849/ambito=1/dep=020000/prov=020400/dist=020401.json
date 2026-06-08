@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 88.372,
+    "contabilizadas": 38,
+    "totalActas": 43,
+    "participacionCiudadana": 70.062,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 11.628,
+    "pendientesJee": 5,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 20400,
+    "idUbigeoDistrito": 20401,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 8652,
+    "totalVotosValidos": 7754,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2454,
+      "porcentajeVotosValidos": 31.648,
+      "porcentajeVotosEmitidos": 28.363
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 5300,
+      "porcentajeVotosValidos": 68.352,
+      "porcentajeVotosEmitidos": 61.258
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "CARHUAZ",
+    "prov_ubigeo": "020400",
+    "ubigeo": "020401",
+    "nombre": "CARHUAZ"
+  }
+}

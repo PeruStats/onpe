@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 28.571,
+    "contabilizadas": 2,
+    "totalActas": 7,
+    "participacionCiudadana": 16.12,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 71.429,
+    "pendientesJee": 5,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 120000,
+    "idUbigeoProvincia": 120600,
+    "idUbigeoDistrito": 120613,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 300,
+    "totalVotosValidos": 273,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 104,
+      "porcentajeVotosValidos": 38.095,
+      "porcentajeVotosEmitidos": 34.667
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 169,
+      "porcentajeVotosValidos": 61.905,
+      "porcentajeVotosEmitidos": 56.333
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120613",
+    "nombre": "SANTIAGO DE CHALLAS"
+  }
+}

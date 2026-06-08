@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 98.592,
+    "contabilizadas": 70,
+    "totalActas": 71,
+    "participacionCiudadana": 83.246,
+    "actasEnviadasJee": 1.408,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 120000,
+    "idUbigeoProvincia": 120100,
+    "idUbigeoDistrito": 120113,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 17361,
+    "totalVotosValidos": 15967,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 6994,
+      "porcentajeVotosValidos": 43.803,
+      "porcentajeVotosEmitidos": 40.286
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 8973,
+      "porcentajeVotosValidos": 56.197,
+      "porcentajeVotosEmitidos": 51.685
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "TRUJILLO",
+    "prov_ubigeo": "120100",
+    "ubigeo": "120113",
+    "nombre": "ALTO TRUJILLO"
+  }
+}

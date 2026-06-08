@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 8.696,
+    "contabilizadas": 2,
+    "totalActas": 23,
+    "participacionCiudadana": 4.384,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 91.304,
+    "pendientesJee": 21,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 60500,
+    "idUbigeoDistrito": 60513,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 281,
+    "totalVotosValidos": 262,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 58,
+      "porcentajeVotosValidos": 22.137,
+      "porcentajeVotosEmitidos": 20.641
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 204,
+      "porcentajeVotosValidos": 77.863,
+      "porcentajeVotosEmitidos": 72.598
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060513",
+    "nombre": "SANTO TOMÁS"
+  }
+}

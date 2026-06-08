@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 86.577,
+    "contabilizadas": 129,
+    "totalActas": 149,
+    "participacionCiudadana": 60.296,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 13.423,
+    "pendientesJee": 20,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 90600,
+    "idUbigeoDistrito": 90601,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 26380,
+    "totalVotosValidos": 24748,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 10712,
+      "porcentajeVotosValidos": 43.284,
+      "porcentajeVotosEmitidos": 40.607
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 14036,
+      "porcentajeVotosValidos": 56.716,
+      "porcentajeVotosEmitidos": 53.207
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LEONCIO PRADO",
+    "prov_ubigeo": "090600",
+    "ubigeo": "090601",
+    "nombre": "RUPA-RUPA"
+  }
+}

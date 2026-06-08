@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 11.429,
+    "contabilizadas": 4,
+    "totalActas": 35,
+    "participacionCiudadana": 9.439,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 88.571,
+    "pendientesJee": 31,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 71200,
+    "idUbigeoDistrito": 71205,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 916,
+    "totalVotosValidos": 873,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 125,
+      "porcentajeVotosValidos": 14.318,
+      "porcentajeVotosEmitidos": 13.646
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 748,
+      "porcentajeVotosValidos": 85.682,
+      "porcentajeVotosEmitidos": 81.659
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "QUISPICANCHI",
+    "prov_ubigeo": "071200",
+    "ubigeo": "071205",
+    "nombre": "CCATCA"
+  }
+}

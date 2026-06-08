@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 92.0,
+    "contabilizadas": 46,
+    "totalActas": 50,
+    "participacionCiudadana": 66.341,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 8.0,
+    "pendientesJee": 4,
+    "fechaActualizacion": 1780889161712,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200400,
+    "idUbigeoDistrito": 200410,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 8962,
+    "totalVotosValidos": 8519,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 586,
+      "porcentajeVotosValidos": 6.879,
+      "porcentajeVotosEmitidos": 6.539
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 7933,
+      "porcentajeVotosValidos": 93.121,
+      "porcentajeVotosEmitidos": 88.518
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CHUCUITO",
+    "prov_ubigeo": "200400",
+    "ubigeo": "200410",
+    "nombre": "ZEPITA"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 5,
+    "totalActas": 5,
+    "participacionCiudadana": 83.078,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40100,
+    "idUbigeoDistrito": 40111,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1085,
+    "totalVotosValidos": 1046,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 222,
+      "porcentajeVotosValidos": 21.224,
+      "porcentajeVotosEmitidos": 20.461
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 824,
+      "porcentajeVotosValidos": 78.776,
+      "porcentajeVotosEmitidos": 75.945
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "AREQUIPA",
+    "prov_ubigeo": "040100",
+    "ubigeo": "040111",
+    "nombre": "POLOBAYA"
+  }
+}

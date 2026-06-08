@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 6.25,
+    "contabilizadas": 1,
+    "totalActas": 16,
+    "participacionCiudadana": 4.504,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 93.75,
+    "pendientesJee": 15,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 80000,
+    "idUbigeoProvincia": 80500,
+    "idUbigeoDistrito": 80519,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 179,
+    "totalVotosValidos": 166,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 28,
+      "porcentajeVotosValidos": 16.867,
+      "porcentajeVotosEmitidos": 15.642
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 138,
+      "porcentajeVotosValidos": 83.133,
+      "porcentajeVotosEmitidos": 77.095
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080519",
+    "nombre": "SALCABAMBA"
+  }
+}

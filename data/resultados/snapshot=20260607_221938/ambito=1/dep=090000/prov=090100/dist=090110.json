@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 97.788,
+    "contabilizadas": 221,
+    "totalActas": 226,
+    "participacionCiudadana": 74.11,
+    "actasEnviadasJee": 0.885,
+    "enviadasJee": 2,
+    "actasPendientesJee": 1.327,
+    "pendientesJee": 3,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 90100,
+    "idUbigeoDistrito": 90110,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 49596,
+    "totalVotosValidos": 46359,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 20736,
+      "porcentajeVotosValidos": 44.729,
+      "porcentajeVotosEmitidos": 41.81
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 25623,
+      "porcentajeVotosValidos": 55.271,
+      "porcentajeVotosEmitidos": 51.663
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090110",
+    "nombre": "AMARILIS"
+  }
+}

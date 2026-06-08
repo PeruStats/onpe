@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 3.39,
+    "contabilizadas": 2,
+    "totalActas": 59,
+    "participacionCiudadana": 2.452,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 96.61,
+    "pendientesJee": 57,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 61100,
+    "idUbigeoDistrito": 61103,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 409,
+    "totalVotosValidos": 393,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 94,
+      "porcentajeVotosValidos": 23.919,
+      "porcentajeVotosEmitidos": 22.983
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 299,
+      "porcentajeVotosValidos": 76.081,
+      "porcentajeVotosEmitidos": 73.105
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN IGNACIO",
+    "prov_ubigeo": "061100",
+    "ubigeo": "061103",
+    "nombre": "HUARANGO"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 78.704,
+    "contabilizadas": 85,
+    "totalActas": 108,
+    "participacionCiudadana": 54.402,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 21.296,
+    "pendientesJee": 23,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 190000,
+    "idUbigeoProvincia": 190100,
+    "idUbigeoDistrito": 190105,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 17078,
+    "totalVotosValidos": 15658,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 6534,
+      "porcentajeVotosValidos": 41.729,
+      "porcentajeVotosEmitidos": 38.26
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 9124,
+      "porcentajeVotosValidos": 58.271,
+      "porcentajeVotosEmitidos": 53.425
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "PIURA",
+    "prov_ubigeo": "190100",
+    "ubigeo": "190105",
+    "nombre": "LA ARENA"
+  }
+}

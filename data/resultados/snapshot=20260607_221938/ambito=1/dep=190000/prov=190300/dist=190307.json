@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 21.429,
+    "contabilizadas": 6,
+    "totalActas": 28,
+    "participacionCiudadana": 11.133,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 78.571,
+    "pendientesJee": 22,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 190000,
+    "idUbigeoProvincia": 190300,
+    "idUbigeoDistrito": 190307,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 893,
+    "totalVotosValidos": 863,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 187,
+      "porcentajeVotosValidos": 21.669,
+      "porcentajeVotosEmitidos": 20.941
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 676,
+      "porcentajeVotosValidos": 78.331,
+      "porcentajeVotosEmitidos": 75.7
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "HUANCABAMBA",
+    "prov_ubigeo": "190300",
+    "ubigeo": "190307",
+    "nombre": "SAN MIGUEL DE EL FAIQUE"
+  }
+}

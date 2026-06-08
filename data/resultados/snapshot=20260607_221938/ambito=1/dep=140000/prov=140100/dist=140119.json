@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 59.055,
+    "contabilizadas": 525,
+    "totalActas": 889,
+    "participacionCiudadana": 46.7,
+    "actasEnviadasJee": 0.9,
+    "enviadasJee": 8,
+    "actasPendientesJee": 40.045,
+    "pendientesJee": 356,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140119,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 122844,
+    "totalVotosValidos": 114834,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 50621,
+      "porcentajeVotosValidos": 44.082,
+      "porcentajeVotosEmitidos": 41.208
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 64213,
+      "porcentajeVotosValidos": 55.918,
+      "porcentajeVotosEmitidos": 52.272
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140119",
+    "nombre": "PUENTE PIEDRA"
+  }
+}

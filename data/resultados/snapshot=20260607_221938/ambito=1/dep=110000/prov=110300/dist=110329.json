@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 4,
+    "totalActas": 4,
+    "participacionCiudadana": 69.017,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110300,
+    "idUbigeoDistrito": 110329,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 695,
+    "totalVotosValidos": 660,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 319,
+      "porcentajeVotosValidos": 48.333,
+      "porcentajeVotosEmitidos": 45.899
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 341,
+      "porcentajeVotosValidos": 51.667,
+      "porcentajeVotosEmitidos": 49.065
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110329",
+    "nombre": "TUNAN MARCA"
+  }
+}

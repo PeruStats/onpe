@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 52.735,
+    "contabilizadas": 588,
+    "totalActas": 1115,
+    "participacionCiudadana": 42.651,
+    "actasEnviadasJee": 1.794,
+    "enviadasJee": 20,
+    "actasPendientesJee": 45.471,
+    "pendientesJee": 507,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140136,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 142067,
+    "totalVotosValidos": 133109,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 47771,
+      "porcentajeVotosValidos": 35.889,
+      "porcentajeVotosEmitidos": 33.626
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 85338,
+      "porcentajeVotosValidos": 64.111,
+      "porcentajeVotosEmitidos": 60.069
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140136",
+    "nombre": "SAN JUAN DE MIRAFLORES"
+  }
+}

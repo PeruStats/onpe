@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 68.421,
+    "contabilizadas": 91,
+    "totalActas": 133,
+    "participacionCiudadana": 53.681,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 31.579,
+    "pendientesJee": 42,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 130000,
+    "idUbigeoProvincia": 130300,
+    "idUbigeoDistrito": 130306,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 20877,
+    "totalVotosValidos": 19319,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 5787,
+      "porcentajeVotosValidos": 29.955,
+      "porcentajeVotosEmitidos": 27.719
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 13532,
+      "porcentajeVotosValidos": 70.045,
+      "porcentajeVotosEmitidos": 64.818
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130306",
+    "nombre": "MÓRROPE"
+  }
+}

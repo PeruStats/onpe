@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 95.833,
+    "contabilizadas": 23,
+    "totalActas": 24,
+    "participacionCiudadana": 76.645,
+    "actasEnviadasJee": 4.167,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140123,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5323,
+    "totalVotosValidos": 5054,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1579,
+      "porcentajeVotosValidos": 31.243,
+      "porcentajeVotosEmitidos": 29.664
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 3475,
+      "porcentajeVotosValidos": 68.757,
+      "porcentajeVotosEmitidos": 65.283
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140123",
+    "nombre": "SAN BARTOLO"
+  }
+}

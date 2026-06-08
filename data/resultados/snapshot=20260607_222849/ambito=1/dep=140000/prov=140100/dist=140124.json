@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 57.651,
+    "contabilizadas": 162,
+    "totalActas": 281,
+    "participacionCiudadana": 42.868,
+    "actasEnviadasJee": 0.356,
+    "enviadasJee": 1,
+    "actasPendientesJee": 41.993,
+    "pendientesJee": 118,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140124,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 35970,
+    "totalVotosValidos": 34378,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 5036,
+      "porcentajeVotosValidos": 14.649,
+      "porcentajeVotosEmitidos": 14.001
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 29342,
+      "porcentajeVotosValidos": 85.351,
+      "porcentajeVotosEmitidos": 81.574
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140124",
+    "nombre": "SAN ISIDRO"
+  }
+}

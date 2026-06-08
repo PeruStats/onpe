@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 88.889,
+    "contabilizadas": 8,
+    "totalActas": 9,
+    "participacionCiudadana": 57.046,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 11.111,
+    "pendientesJee": 1,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 61200,
+    "idUbigeoDistrito": 61207,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1510,
+    "totalVotosValidos": 1329,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 657,
+      "porcentajeVotosValidos": 49.436,
+      "porcentajeVotosEmitidos": 43.51
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 672,
+      "porcentajeVotosValidos": 50.564,
+      "porcentajeVotosEmitidos": 44.503
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MARCOS",
+    "prov_ubigeo": "061200",
+    "ubigeo": "061207",
+    "nombre": "CHANCAY"
+  }
+}

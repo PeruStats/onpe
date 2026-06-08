@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 23,
+    "totalActas": 23,
+    "participacionCiudadana": 58.237,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 180000,
+    "idUbigeoProvincia": 180100,
+    "idUbigeoDistrito": 180109,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 3528,
+    "totalVotosValidos": 3327,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 853,
+      "porcentajeVotosValidos": 25.639,
+      "porcentajeVotosEmitidos": 24.178
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2474,
+      "porcentajeVotosValidos": 74.361,
+      "porcentajeVotosEmitidos": 70.125
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "PASCO",
+    "prov_ubigeo": "180100",
+    "ubigeo": "180109",
+    "nombre": "SAN FRANCISCO DE ASÍS DE YARUSYACÁN"
+  }
+}

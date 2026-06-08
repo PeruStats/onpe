@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 2,
+    "totalActas": 2,
+    "participacionCiudadana": 61.121,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 20200,
+    "idUbigeoDistrito": 20205,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 327,
+    "totalVotosValidos": 316,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 100,
+      "porcentajeVotosValidos": 31.646,
+      "porcentajeVotosEmitidos": 30.581
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 216,
+      "porcentajeVotosValidos": 68.354,
+      "porcentajeVotosEmitidos": 66.055
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "AIJA",
+    "prov_ubigeo": "020200",
+    "ubigeo": "020205",
+    "nombre": "HUACLLAN"
+  }
+}

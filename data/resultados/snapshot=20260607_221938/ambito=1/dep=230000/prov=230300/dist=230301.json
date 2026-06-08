@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 98.246,
+    "contabilizadas": 56,
+    "totalActas": 57,
+    "participacionCiudadana": 72.956,
+    "actasEnviadasJee": 1.754,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 230000,
+    "idUbigeoProvincia": 230300,
+    "idUbigeoDistrito": 230301,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 11948,
+    "totalVotosValidos": 11106,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2747,
+      "porcentajeVotosValidos": 24.734,
+      "porcentajeVotosEmitidos": 22.991
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 8359,
+      "porcentajeVotosValidos": 75.266,
+      "porcentajeVotosEmitidos": 69.961
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "ZARUMILLA",
+    "prov_ubigeo": "230300",
+    "ubigeo": "230301",
+    "nombre": "ZARUMILLA"
+  }
+}

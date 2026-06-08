@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 20.0,
+    "contabilizadas": 1,
+    "totalActas": 5,
+    "participacionCiudadana": 14.572,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 80.0,
+    "pendientesJee": 4,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 21600,
+    "idUbigeoDistrito": 21606,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 182,
+    "totalVotosValidos": 174,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 9,
+      "porcentajeVotosValidos": 5.172,
+      "porcentajeVotosEmitidos": 4.945
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 165,
+      "porcentajeVotosValidos": 94.828,
+      "porcentajeVotosEmitidos": 90.659
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "ANTONIO RAIMONDI",
+    "prov_ubigeo": "021600",
+    "ubigeo": "021606",
+    "nombre": "SAN JUAN DE RONTOY"
+  }
+}

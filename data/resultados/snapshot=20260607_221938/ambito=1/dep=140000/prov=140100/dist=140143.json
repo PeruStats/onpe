@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 96.825,
+    "contabilizadas": 610,
+    "totalActas": 630,
+    "participacionCiudadana": 79.3,
+    "actasEnviadasJee": 3.175,
+    "enviadasJee": 20,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140143,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 149161,
+    "totalVotosValidos": 140318,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 58232,
+      "porcentajeVotosValidos": 41.5,
+      "porcentajeVotosEmitidos": 39.04
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 82086,
+      "porcentajeVotosValidos": 58.5,
+      "porcentajeVotosEmitidos": 55.032
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140143",
+    "nombre": "SANTA ANITA"
+  }
+}

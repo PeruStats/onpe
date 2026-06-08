@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 94.1,
+    "contabilizadas": 925,
+    "totalActas": 983,
+    "participacionCiudadana": 76.123,
+    "actasEnviadasJee": 1.221,
+    "enviadasJee": 12,
+    "actasPendientesJee": 4.679,
+    "pendientesJee": 46,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140142,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 223613,
+    "totalVotosValidos": 209610,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 79327,
+      "porcentajeVotosValidos": 37.845,
+      "porcentajeVotosEmitidos": 35.475
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 130283,
+      "porcentajeVotosValidos": 62.155,
+      "porcentajeVotosEmitidos": 58.263
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140142",
+    "nombre": "LOS OLIVOS"
+  }
+}

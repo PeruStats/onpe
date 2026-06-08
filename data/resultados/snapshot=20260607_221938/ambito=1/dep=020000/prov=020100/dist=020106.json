@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 52.941,
+    "contabilizadas": 9,
+    "totalActas": 17,
+    "participacionCiudadana": 45.078,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 47.059,
+    "pendientesJee": 8,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 20100,
+    "idUbigeoDistrito": 20106,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2015,
+    "totalVotosValidos": 1878,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 752,
+      "porcentajeVotosValidos": 40.043,
+      "porcentajeVotosEmitidos": 37.32
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1126,
+      "porcentajeVotosValidos": 59.957,
+      "porcentajeVotosEmitidos": 55.881
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARAZ",
+    "prov_ubigeo": "020100",
+    "ubigeo": "020106",
+    "nombre": "JANGAS"
+  }
+}

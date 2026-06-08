@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 26,
+    "totalActas": 26,
+    "participacionCiudadana": 77.177,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 230000,
+    "idUbigeoProvincia": 230100,
+    "idUbigeoDistrito": 230103,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5654,
+    "totalVotosValidos": 5193,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1937,
+      "porcentajeVotosValidos": 37.3,
+      "porcentajeVotosEmitidos": 34.259
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 3256,
+      "porcentajeVotosValidos": 62.7,
+      "porcentajeVotosEmitidos": 57.588
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "TUMBES",
+    "prov_ubigeo": "230100",
+    "ubigeo": "230103",
+    "nombre": "LA CRUZ"
+  }
+}

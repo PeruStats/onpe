@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 84.874,
+    "contabilizadas": 101,
+    "totalActas": 119,
+    "participacionCiudadana": 44.014,
+    "actasEnviadasJee": 2.521,
+    "enviadasJee": 3,
+    "actasPendientesJee": 12.605,
+    "pendientesJee": 15,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 20800,
+    "idUbigeoDistrito": 20813,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 14750,
+    "totalVotosValidos": 13740,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 4140,
+      "porcentajeVotosValidos": 30.131,
+      "porcentajeVotosEmitidos": 28.068
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 9600,
+      "porcentajeVotosValidos": 69.869,
+      "porcentajeVotosEmitidos": 65.085
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020813",
+    "nombre": "SAN MARCOS"
+  }
+}

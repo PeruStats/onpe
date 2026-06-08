@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 0.0,
+    "contabilizadas": 0,
+    "totalActas": 8,
+    "participacionCiudadana": 0.0,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 100.0,
+    "pendientesJee": 8,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 50000,
+    "idUbigeoProvincia": 51100,
+    "idUbigeoDistrito": 51101,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 0,
+    "totalVotosValidos": 0,
+    "porcentajeVotosEmitidos": 0,
+    "porcentajeVotosValidos": 0
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 0,
+      "porcentajeVotosValidos": 0.0,
+      "porcentajeVotosEmitidos": 0.0
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 0,
+      "porcentajeVotosValidos": 0.0,
+      "porcentajeVotosEmitidos": 0.0
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "SUCRE",
+    "prov_ubigeo": "051100",
+    "ubigeo": "051101",
+    "nombre": "QUEROBAMBA"
+  }
+}

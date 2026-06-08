@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 96.667,
+    "contabilizadas": 58,
+    "totalActas": 60,
+    "participacionCiudadana": 74.338,
+    "actasEnviadasJee": 3.333,
+    "enviadasJee": 2,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110100,
+    "idUbigeoDistrito": 110123,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 13166,
+    "totalVotosValidos": 12356,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 5459,
+      "porcentajeVotosValidos": 44.181,
+      "porcentajeVotosEmitidos": 41.463
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 6897,
+      "porcentajeVotosValidos": 55.819,
+      "porcentajeVotosEmitidos": 52.385
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "HUANCAYO",
+    "prov_ubigeo": "110100",
+    "ubigeo": "110123",
+    "nombre": "PILCOMAYO"
+  }
+}

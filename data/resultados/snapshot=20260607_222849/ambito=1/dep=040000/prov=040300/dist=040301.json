@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 91.111,
+    "contabilizadas": 41,
+    "totalActas": 45,
+    "participacionCiudadana": 67.975,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 8.889,
+    "pendientesJee": 4,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40300,
+    "idUbigeoDistrito": 40301,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 8887,
+    "totalVotosValidos": 8414,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3721,
+      "porcentajeVotosValidos": 44.224,
+      "porcentajeVotosEmitidos": 41.87
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 4693,
+      "porcentajeVotosValidos": 55.776,
+      "porcentajeVotosEmitidos": 52.807
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040301",
+    "nombre": "CAMANÁ"
+  }
+}

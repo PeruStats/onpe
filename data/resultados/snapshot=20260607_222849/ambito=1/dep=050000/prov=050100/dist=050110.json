@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 4.762,
+    "contabilizadas": 1,
+    "totalActas": 21,
+    "participacionCiudadana": 3.596,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 95.238,
+    "pendientesJee": 20,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 50000,
+    "idUbigeoProvincia": 50100,
+    "idUbigeoDistrito": 50110,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 217,
+    "totalVotosValidos": 201,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 58,
+      "porcentajeVotosValidos": 28.856,
+      "porcentajeVotosEmitidos": 26.728
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 143,
+      "porcentajeVotosValidos": 71.144,
+      "porcentajeVotosEmitidos": 65.899
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUAMANGA",
+    "prov_ubigeo": "050100",
+    "ubigeo": "050110",
+    "nombre": "TAMBILLO"
+  }
+}

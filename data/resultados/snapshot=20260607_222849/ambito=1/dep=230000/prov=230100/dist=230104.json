@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 95.455,
+    "contabilizadas": 21,
+    "totalActas": 22,
+    "participacionCiudadana": 77.517,
+    "actasEnviadasJee": 4.545,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 230000,
+    "idUbigeoProvincia": 230100,
+    "idUbigeoDistrito": 230104,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 4758,
+    "totalVotosValidos": 4409,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1649,
+      "porcentajeVotosValidos": 37.401,
+      "porcentajeVotosEmitidos": 34.657
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2760,
+      "porcentajeVotosValidos": 62.599,
+      "porcentajeVotosEmitidos": 58.008
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "TUMBES",
+    "dep_ubigeo": "230000",
+    "prov_name": "TUMBES",
+    "prov_ubigeo": "230100",
+    "ubigeo": "230104",
+    "nombre": "PAMPAS DE HOSPITAL"
+  }
+}

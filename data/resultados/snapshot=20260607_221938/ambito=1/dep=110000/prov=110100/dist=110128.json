@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 94.444,
+    "contabilizadas": 34,
+    "totalActas": 36,
+    "participacionCiudadana": 71.841,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 5.556,
+    "pendientesJee": 2,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110100,
+    "idUbigeoDistrito": 110128,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 7646,
+    "totalVotosValidos": 7181,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 3255,
+      "porcentajeVotosValidos": 45.328,
+      "porcentajeVotosEmitidos": 42.571
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3926,
+      "porcentajeVotosValidos": 54.672,
+      "porcentajeVotosEmitidos": 51.347
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "HUANCAYO",
+    "prov_ubigeo": "110100",
+    "ubigeo": "110128",
+    "nombre": "SAN JERÓNIMO DE TUNÁN"
+  }
+}

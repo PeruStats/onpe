@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 13,
+    "totalActas": 13,
+    "participacionCiudadana": 76.008,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 90200,
+    "idUbigeoDistrito": 90208,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2753,
+    "totalVotosValidos": 2491,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1220,
+      "porcentajeVotosValidos": 48.976,
+      "porcentajeVotosEmitidos": 44.315
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1271,
+      "porcentajeVotosValidos": 51.024,
+      "porcentajeVotosEmitidos": 46.168
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "AMBO",
+    "prov_ubigeo": "090200",
+    "ubigeo": "090208",
+    "nombre": "TOMAY - KICHWA"
+  }
+}

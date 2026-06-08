@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 82.313,
+    "contabilizadas": 121,
+    "totalActas": 147,
+    "participacionCiudadana": 65.807,
+    "actasEnviadasJee": 6.122,
+    "enviadasJee": 9,
+    "actasPendientesJee": 11.565,
+    "pendientesJee": 17,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 240000,
+    "idUbigeoProvincia": 240100,
+    "idUbigeoDistrito": 240104,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 28260,
+    "totalVotosValidos": 26333,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 8737,
+      "porcentajeVotosValidos": 33.179,
+      "porcentajeVotosEmitidos": 30.916
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 17596,
+      "porcentajeVotosValidos": 66.821,
+      "porcentajeVotosEmitidos": 62.265
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CALLAO",
+    "dep_ubigeo": "240000",
+    "prov_name": "CALLAO",
+    "prov_ubigeo": "240100",
+    "ubigeo": "240104",
+    "nombre": "CARMEN DE LA LEGUA - REYNOSO"
+  }
+}

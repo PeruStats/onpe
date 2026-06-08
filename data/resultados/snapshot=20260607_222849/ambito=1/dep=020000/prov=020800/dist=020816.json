@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 18.182,
+    "contabilizadas": 2,
+    "totalActas": 11,
+    "participacionCiudadana": 8.251,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 81.818,
+    "pendientesJee": 9,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 20800,
+    "idUbigeoDistrito": 20816,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 234,
+    "totalVotosValidos": 222,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 53,
+      "porcentajeVotosValidos": 23.874,
+      "porcentajeVotosEmitidos": 22.65
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 169,
+      "porcentajeVotosValidos": 76.126,
+      "porcentajeVotosEmitidos": 72.222
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARI",
+    "prov_ubigeo": "020800",
+    "ubigeo": "020816",
+    "nombre": "ANRA"
+  }
+}

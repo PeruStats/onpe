@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 66.667,
+    "contabilizadas": 12,
+    "totalActas": 18,
+    "participacionCiudadana": 44.997,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 33.333,
+    "pendientesJee": 6,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 10000,
+    "idUbigeoProvincia": 10300,
+    "idUbigeoDistrito": 10311,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2226,
+    "totalVotosValidos": 2075,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 867,
+      "porcentajeVotosValidos": 41.783,
+      "porcentajeVotosEmitidos": 38.949
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1208,
+      "porcentajeVotosValidos": 58.217,
+      "porcentajeVotosEmitidos": 54.268
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010311",
+    "nombre": "YAMBRASBAMBA"
+  }
+}

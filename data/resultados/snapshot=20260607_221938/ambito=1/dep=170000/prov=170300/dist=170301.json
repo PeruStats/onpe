@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 89.655,
+    "contabilizadas": 182,
+    "totalActas": 203,
+    "participacionCiudadana": 71.475,
+    "actasEnviadasJee": 0.493,
+    "enviadasJee": 1,
+    "actasPendientesJee": 9.852,
+    "pendientesJee": 20,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 170000,
+    "idUbigeoProvincia": 170300,
+    "idUbigeoDistrito": 170301,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 42541,
+    "totalVotosValidos": 39928,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 13586,
+      "porcentajeVotosValidos": 34.026,
+      "porcentajeVotosEmitidos": 31.936
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 26342,
+      "porcentajeVotosValidos": 65.974,
+      "porcentajeVotosEmitidos": 61.921
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "ILO",
+    "prov_ubigeo": "170300",
+    "ubigeo": "170301",
+    "nombre": "ILO"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 10.714,
+    "contabilizadas": 6,
+    "totalActas": 56,
+    "participacionCiudadana": 7.064,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 89.286,
+    "pendientesJee": 50,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 61200,
+    "idUbigeoDistrito": 61201,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1105,
+    "totalVotosValidos": 997,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 295,
+      "porcentajeVotosValidos": 29.589,
+      "porcentajeVotosEmitidos": 26.697
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 702,
+      "porcentajeVotosValidos": 70.411,
+      "porcentajeVotosEmitidos": 63.529
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SAN MARCOS",
+    "prov_ubigeo": "061200",
+    "ubigeo": "061201",
+    "nombre": "PEDRO GÁLVEZ"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 96.443,
+    "contabilizadas": 488,
+    "totalActas": 506,
+    "participacionCiudadana": 78.822,
+    "actasEnviadasJee": 0.198,
+    "enviadasJee": 1,
+    "actasPendientesJee": 3.359,
+    "pendientesJee": 17,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40100,
+    "idUbigeoDistrito": 40103,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 117949,
+    "totalVotosValidos": 110623,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 36426,
+      "porcentajeVotosValidos": 32.928,
+      "porcentajeVotosEmitidos": 30.883
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 74197,
+      "porcentajeVotosValidos": 67.072,
+      "porcentajeVotosEmitidos": 62.906
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "AREQUIPA",
+    "prov_ubigeo": "040100",
+    "ubigeo": "040103",
+    "nombre": "CERRO COLORADO"
+  }
+}

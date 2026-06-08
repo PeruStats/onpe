@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 9.63,
+    "contabilizadas": 13,
+    "totalActas": 135,
+    "participacionCiudadana": 6.519,
+    "actasEnviadasJee": 0.741,
+    "enviadasJee": 1,
+    "actasPendientesJee": 89.629,
+    "pendientesJee": 121,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 201200,
+    "idUbigeoDistrito": 201201,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2515,
+    "totalVotosValidos": 2413,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 152,
+      "porcentajeVotosValidos": 6.299,
+      "porcentajeVotosEmitidos": 6.044
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2261,
+      "porcentajeVotosValidos": 93.701,
+      "porcentajeVotosEmitidos": 89.901
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "EL COLLAO",
+    "prov_ubigeo": "201200",
+    "ubigeo": "201201",
+    "nombre": "ILAVE"
+  }
+}

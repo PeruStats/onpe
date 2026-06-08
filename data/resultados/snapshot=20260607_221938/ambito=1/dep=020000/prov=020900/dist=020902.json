@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 14,
+    "totalActas": 14,
+    "participacionCiudadana": 58.252,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 20900,
+    "idUbigeoDistrito": 20902,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2199,
+    "totalVotosValidos": 2022,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 476,
+      "porcentajeVotosValidos": 23.541,
+      "porcentajeVotosEmitidos": 21.646
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1546,
+      "porcentajeVotosValidos": 76.459,
+      "porcentajeVotosEmitidos": 70.305
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "MARISCAL LUZURIAGA",
+    "prov_ubigeo": "020900",
+    "ubigeo": "020902",
+    "nombre": "CASCA"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 28.804,
+    "contabilizadas": 53,
+    "totalActas": 184,
+    "participacionCiudadana": 23.662,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 71.196,
+    "pendientesJee": 131,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 100000,
+    "idUbigeoProvincia": 100400,
+    "idUbigeoDistrito": 100401,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 12821,
+    "totalVotosValidos": 11967,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 4783,
+      "porcentajeVotosValidos": 39.968,
+      "porcentajeVotosEmitidos": 37.306
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 7184,
+      "porcentajeVotosValidos": 60.032,
+      "porcentajeVotosEmitidos": 56.033
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "PISCO",
+    "prov_ubigeo": "100400",
+    "ubigeo": "100401",
+    "nombre": "PISCO"
+  }
+}

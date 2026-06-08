@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 67.391,
+    "contabilizadas": 31,
+    "totalActas": 46,
+    "participacionCiudadana": 51.833,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 32.609,
+    "pendientesJee": 15,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110200,
+    "idUbigeoDistrito": 110201,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 6899,
+    "totalVotosValidos": 6440,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2984,
+      "porcentajeVotosValidos": 46.335,
+      "porcentajeVotosEmitidos": 43.253
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3456,
+      "porcentajeVotosValidos": 53.665,
+      "porcentajeVotosEmitidos": 50.094
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110201",
+    "nombre": "CONCEPCIÓN"
+  }
+}

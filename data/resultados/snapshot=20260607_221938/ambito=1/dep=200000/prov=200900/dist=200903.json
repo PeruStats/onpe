@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 50.0,
+    "contabilizadas": 7,
+    "totalActas": 14,
+    "participacionCiudadana": 38.802,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 50.0,
+    "pendientesJee": 7,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200900,
+    "idUbigeoDistrito": 200903,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1568,
+    "totalVotosValidos": 1491,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 204,
+      "porcentajeVotosValidos": 13.682,
+      "porcentajeVotosEmitidos": 13.01
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1287,
+      "porcentajeVotosValidos": 86.318,
+      "porcentajeVotosEmitidos": 82.079
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "SAN ROMÁN",
+    "prov_ubigeo": "200900",
+    "ubigeo": "200903",
+    "nombre": "CABANILLAS"
+  }
+}

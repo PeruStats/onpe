@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 3.03,
+    "contabilizadas": 1,
+    "totalActas": 33,
+    "participacionCiudadana": 1.501,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 96.97,
+    "pendientesJee": 32,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 60300,
+    "idUbigeoDistrito": 60309,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 128,
+    "totalVotosValidos": 124,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 23,
+      "porcentajeVotosValidos": 18.548,
+      "porcentajeVotosEmitidos": 17.969
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 101,
+      "porcentajeVotosValidos": 81.452,
+      "porcentajeVotosEmitidos": 78.906
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CELENDÍN",
+    "prov_ubigeo": "060300",
+    "ubigeo": "060309",
+    "nombre": "SOROCHUCO"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 97.455,
+    "contabilizadas": 268,
+    "totalActas": 275,
+    "participacionCiudadana": 79.738,
+    "actasEnviadasJee": 1.091,
+    "enviadasJee": 3,
+    "actasPendientesJee": 1.454,
+    "pendientesJee": 4,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40100,
+    "idUbigeoDistrito": 40102,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 64851,
+    "totalVotosValidos": 60879,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 24345,
+      "porcentajeVotosValidos": 39.989,
+      "porcentajeVotosEmitidos": 37.54
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 36534,
+      "porcentajeVotosValidos": 60.011,
+      "porcentajeVotosEmitidos": 56.335
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "AREQUIPA",
+    "prov_ubigeo": "040100",
+    "ubigeo": "040102",
+    "nombre": "CAYMA"
+  }
+}

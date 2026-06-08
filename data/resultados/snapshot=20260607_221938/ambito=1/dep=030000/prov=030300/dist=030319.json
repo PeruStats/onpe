@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 8,
+    "totalActas": 8,
+    "participacionCiudadana": 71.572,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 30000,
+    "idUbigeoProvincia": 30300,
+    "idUbigeoDistrito": 30319,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1493,
+    "totalVotosValidos": 1421,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 122,
+      "porcentajeVotosValidos": 8.586,
+      "porcentajeVotosEmitidos": 8.171
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1299,
+      "porcentajeVotosValidos": 91.414,
+      "porcentajeVotosEmitidos": 87.006
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030319",
+    "nombre": "KAQUIABAMBA"
+  }
+}

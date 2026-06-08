@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 22.222,
+    "contabilizadas": 2,
+    "totalActas": 9,
+    "participacionCiudadana": 17.215,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 77.778,
+    "pendientesJee": 7,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 30000,
+    "idUbigeoProvincia": 30200,
+    "idUbigeoDistrito": 30212,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 403,
+    "totalVotosValidos": 387,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 84,
+      "porcentajeVotosValidos": 21.705,
+      "porcentajeVotosEmitidos": 20.844
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 303,
+      "porcentajeVotosValidos": 78.295,
+      "porcentajeVotosEmitidos": 75.186
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030212",
+    "nombre": "TAPAIRIHUA"
+  }
+}

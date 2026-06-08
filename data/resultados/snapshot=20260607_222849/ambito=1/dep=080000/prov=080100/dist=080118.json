@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 64.179,
+    "contabilizadas": 43,
+    "totalActas": 67,
+    "participacionCiudadana": 41.514,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 35.821,
+    "pendientesJee": 24,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 80000,
+    "idUbigeoProvincia": 80100,
+    "idUbigeoDistrito": 80118,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 7749,
+    "totalVotosValidos": 7423,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 838,
+      "porcentajeVotosValidos": 11.289,
+      "porcentajeVotosEmitidos": 10.814
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 6585,
+      "porcentajeVotosValidos": 88.711,
+      "porcentajeVotosEmitidos": 84.979
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "HUANCAVELICA",
+    "prov_ubigeo": "080100",
+    "ubigeo": "080118",
+    "nombre": "YAULI"
+  }
+}

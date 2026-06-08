@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 66.379,
+    "contabilizadas": 77,
+    "totalActas": 116,
+    "participacionCiudadana": 53.996,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 33.621,
+    "pendientesJee": 39,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 240000,
+    "idUbigeoProvincia": 240100,
+    "idUbigeoDistrito": 240107,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 18324,
+    "totalVotosValidos": 17058,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 7037,
+      "porcentajeVotosValidos": 41.253,
+      "porcentajeVotosEmitidos": 38.403
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 10021,
+      "porcentajeVotosValidos": 58.747,
+      "porcentajeVotosEmitidos": 54.688
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CALLAO",
+    "dep_ubigeo": "240000",
+    "prov_name": "CALLAO",
+    "prov_ubigeo": "240100",
+    "ubigeo": "240107",
+    "nombre": "MI PERÚ"
+  }
+}

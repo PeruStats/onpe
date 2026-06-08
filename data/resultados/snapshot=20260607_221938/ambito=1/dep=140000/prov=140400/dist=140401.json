@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 83.007,
+    "contabilizadas": 127,
+    "totalActas": 153,
+    "participacionCiudadana": 66.369,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 16.993,
+    "pendientesJee": 26,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140400,
+    "idUbigeoDistrito": 140401,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 29783,
+    "totalVotosValidos": 27870,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 12683,
+      "porcentajeVotosValidos": 45.508,
+      "porcentajeVotosEmitidos": 42.585
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 15187,
+      "porcentajeVotosValidos": 54.492,
+      "porcentajeVotosEmitidos": 50.992
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "CAÑETE",
+    "prov_ubigeo": "140400",
+    "ubigeo": "140401",
+    "nombre": "SAN VICENTE DE CAÑETE"
+  }
+}

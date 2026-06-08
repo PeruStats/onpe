@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 8.333,
+    "contabilizadas": 1,
+    "totalActas": 12,
+    "participacionCiudadana": 2.716,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 91.667,
+    "pendientesJee": 11,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 10000,
+    "idUbigeoProvincia": 10400,
+    "idUbigeoDistrito": 10420,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 74,
+    "totalVotosValidos": 68,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 32,
+      "porcentajeVotosValidos": 47.059,
+      "porcentajeVotosEmitidos": 43.243
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 36,
+      "porcentajeVotosValidos": 52.941,
+      "porcentajeVotosEmitidos": 48.649
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "LUYA",
+    "prov_ubigeo": "010400",
+    "ubigeo": "010420",
+    "nombre": "SANTO TOMÁS"
+  }
+}

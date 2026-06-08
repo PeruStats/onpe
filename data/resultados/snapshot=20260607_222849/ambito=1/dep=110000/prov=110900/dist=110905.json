@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 86.957,
+    "contabilizadas": 20,
+    "totalActas": 23,
+    "participacionCiudadana": 70.17,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 13.043,
+    "pendientesJee": 3,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110900,
+    "idUbigeoDistrito": 110905,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 4787,
+    "totalVotosValidos": 4522,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2066,
+      "porcentajeVotosValidos": 45.688,
+      "porcentajeVotosEmitidos": 43.159
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2456,
+      "porcentajeVotosValidos": 54.312,
+      "porcentajeVotosEmitidos": 51.306
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHUPACA",
+    "prov_ubigeo": "110900",
+    "ubigeo": "110905",
+    "nombre": "HUAMANCACA CHICO"
+  }
+}

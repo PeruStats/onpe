@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 83.333,
+    "contabilizadas": 5,
+    "totalActas": 6,
+    "participacionCiudadana": 60.12,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 16.667,
+    "pendientesJee": 1,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 70500,
+    "idUbigeoDistrito": 70506,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1004,
+    "totalVotosValidos": 940,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 82,
+      "porcentajeVotosValidos": 8.723,
+      "porcentajeVotosEmitidos": 8.167
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 858,
+      "porcentajeVotosValidos": 91.277,
+      "porcentajeVotosEmitidos": 85.458
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070506",
+    "nombre": "PAMPAMARCA"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 71.429,
+    "contabilizadas": 5,
+    "totalActas": 7,
+    "participacionCiudadana": 59.87,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 28.571,
+    "pendientesJee": 2,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200600,
+    "idUbigeoDistrito": 200606,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1195,
+    "totalVotosValidos": 1154,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 128,
+      "porcentajeVotosValidos": 11.092,
+      "porcentajeVotosEmitidos": 10.711
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1026,
+      "porcentajeVotosValidos": 88.908,
+      "porcentajeVotosEmitidos": 85.858
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "LAMPA",
+    "prov_ubigeo": "200600",
+    "ubigeo": "200606",
+    "nombre": "PALCA"
+  }
+}

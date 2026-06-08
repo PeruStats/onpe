@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 97.297,
+    "contabilizadas": 36,
+    "totalActas": 37,
+    "participacionCiudadana": 59.108,
+    "actasEnviadasJee": 2.703,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 210000,
+    "idUbigeoProvincia": 210400,
+    "idUbigeoDistrito": 210402,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 6438,
+    "totalVotosValidos": 5973,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1794,
+      "porcentajeVotosValidos": 30.035,
+      "porcentajeVotosEmitidos": 27.866
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 4179,
+      "porcentajeVotosValidos": 69.965,
+      "porcentajeVotosEmitidos": 64.911
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MARISCAL CÁCERES",
+    "prov_ubigeo": "210400",
+    "ubigeo": "210402",
+    "nombre": "CAMPANILLA"
+  }
+}

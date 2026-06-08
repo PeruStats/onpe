@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 38.287,
+    "contabilizadas": 219,
+    "totalActas": 572,
+    "participacionCiudadana": 30.965,
+    "actasEnviadasJee": 1.049,
+    "enviadasJee": 6,
+    "actasPendientesJee": 60.664,
+    "pendientesJee": 347,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140135,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 52254,
+    "totalVotosValidos": 49035,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 18391,
+      "porcentajeVotosValidos": 37.506,
+      "porcentajeVotosEmitidos": 35.195
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 30644,
+      "porcentajeVotosValidos": 62.494,
+      "porcentajeVotosEmitidos": 58.644
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140135",
+    "nombre": "EL AGUSTINO"
+  }
+}

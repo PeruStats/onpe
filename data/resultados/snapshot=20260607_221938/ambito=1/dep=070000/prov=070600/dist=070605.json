@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 17.391,
+    "contabilizadas": 4,
+    "totalActas": 23,
+    "participacionCiudadana": 12.562,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 82.609,
+    "pendientesJee": 19,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 70600,
+    "idUbigeoDistrito": 70605,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 816,
+    "totalVotosValidos": 770,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 70,
+      "porcentajeVotosValidos": 9.091,
+      "porcentajeVotosEmitidos": 8.578
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 700,
+      "porcentajeVotosValidos": 90.909,
+      "porcentajeVotosEmitidos": 85.784
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANCHIS",
+    "prov_ubigeo": "070600",
+    "ubigeo": "070605",
+    "nombre": "PITUMARCA"
+  }
+}

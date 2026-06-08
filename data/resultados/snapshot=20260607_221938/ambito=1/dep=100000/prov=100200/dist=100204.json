@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 38,
+    "totalActas": 38,
+    "participacionCiudadana": 83.827,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 100000,
+    "idUbigeoProvincia": 100200,
+    "idUbigeoDistrito": 100204,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 9221,
+    "totalVotosValidos": 8662,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 3755,
+      "porcentajeVotosValidos": 43.35,
+      "porcentajeVotosEmitidos": 40.722
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 4907,
+      "porcentajeVotosValidos": 56.65,
+      "porcentajeVotosEmitidos": 53.215
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100204",
+    "nombre": "EL CARMEN"
+  }
+}

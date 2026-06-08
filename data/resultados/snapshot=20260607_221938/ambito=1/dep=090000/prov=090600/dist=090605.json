@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 89.474,
+    "contabilizadas": 34,
+    "totalActas": 38,
+    "participacionCiudadana": 59.248,
+    "actasEnviadasJee": 2.632,
+    "enviadasJee": 1,
+    "actasPendientesJee": 7.894,
+    "pendientesJee": 3,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 90600,
+    "idUbigeoDistrito": 90605,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 6378,
+    "totalVotosValidos": 5912,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2692,
+      "porcentajeVotosValidos": 45.535,
+      "porcentajeVotosEmitidos": 42.208
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3220,
+      "porcentajeVotosValidos": 54.465,
+      "porcentajeVotosEmitidos": 50.486
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LEONCIO PRADO",
+    "prov_ubigeo": "090600",
+    "ubigeo": "090605",
+    "nombre": "MARIANO DÁMASO BERAÚN"
+  }
+}

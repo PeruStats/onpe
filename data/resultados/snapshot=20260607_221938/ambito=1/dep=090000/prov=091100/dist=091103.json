@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 90.0,
+    "contabilizadas": 9,
+    "totalActas": 10,
+    "participacionCiudadana": 38.272,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 10.0,
+    "pendientesJee": 1,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 91100,
+    "idUbigeoDistrito": 91103,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1072,
+    "totalVotosValidos": 1025,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 210,
+      "porcentajeVotosValidos": 20.488,
+      "porcentajeVotosEmitidos": 19.59
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 815,
+      "porcentajeVotosValidos": 79.512,
+      "porcentajeVotosEmitidos": 76.026
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091103",
+    "nombre": "CAHUAC"
+  }
+}

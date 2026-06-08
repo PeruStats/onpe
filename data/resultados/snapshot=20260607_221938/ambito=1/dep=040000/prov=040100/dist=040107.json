@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 176,
+    "totalActas": 176,
+    "participacionCiudadana": 82.107,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40100,
+    "idUbigeoDistrito": 40107,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 42983,
+    "totalVotosValidos": 40139,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 16752,
+      "porcentajeVotosValidos": 41.735,
+      "porcentajeVotosEmitidos": 38.974
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 23387,
+      "porcentajeVotosValidos": 58.265,
+      "porcentajeVotosEmitidos": 54.41
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "AREQUIPA",
+    "prov_ubigeo": "040100",
+    "ubigeo": "040107",
+    "nombre": "MIRAFLORES"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 17.647,
+    "contabilizadas": 3,
+    "totalActas": 17,
+    "participacionCiudadana": 11.607,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 82.353,
+    "pendientesJee": 14,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200200,
+    "idUbigeoDistrito": 200205,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 549,
+    "totalVotosValidos": 525,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 32,
+      "porcentajeVotosValidos": 6.095,
+      "porcentajeVotosEmitidos": 5.829
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 493,
+      "porcentajeVotosValidos": 93.905,
+      "porcentajeVotosEmitidos": 89.8
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "AZÁNGARO",
+    "prov_ubigeo": "200200",
+    "ubigeo": "200205",
+    "nombre": "CAMINACA"
+  }
+}

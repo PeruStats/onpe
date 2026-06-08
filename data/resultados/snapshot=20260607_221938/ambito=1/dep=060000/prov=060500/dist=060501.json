@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 99.324,
+    "contabilizadas": 147,
+    "totalActas": 148,
+    "participacionCiudadana": 69.261,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.676,
+    "pendientesJee": 1,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 60500,
+    "idUbigeoDistrito": 60501,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 30175,
+    "totalVotosValidos": 27680,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 9460,
+      "porcentajeVotosValidos": 34.176,
+      "porcentajeVotosEmitidos": 31.35
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 18220,
+      "porcentajeVotosValidos": 65.824,
+      "porcentajeVotosEmitidos": 60.381
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CUTERVO",
+    "prov_ubigeo": "060500",
+    "ubigeo": "060501",
+    "nombre": "CUTERVO"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 38.417,
+    "contabilizadas": 330,
+    "totalActas": 859,
+    "participacionCiudadana": 29.302,
+    "actasEnviadasJee": 0.698,
+    "enviadasJee": 6,
+    "actasPendientesJee": 60.885,
+    "pendientesJee": 523,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 240000,
+    "idUbigeoProvincia": 240100,
+    "idUbigeoDistrito": 240106,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 74375,
+    "totalVotosValidos": 69144,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 29160,
+      "porcentajeVotosValidos": 42.173,
+      "porcentajeVotosEmitidos": 39.207
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 39984,
+      "porcentajeVotosValidos": 57.827,
+      "porcentajeVotosEmitidos": 53.76
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CALLAO",
+    "dep_ubigeo": "240000",
+    "prov_name": "CALLAO",
+    "prov_ubigeo": "240100",
+    "ubigeo": "240106",
+    "nombre": "VENTANILLA"
+  }
+}

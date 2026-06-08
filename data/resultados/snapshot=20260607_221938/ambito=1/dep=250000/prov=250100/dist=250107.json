@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 81.702,
+    "contabilizadas": 192,
+    "totalActas": 235,
+    "participacionCiudadana": 55.403,
+    "actasEnviadasJee": 0.851,
+    "enviadasJee": 2,
+    "actasPendientesJee": 17.447,
+    "pendientesJee": 41,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 250000,
+    "idUbigeoProvincia": 250100,
+    "idUbigeoDistrito": 250107,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 38386,
+    "totalVotosValidos": 35899,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 14708,
+      "porcentajeVotosValidos": 40.971,
+      "porcentajeVotosEmitidos": 38.316
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 21191,
+      "porcentajeVotosValidos": 59.029,
+      "porcentajeVotosEmitidos": 55.205
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "CORONEL PORTILLO",
+    "prov_ubigeo": "250100",
+    "ubigeo": "250107",
+    "nombre": "MANANTAY"
+  }
+}

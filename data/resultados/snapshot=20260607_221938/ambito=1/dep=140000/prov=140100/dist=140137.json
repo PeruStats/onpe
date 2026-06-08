@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 54.483,
+    "contabilizadas": 1495,
+    "totalActas": 2744,
+    "participacionCiudadana": 43.994,
+    "actasEnviadasJee": 1.494,
+    "enviadasJee": 41,
+    "actasPendientesJee": 44.023,
+    "pendientesJee": 1208,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140137,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 357537,
+    "totalVotosValidos": 335243,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 138939,
+      "porcentajeVotosValidos": 41.444,
+      "porcentajeVotosEmitidos": 38.86
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 196304,
+      "porcentajeVotosValidos": 58.556,
+      "porcentajeVotosEmitidos": 54.905
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140137",
+    "nombre": "SAN JUAN DE LURIGANCHO"
+  }
+}

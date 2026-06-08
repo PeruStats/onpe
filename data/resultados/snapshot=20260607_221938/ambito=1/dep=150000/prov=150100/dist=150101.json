@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 57.722,
+    "contabilizadas": 228,
+    "totalActas": 395,
+    "participacionCiudadana": 39.668,
+    "actasEnviadasJee": 1.013,
+    "enviadasJee": 4,
+    "actasPendientesJee": 41.265,
+    "pendientesJee": 163,
+    "fechaActualizacion": 1780888561944,
+    "idUbigeoDepartamento": 150000,
+    "idUbigeoProvincia": 150100,
+    "idUbigeoDistrito": 150101,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 46316,
+    "totalVotosValidos": 43494,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 18651,
+      "porcentajeVotosValidos": 42.882,
+      "porcentajeVotosEmitidos": 40.269
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 24843,
+      "porcentajeVotosValidos": 57.118,
+      "porcentajeVotosEmitidos": 53.638
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150101",
+    "nombre": "IQUITOS"
+  }
+}

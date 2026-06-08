@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 70.531,
+    "contabilizadas": 438,
+    "totalActas": 621,
+    "participacionCiudadana": 53.451,
+    "actasEnviadasJee": 1.288,
+    "enviadasJee": 8,
+    "actasPendientesJee": 28.181,
+    "pendientesJee": 175,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 21300,
+    "idUbigeoDistrito": 21301,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 97631,
+    "totalVotosValidos": 88823,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 43419,
+      "porcentajeVotosValidos": 48.883,
+      "porcentajeVotosEmitidos": 44.473
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 45404,
+      "porcentajeVotosValidos": 51.117,
+      "porcentajeVotosEmitidos": 46.506
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "SANTA",
+    "prov_ubigeo": "021300",
+    "ubigeo": "021301",
+    "nombre": "CHIMBOTE"
+  }
+}

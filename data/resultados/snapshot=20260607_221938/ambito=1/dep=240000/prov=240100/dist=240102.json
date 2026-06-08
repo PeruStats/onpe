@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 65.432,
+    "contabilizadas": 159,
+    "totalActas": 243,
+    "participacionCiudadana": 50.571,
+    "actasEnviadasJee": 1.235,
+    "enviadasJee": 3,
+    "actasPendientesJee": 33.333,
+    "pendientesJee": 81,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 240000,
+    "idUbigeoProvincia": 240100,
+    "idUbigeoDistrito": 240102,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 36055,
+    "totalVotosValidos": 33631,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 8294,
+      "porcentajeVotosValidos": 24.662,
+      "porcentajeVotosEmitidos": 23.004
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 25337,
+      "porcentajeVotosValidos": 75.338,
+      "porcentajeVotosEmitidos": 70.273
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CALLAO",
+    "dep_ubigeo": "240000",
+    "prov_name": "CALLAO",
+    "prov_ubigeo": "240100",
+    "ubigeo": "240102",
+    "nombre": "BELLAVISTA"
+  }
+}

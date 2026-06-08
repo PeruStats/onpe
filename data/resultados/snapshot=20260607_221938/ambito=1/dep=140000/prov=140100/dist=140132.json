@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 43.916,
+    "contabilizadas": 545,
+    "totalActas": 1241,
+    "participacionCiudadana": 35.075,
+    "actasEnviadasJee": 0.725,
+    "enviadasJee": 9,
+    "actasPendientesJee": 55.359,
+    "pendientesJee": 687,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140132,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 128732,
+    "totalVotosValidos": 120391,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 44542,
+      "porcentajeVotosValidos": 36.998,
+      "porcentajeVotosEmitidos": 34.601
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 75849,
+      "porcentajeVotosValidos": 63.002,
+      "porcentajeVotosEmitidos": 58.92
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140132",
+    "nombre": "VILLA MARÍA DEL TRIUNFO"
+  }
+}

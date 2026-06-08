@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 37.41,
+    "contabilizadas": 52,
+    "totalActas": 139,
+    "participacionCiudadana": 30.095,
+    "actasEnviadasJee": 0.719,
+    "enviadasJee": 1,
+    "actasPendientesJee": 61.871,
+    "pendientesJee": 86,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140107,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 12324,
+    "totalVotosValidos": 11563,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 4428,
+      "porcentajeVotosValidos": 38.295,
+      "porcentajeVotosEmitidos": 35.93
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 7135,
+      "porcentajeVotosValidos": 61.705,
+      "porcentajeVotosEmitidos": 57.895
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140107",
+    "nombre": "CHACLACAYO"
+  }
+}

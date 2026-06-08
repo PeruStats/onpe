@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 36.923,
+    "contabilizadas": 24,
+    "totalActas": 65,
+    "participacionCiudadana": 29.981,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 63.077,
+    "pendientesJee": 41,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140500,
+    "idUbigeoDistrito": 140513,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5742,
+    "totalVotosValidos": 5381,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2166,
+      "porcentajeVotosValidos": 40.253,
+      "porcentajeVotosEmitidos": 37.722
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3215,
+      "porcentajeVotosValidos": 59.747,
+      "porcentajeVotosEmitidos": 55.991
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140513",
+    "nombre": "SAYAN"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 96.875,
+    "contabilizadas": 217,
+    "totalActas": 224,
+    "participacionCiudadana": 71.209,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 3.125,
+    "pendientesJee": 7,
+    "fechaActualizacion": 1780889161712,
+    "idUbigeoDepartamento": 210000,
+    "idUbigeoProvincia": 210100,
+    "idUbigeoDistrito": 210101,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 46334,
+    "totalVotosValidos": 42278,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 19934,
+      "porcentajeVotosValidos": 47.15,
+      "porcentajeVotosEmitidos": 43.022
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 22344,
+      "porcentajeVotosValidos": 52.85,
+      "porcentajeVotosEmitidos": 48.224
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MOYOBAMBA",
+    "prov_ubigeo": "210100",
+    "ubigeo": "210101",
+    "nombre": "MOYOBAMBA"
+  }
+}

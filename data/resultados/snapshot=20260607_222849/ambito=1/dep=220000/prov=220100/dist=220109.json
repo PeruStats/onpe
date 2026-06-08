@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 92.063,
+    "contabilizadas": 58,
+    "totalActas": 63,
+    "participacionCiudadana": 76.773,
+    "actasEnviadasJee": 7.937,
+    "enviadasJee": 5,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 220000,
+    "idUbigeoProvincia": 220100,
+    "idUbigeoDistrito": 220109,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 14183,
+    "totalVotosValidos": 13388,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 4146,
+      "porcentajeVotosValidos": 30.968,
+      "porcentajeVotosEmitidos": 29.232
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 9242,
+      "porcentajeVotosValidos": 69.032,
+      "porcentajeVotosEmitidos": 65.163
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "TACNA",
+    "dep_ubigeo": "220000",
+    "prov_name": "TACNA",
+    "prov_ubigeo": "220100",
+    "ubigeo": "220109",
+    "nombre": "POCOLLAY"
+  }
+}

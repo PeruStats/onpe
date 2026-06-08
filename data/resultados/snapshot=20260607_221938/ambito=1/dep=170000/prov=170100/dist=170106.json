@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 96.296,
+    "contabilizadas": 26,
+    "totalActas": 27,
+    "participacionCiudadana": 77.36,
+    "actasEnviadasJee": 3.704,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888561944,
+    "idUbigeoDepartamento": 170000,
+    "idUbigeoProvincia": 170100,
+    "idUbigeoDistrito": 170106,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5901,
+    "totalVotosValidos": 5560,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1504,
+      "porcentajeVotosValidos": 27.05,
+      "porcentajeVotosEmitidos": 25.487
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 4056,
+      "porcentajeVotosValidos": 72.95,
+      "porcentajeVotosEmitidos": 68.734
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "MOQUEGUA",
+    "dep_ubigeo": "170000",
+    "prov_name": "MARISCAL NIETO",
+    "prov_ubigeo": "170100",
+    "ubigeo": "170106",
+    "nombre": "SAMEGUA"
+  }
+}

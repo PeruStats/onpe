@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 29,
+    "totalActas": 29,
+    "participacionCiudadana": 77.839,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 90600,
+    "idUbigeoDistrito": 90608,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 6505,
+    "totalVotosValidos": 6071,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2937,
+      "porcentajeVotosValidos": 48.378,
+      "porcentajeVotosEmitidos": 45.15
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 3134,
+      "porcentajeVotosValidos": 51.622,
+      "porcentajeVotosEmitidos": 48.178
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LEONCIO PRADO",
+    "prov_ubigeo": "090600",
+    "ubigeo": "090608",
+    "nombre": "CASTILLO GRANDE"
+  }
+}

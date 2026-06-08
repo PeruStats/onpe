@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 95.652,
+    "contabilizadas": 22,
+    "totalActas": 23,
+    "participacionCiudadana": 72.266,
+    "actasEnviadasJee": 4.348,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40700,
+    "idUbigeoDistrito": 40706,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 4797,
+    "totalVotosValidos": 4599,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1096,
+      "porcentajeVotosValidos": 23.831,
+      "porcentajeVotosEmitidos": 22.848
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3503,
+      "porcentajeVotosValidos": 76.169,
+      "porcentajeVotosEmitidos": 73.025
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "ISLAY",
+    "prov_ubigeo": "040700",
+    "ubigeo": "040706",
+    "nombre": "PUNTA DE BOMBÓN"
+  }
+}

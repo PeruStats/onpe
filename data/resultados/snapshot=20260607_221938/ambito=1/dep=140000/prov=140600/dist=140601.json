@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 33.333,
+    "contabilizadas": 5,
+    "totalActas": 15,
+    "participacionCiudadana": 25.079,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 66.667,
+    "pendientesJee": 10,
+    "fechaActualizacion": 1780888561944,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140600,
+    "idUbigeoDistrito": 140601,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1106,
+    "totalVotosValidos": 1057,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 496,
+      "porcentajeVotosValidos": 46.925,
+      "porcentajeVotosEmitidos": 44.846
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 561,
+      "porcentajeVotosValidos": 53.075,
+      "porcentajeVotosEmitidos": 50.723
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAROCHIRÍ",
+    "prov_ubigeo": "140600",
+    "ubigeo": "140601",
+    "nombre": "MATUCANA"
+  }
+}

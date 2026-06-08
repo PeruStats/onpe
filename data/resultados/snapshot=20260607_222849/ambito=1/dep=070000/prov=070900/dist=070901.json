@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 97.222,
+    "contabilizadas": 105,
+    "totalActas": 108,
+    "participacionCiudadana": 68.862,
+    "actasEnviadasJee": 2.778,
+    "enviadasJee": 3,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 70900,
+    "idUbigeoDistrito": 70901,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 21445,
+    "totalVotosValidos": 20326,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 5419,
+      "porcentajeVotosValidos": 26.66,
+      "porcentajeVotosEmitidos": 25.269
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 14907,
+      "porcentajeVotosValidos": 73.34,
+      "porcentajeVotosEmitidos": 69.513
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070901",
+    "nombre": "SANTA ANA"
+  }
+}

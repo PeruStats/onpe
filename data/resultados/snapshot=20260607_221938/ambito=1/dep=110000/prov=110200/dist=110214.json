@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 7,
+    "totalActas": 7,
+    "participacionCiudadana": 73.138,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110200,
+    "idUbigeoDistrito": 110214,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1326,
+    "totalVotosValidos": 1245,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 611,
+      "porcentajeVotosValidos": 49.076,
+      "porcentajeVotosEmitidos": 46.078
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 634,
+      "porcentajeVotosValidos": 50.924,
+      "porcentajeVotosEmitidos": 47.813
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CONCEPCIÓN",
+    "prov_ubigeo": "110200",
+    "ubigeo": "110214",
+    "nombre": "SANTA ROSA DE OCOPA"
+  }
+}

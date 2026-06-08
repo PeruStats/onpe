@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 76.974,
+    "contabilizadas": 117,
+    "totalActas": 152,
+    "participacionCiudadana": 53.746,
+    "actasEnviadasJee": 2.632,
+    "enviadasJee": 4,
+    "actasPendientesJee": 20.394,
+    "pendientesJee": 31,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 10000,
+    "idUbigeoProvincia": 10700,
+    "idUbigeoDistrito": 10701,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 22891,
+    "totalVotosValidos": 21441,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 8103,
+      "porcentajeVotosValidos": 37.792,
+      "porcentajeVotosEmitidos": 35.398
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 13338,
+      "porcentajeVotosValidos": 62.208,
+      "porcentajeVotosEmitidos": 58.267
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "UTCUBAMBA",
+    "prov_ubigeo": "010700",
+    "ubigeo": "010701",
+    "nombre": "BAGUA GRANDE"
+  }
+}

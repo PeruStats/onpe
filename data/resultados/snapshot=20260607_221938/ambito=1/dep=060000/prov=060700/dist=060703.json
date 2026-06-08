@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 16.667,
+    "contabilizadas": 8,
+    "totalActas": 48,
+    "participacionCiudadana": 12.141,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 83.333,
+    "pendientesJee": 40,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 60700,
+    "idUbigeoDistrito": 60703,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1675,
+    "totalVotosValidos": 1528,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 101,
+      "porcentajeVotosValidos": 6.61,
+      "porcentajeVotosEmitidos": 6.03
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1427,
+      "porcentajeVotosValidos": 93.39,
+      "porcentajeVotosEmitidos": 85.194
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "HUALGAYOC",
+    "prov_ubigeo": "060700",
+    "ubigeo": "060703",
+    "nombre": "HUALGAYOC"
+  }
+}

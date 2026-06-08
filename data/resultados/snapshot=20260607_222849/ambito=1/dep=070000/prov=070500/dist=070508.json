@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 80.0,
+    "contabilizadas": 8,
+    "totalActas": 10,
+    "participacionCiudadana": 56.522,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 20.0,
+    "pendientesJee": 2,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 70500,
+    "idUbigeoDistrito": 70508,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1456,
+    "totalVotosValidos": 1395,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 90,
+      "porcentajeVotosValidos": 6.452,
+      "porcentajeVotosEmitidos": 6.181
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1305,
+      "porcentajeVotosValidos": 93.548,
+      "porcentajeVotosEmitidos": 89.629
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CANAS",
+    "prov_ubigeo": "070500",
+    "ubigeo": "070508",
+    "nombre": "TÚPAC AMARU"
+  }
+}

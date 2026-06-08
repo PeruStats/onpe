@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 63.158,
+    "contabilizadas": 12,
+    "totalActas": 19,
+    "participacionCiudadana": 42.849,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 36.842,
+    "pendientesJee": 7,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110800,
+    "idUbigeoDistrito": 110804,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2184,
+    "totalVotosValidos": 2012,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 983,
+      "porcentajeVotosValidos": 48.857,
+      "porcentajeVotosEmitidos": 45.009
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1029,
+      "porcentajeVotosValidos": 51.143,
+      "porcentajeVotosEmitidos": 47.115
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHANCHAMAYO",
+    "prov_ubigeo": "110800",
+    "ubigeo": "110804",
+    "nombre": "SAN LUIS DE SHUARO"
+  }
+}

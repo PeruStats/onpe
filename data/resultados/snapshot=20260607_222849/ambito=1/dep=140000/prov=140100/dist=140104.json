@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 93.521,
+    "contabilizadas": 332,
+    "totalActas": 355,
+    "participacionCiudadana": 73.642,
+    "actasEnviadasJee": 1.972,
+    "enviadasJee": 7,
+    "actasPendientesJee": 4.507,
+    "pendientesJee": 16,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140104,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 76718,
+    "totalVotosValidos": 71733,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 22713,
+      "porcentajeVotosValidos": 31.663,
+      "porcentajeVotosEmitidos": 29.606
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 49020,
+      "porcentajeVotosValidos": 68.337,
+      "porcentajeVotosEmitidos": 63.896
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140104",
+    "nombre": "BREÑA"
+  }
+}

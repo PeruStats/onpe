@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 89.474,
+    "contabilizadas": 51,
+    "totalActas": 57,
+    "participacionCiudadana": 73.339,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 10.526,
+    "pendientesJee": 6,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40100,
+    "idUbigeoDistrito": 40120,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 12205,
+    "totalVotosValidos": 11518,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 3705,
+      "porcentajeVotosValidos": 32.167,
+      "porcentajeVotosEmitidos": 30.356
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 7813,
+      "porcentajeVotosValidos": 67.833,
+      "porcentajeVotosEmitidos": 64.015
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "AREQUIPA",
+    "prov_ubigeo": "040100",
+    "ubigeo": "040120",
+    "nombre": "TIABAYA"
+  }
+}

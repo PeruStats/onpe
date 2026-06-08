@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 36.364,
+    "contabilizadas": 80,
+    "totalActas": 220,
+    "participacionCiudadana": 23.043,
+    "actasEnviadasJee": 0.455,
+    "enviadasJee": 1,
+    "actasPendientesJee": 63.181,
+    "pendientesJee": 139,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 150000,
+    "idUbigeoProvincia": 150100,
+    "idUbigeoDistrito": 150111,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 15021,
+    "totalVotosValidos": 14009,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 5436,
+      "porcentajeVotosValidos": 38.804,
+      "porcentajeVotosEmitidos": 36.189
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 8573,
+      "porcentajeVotosValidos": 61.196,
+      "porcentajeVotosEmitidos": 57.073
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150111",
+    "nombre": "PUNCHANA"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 72.727,
+    "contabilizadas": 8,
+    "totalActas": 11,
+    "participacionCiudadana": 51.161,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 27.273,
+    "pendientesJee": 3,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 70800,
+    "idUbigeoDistrito": 70808,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1498,
+    "totalVotosValidos": 1416,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 144,
+      "porcentajeVotosValidos": 10.169,
+      "porcentajeVotosEmitidos": 9.613
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1272,
+      "porcentajeVotosValidos": 89.831,
+      "porcentajeVotosEmitidos": 84.913
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070808",
+    "nombre": "ALTO PICHIGUA"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 17.391,
+    "contabilizadas": 4,
+    "totalActas": 23,
+    "participacionCiudadana": 12.612,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 82.609,
+    "pendientesJee": 19,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 30000,
+    "idUbigeoProvincia": 30300,
+    "idUbigeoDistrito": 30306,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 799,
+    "totalVotosValidos": 770,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 95,
+      "porcentajeVotosValidos": 12.338,
+      "porcentajeVotosEmitidos": 11.89
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 675,
+      "porcentajeVotosValidos": 87.662,
+      "porcentajeVotosEmitidos": 84.481
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ANDAHUAYLAS",
+    "prov_ubigeo": "030300",
+    "ubigeo": "030306",
+    "nombre": "KISHUARA"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 0.0,
+    "contabilizadas": 0,
+    "totalActas": 4,
+    "participacionCiudadana": 0.0,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 100.0,
+    "pendientesJee": 4,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 940000,
+    "idUbigeoProvincia": 941700,
+    "idUbigeoDistrito": 941710,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 0,
+    "totalVotosValidos": 0,
+    "porcentajeVotosEmitidos": 0,
+    "porcentajeVotosValidos": 0
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 0,
+      "porcentajeVotosValidos": 0.0,
+      "porcentajeVotosEmitidos": 0.0
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 0,
+      "porcentajeVotosValidos": 0.0,
+      "porcentajeVotosEmitidos": 0.0
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 2,
+    "dep_name": "EUROPA",
+    "dep_ubigeo": "940000",
+    "prov_name": "ITALIA",
+    "prov_ubigeo": "941700",
+    "ubigeo": "941710",
+    "nombre": "TRIESTE"
+  }
+}

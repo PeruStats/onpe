@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 8,
+    "totalActas": 8,
+    "participacionCiudadana": 55.512,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 120000,
+    "idUbigeoProvincia": 120600,
+    "idUbigeoDistrito": 120611,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1274,
+    "totalVotosValidos": 1209,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 317,
+      "porcentajeVotosValidos": 26.22,
+      "porcentajeVotosEmitidos": 24.882
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 892,
+      "porcentajeVotosValidos": 73.78,
+      "porcentajeVotosEmitidos": 70.016
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PATAZ",
+    "prov_ubigeo": "120600",
+    "ubigeo": "120611",
+    "nombre": "TAURIJA"
+  }
+}

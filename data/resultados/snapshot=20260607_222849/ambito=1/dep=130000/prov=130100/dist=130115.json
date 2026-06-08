@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 85.938,
+    "contabilizadas": 220,
+    "totalActas": 256,
+    "participacionCiudadana": 67.594,
+    "actasEnviadasJee": 0.391,
+    "enviadasJee": 1,
+    "actasPendientesJee": 13.671,
+    "pendientesJee": 35,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 130000,
+    "idUbigeoProvincia": 130100,
+    "idUbigeoDistrito": 130115,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 51062,
+    "totalVotosValidos": 47534,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 18313,
+      "porcentajeVotosValidos": 38.526,
+      "porcentajeVotosEmitidos": 35.864
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 29221,
+      "porcentajeVotosValidos": 61.474,
+      "porcentajeVotosEmitidos": 57.227
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "CHICLAYO",
+    "prov_ubigeo": "130100",
+    "ubigeo": "130115",
+    "nombre": "LA VICTORIA"
+  }
+}

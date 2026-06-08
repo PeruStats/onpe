@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 30,
+    "totalActas": 30,
+    "participacionCiudadana": 70.313,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 80000,
+    "idUbigeoProvincia": 80500,
+    "idUbigeoDistrito": 80509,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5971,
+    "totalVotosValidos": 5637,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 944,
+      "porcentajeVotosValidos": 16.746,
+      "porcentajeVotosEmitidos": 15.81
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 4693,
+      "porcentajeVotosValidos": 83.254,
+      "porcentajeVotosEmitidos": 78.597
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUANCAVELICA",
+    "dep_ubigeo": "080000",
+    "prov_name": "TAYACAJA",
+    "prov_ubigeo": "080500",
+    "ubigeo": "080509",
+    "nombre": "DANIEL HERNANDEZ"
+  }
+}

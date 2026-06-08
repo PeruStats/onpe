@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 98.356,
+    "contabilizadas": 359,
+    "totalActas": 365,
+    "participacionCiudadana": 75.878,
+    "actasEnviadasJee": 1.096,
+    "enviadasJee": 4,
+    "actasPendientesJee": 0.548,
+    "pendientesJee": 2,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110100,
+    "idUbigeoDistrito": 110101,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 82687,
+    "totalVotosValidos": 77691,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 38108,
+      "porcentajeVotosValidos": 49.051,
+      "porcentajeVotosEmitidos": 46.087
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 39583,
+      "porcentajeVotosValidos": 50.949,
+      "porcentajeVotosEmitidos": 47.871
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "HUANCAYO",
+    "prov_ubigeo": "110100",
+    "ubigeo": "110101",
+    "nombre": "HUANCAYO"
+  }
+}

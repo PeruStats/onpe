@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 14,
+    "totalActas": 14,
+    "participacionCiudadana": 76.914,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40300,
+    "idUbigeoDistrito": 40302,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 3175,
+    "totalVotosValidos": 3032,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1346,
+      "porcentajeVotosValidos": 44.393,
+      "porcentajeVotosEmitidos": 42.394
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1686,
+      "porcentajeVotosValidos": 55.607,
+      "porcentajeVotosEmitidos": 53.102
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040302",
+    "nombre": "JOSÉ MARIA QUIMPER"
+  }
+}

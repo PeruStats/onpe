@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 89.706,
+    "contabilizadas": 61,
+    "totalActas": 68,
+    "participacionCiudadana": 67.477,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 10.294,
+    "pendientesJee": 7,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 71300,
+    "idUbigeoDistrito": 71301,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 13266,
+    "totalVotosValidos": 12430,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2915,
+      "porcentajeVotosValidos": 23.451,
+      "porcentajeVotosEmitidos": 21.973
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 9515,
+      "porcentajeVotosValidos": 76.549,
+      "porcentajeVotosEmitidos": 71.725
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "URUBAMBA",
+    "prov_ubigeo": "071300",
+    "ubigeo": "071301",
+    "nombre": "URUBAMBA"
+  }
+}

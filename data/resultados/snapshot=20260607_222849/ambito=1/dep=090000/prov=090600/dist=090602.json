@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 37.5,
+    "contabilizadas": 9,
+    "totalActas": 24,
+    "participacionCiudadana": 27.34,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 62.5,
+    "pendientesJee": 15,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 90600,
+    "idUbigeoDistrito": 90602,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1858,
+    "totalVotosValidos": 1755,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 648,
+      "porcentajeVotosValidos": 36.923,
+      "porcentajeVotosEmitidos": 34.876
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1107,
+      "porcentajeVotosValidos": 63.077,
+      "porcentajeVotosEmitidos": 59.58
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "LEONCIO PRADO",
+    "prov_ubigeo": "090600",
+    "ubigeo": "090602",
+    "nombre": "DANIEL ALOMÍA ROBLES"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 4,
+    "totalActas": 4,
+    "participacionCiudadana": 75.629,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140600,
+    "idUbigeoDistrito": 140605,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 782,
+    "totalVotosValidos": 742,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 308,
+      "porcentajeVotosValidos": 41.509,
+      "porcentajeVotosEmitidos": 39.386
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 434,
+      "porcentajeVotosValidos": 58.491,
+      "porcentajeVotosEmitidos": 55.499
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAROCHIRÍ",
+    "prov_ubigeo": "140600",
+    "ubigeo": "140605",
+    "nombre": "SAN PEDRO DE CASTA"
+  }
+}

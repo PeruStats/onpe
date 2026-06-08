@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 45.033,
+    "contabilizadas": 68,
+    "totalActas": 151,
+    "participacionCiudadana": 27.499,
+    "actasEnviadasJee": 0.662,
+    "enviadasJee": 1,
+    "actasPendientesJee": 54.305,
+    "pendientesJee": 82,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110800,
+    "idUbigeoDistrito": 110806,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 11744,
+    "totalVotosValidos": 10845,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 4726,
+      "porcentajeVotosValidos": 43.578,
+      "porcentajeVotosEmitidos": 40.242
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 6119,
+      "porcentajeVotosValidos": 56.422,
+      "porcentajeVotosEmitidos": 52.103
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "CHANCHAMAYO",
+    "prov_ubigeo": "110800",
+    "ubigeo": "110806",
+    "nombre": "PERENÉ"
+  }
+}

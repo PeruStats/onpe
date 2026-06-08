@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 27,
+    "totalActas": 27,
+    "participacionCiudadana": 68.249,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 210000,
+    "idUbigeoProvincia": 210300,
+    "idUbigeoDistrito": 210306,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 4759,
+    "totalVotosValidos": 4397,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1728,
+      "porcentajeVotosValidos": 39.3,
+      "porcentajeVotosEmitidos": 36.31
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2669,
+      "porcentajeVotosValidos": 60.7,
+      "porcentajeVotosEmitidos": 56.083
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "LAMAS",
+    "prov_ubigeo": "210300",
+    "ubigeo": "210306",
+    "nombre": "PINTO RECODO"
+  }
+}

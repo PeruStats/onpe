@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 98.592,
+    "contabilizadas": 210,
+    "totalActas": 213,
+    "participacionCiudadana": 81.153,
+    "actasEnviadasJee": 0.939,
+    "enviadasJee": 2,
+    "actasPendientesJee": 0.469,
+    "pendientesJee": 1,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 100000,
+    "idUbigeoProvincia": 100200,
+    "idUbigeoDistrito": 100201,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 51233,
+    "totalVotosValidos": 48111,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 19927,
+      "porcentajeVotosValidos": 41.419,
+      "porcentajeVotosEmitidos": 38.895
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 28184,
+      "porcentajeVotosValidos": 58.581,
+      "porcentajeVotosEmitidos": 55.011
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "CHINCHA",
+    "prov_ubigeo": "100200",
+    "ubigeo": "100201",
+    "nombre": "CHINCHA ALTA"
+  }
+}

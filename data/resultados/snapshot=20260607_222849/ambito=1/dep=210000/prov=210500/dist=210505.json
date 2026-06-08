@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 92.366,
+    "contabilizadas": 121,
+    "totalActas": 131,
+    "participacionCiudadana": 66.794,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 7.634,
+    "pendientesJee": 10,
+    "fechaActualizacion": 1780889161712,
+    "idUbigeoDepartamento": 210000,
+    "idUbigeoProvincia": 210500,
+    "idUbigeoDistrito": 210505,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 25468,
+    "totalVotosValidos": 23700,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 10359,
+      "porcentajeVotosValidos": 43.709,
+      "porcentajeVotosEmitidos": 40.675
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 13341,
+      "porcentajeVotosValidos": 56.291,
+      "porcentajeVotosEmitidos": 52.383
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210505",
+    "nombre": "NUEVA CAJAMARCA"
+  }
+}

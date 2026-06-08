@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 53.191,
+    "contabilizadas": 25,
+    "totalActas": 47,
+    "participacionCiudadana": 41.131,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 46.809,
+    "pendientesJee": 22,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40300,
+    "idUbigeoDistrito": 40308,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5637,
+    "totalVotosValidos": 5332,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1865,
+      "porcentajeVotosValidos": 34.977,
+      "porcentajeVotosEmitidos": 33.085
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3467,
+      "porcentajeVotosValidos": 65.023,
+      "porcentajeVotosEmitidos": 61.504
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAMANÁ",
+    "prov_ubigeo": "040300",
+    "ubigeo": "040308",
+    "nombre": "SAMUEL PASTOR"
+  }
+}

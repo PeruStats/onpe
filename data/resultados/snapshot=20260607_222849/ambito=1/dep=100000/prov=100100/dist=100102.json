@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 85.714,
+    "contabilizadas": 90,
+    "totalActas": 105,
+    "participacionCiudadana": 70.773,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 14.286,
+    "pendientesJee": 15,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 100000,
+    "idUbigeoProvincia": 100100,
+    "idUbigeoDistrito": 100102,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 21854,
+    "totalVotosValidos": 20670,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 10244,
+      "porcentajeVotosValidos": 49.56,
+      "porcentajeVotosEmitidos": 46.875
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 10426,
+      "porcentajeVotosValidos": 50.44,
+      "porcentajeVotosEmitidos": 47.708
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ICA",
+    "dep_ubigeo": "100000",
+    "prov_name": "ICA",
+    "prov_ubigeo": "100100",
+    "ubigeo": "100102",
+    "nombre": "LA TINGUIÑA"
+  }
+}

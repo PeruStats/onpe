@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 73.973,
+    "contabilizadas": 54,
+    "totalActas": 73,
+    "participacionCiudadana": 57.487,
+    "actasEnviadasJee": 1.37,
+    "enviadasJee": 1,
+    "actasPendientesJee": 24.657,
+    "pendientesJee": 18,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 120000,
+    "idUbigeoProvincia": 120800,
+    "idUbigeoDistrito": 120806,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 12250,
+    "totalVotosValidos": 11288,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3533,
+      "porcentajeVotosValidos": 31.299,
+      "porcentajeVotosEmitidos": 28.841
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 7755,
+      "porcentajeVotosValidos": 68.701,
+      "porcentajeVotosEmitidos": 63.306
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "ASCOPE",
+    "prov_ubigeo": "120800",
+    "ubigeo": "120806",
+    "nombre": "PAIJÁN"
+  }
+}

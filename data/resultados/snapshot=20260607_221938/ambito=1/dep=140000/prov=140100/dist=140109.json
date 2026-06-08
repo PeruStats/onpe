@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 83.956,
+    "contabilizadas": 539,
+    "totalActas": 642,
+    "participacionCiudadana": 65.015,
+    "actasEnviadasJee": 3.115,
+    "enviadasJee": 20,
+    "actasPendientesJee": 12.929,
+    "pendientesJee": 83,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140109,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 124785,
+    "totalVotosValidos": 117209,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 36036,
+      "porcentajeVotosValidos": 30.745,
+      "porcentajeVotosEmitidos": 28.878
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 81173,
+      "porcentajeVotosValidos": 69.255,
+      "porcentajeVotosEmitidos": 65.05
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140109",
+    "nombre": "LA VICTORIA"
+  }
+}

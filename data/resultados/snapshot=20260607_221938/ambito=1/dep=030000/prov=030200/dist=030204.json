@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 0.0,
+    "contabilizadas": 0,
+    "totalActas": 3,
+    "participacionCiudadana": 0.0,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 100.0,
+    "pendientesJee": 3,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 30000,
+    "idUbigeoProvincia": 30200,
+    "idUbigeoDistrito": 30204,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 0,
+    "totalVotosValidos": 0,
+    "porcentajeVotosEmitidos": 0,
+    "porcentajeVotosValidos": 0
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 0,
+      "porcentajeVotosValidos": 0.0,
+      "porcentajeVotosEmitidos": 0.0
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 0,
+      "porcentajeVotosValidos": 0.0,
+      "porcentajeVotosEmitidos": 0.0
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030204",
+    "nombre": "COLCABAMBA"
+  }
+}

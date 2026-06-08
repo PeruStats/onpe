@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 74.035,
+    "contabilizadas": 211,
+    "totalActas": 285,
+    "participacionCiudadana": 50.304,
+    "actasEnviadasJee": 0.702,
+    "enviadasJee": 2,
+    "actasPendientesJee": 25.263,
+    "pendientesJee": 72,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 250000,
+    "idUbigeoProvincia": 250100,
+    "idUbigeoDistrito": 250102,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 42209,
+    "totalVotosValidos": 39557,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 17035,
+      "porcentajeVotosValidos": 43.064,
+      "porcentajeVotosEmitidos": 40.359
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 22522,
+      "porcentajeVotosValidos": 56.936,
+      "porcentajeVotosEmitidos": 53.358
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "UCAYALI",
+    "dep_ubigeo": "250000",
+    "prov_name": "CORONEL PORTILLO",
+    "prov_ubigeo": "250100",
+    "ubigeo": "250102",
+    "nombre": "YARINACOCHA"
+  }
+}

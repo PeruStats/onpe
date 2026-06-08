@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 1.481,
+    "contabilizadas": 2,
+    "totalActas": 135,
+    "participacionCiudadana": 1.119,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 98.519,
+    "pendientesJee": 133,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140600,
+    "idUbigeoDistrito": 140615,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 447,
+    "totalVotosValidos": 421,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 206,
+      "porcentajeVotosValidos": 48.931,
+      "porcentajeVotosEmitidos": 46.085
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 215,
+      "porcentajeVotosValidos": 51.069,
+      "porcentajeVotosEmitidos": 48.098
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAROCHIRÍ",
+    "prov_ubigeo": "140600",
+    "ubigeo": "140615",
+    "nombre": "SAN ANTONIO"
+  }
+}

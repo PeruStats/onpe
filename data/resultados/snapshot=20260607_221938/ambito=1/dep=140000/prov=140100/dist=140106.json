@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 73.744,
+    "contabilizadas": 1101,
+    "totalActas": 1493,
+    "participacionCiudadana": 58.599,
+    "actasEnviadasJee": 1.674,
+    "enviadasJee": 25,
+    "actasPendientesJee": 24.582,
+    "pendientesJee": 367,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140106,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 261428,
+    "totalVotosValidos": 244625,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 92256,
+      "porcentajeVotosValidos": 37.713,
+      "porcentajeVotosEmitidos": 35.289
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 152369,
+      "porcentajeVotosValidos": 62.287,
+      "porcentajeVotosEmitidos": 58.283
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140106",
+    "nombre": "COMAS"
+  }
+}

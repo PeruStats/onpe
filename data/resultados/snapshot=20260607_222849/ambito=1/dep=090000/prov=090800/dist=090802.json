@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 92.105,
+    "contabilizadas": 35,
+    "totalActas": 38,
+    "participacionCiudadana": 50.326,
+    "actasEnviadasJee": 2.632,
+    "enviadasJee": 1,
+    "actasPendientesJee": 5.263,
+    "pendientesJee": 2,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 90800,
+    "idUbigeoDistrito": 90802,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5397,
+    "totalVotosValidos": 4933,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1842,
+      "porcentajeVotosValidos": 37.34,
+      "porcentajeVotosEmitidos": 34.13
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3091,
+      "porcentajeVotosValidos": 62.66,
+      "porcentajeVotosEmitidos": 57.273
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "PUERTO INCA",
+    "prov_ubigeo": "090800",
+    "ubigeo": "090802",
+    "nombre": "PUERTO INCA"
+  }
+}

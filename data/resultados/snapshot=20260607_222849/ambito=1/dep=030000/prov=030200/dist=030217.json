@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 3,
+    "totalActas": 3,
+    "participacionCiudadana": 63.3,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 30000,
+    "idUbigeoProvincia": 30200,
+    "idUbigeoDistrito": 30217,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 514,
+    "totalVotosValidos": 497,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 89,
+      "porcentajeVotosValidos": 17.907,
+      "porcentajeVotosEmitidos": 17.315
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 408,
+      "porcentajeVotosValidos": 82.093,
+      "porcentajeVotosEmitidos": 79.377
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030217",
+    "nombre": "JUSTO APU SAHUARAURA"
+  }
+}

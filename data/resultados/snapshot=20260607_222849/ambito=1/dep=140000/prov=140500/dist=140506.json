@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 75,
+    "totalActas": 75,
+    "participacionCiudadana": 80.924,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140500,
+    "idUbigeoDistrito": 140506,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 17834,
+    "totalVotosValidos": 16601,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 7450,
+      "porcentajeVotosValidos": 44.877,
+      "porcentajeVotosEmitidos": 41.774
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 9151,
+      "porcentajeVotosValidos": 55.123,
+      "porcentajeVotosEmitidos": 51.312
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAURA",
+    "prov_ubigeo": "140500",
+    "ubigeo": "140506",
+    "nombre": "HUALMAY"
+  }
+}

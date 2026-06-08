@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 91.005,
+    "contabilizadas": 172,
+    "totalActas": 189,
+    "participacionCiudadana": 75.38,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 8.995,
+    "pendientesJee": 17,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40100,
+    "idUbigeoDistrito": 40119,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 42107,
+    "totalVotosValidos": 39220,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 14195,
+      "porcentajeVotosValidos": 36.193,
+      "porcentajeVotosEmitidos": 33.712
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 25025,
+      "porcentajeVotosValidos": 63.807,
+      "porcentajeVotosEmitidos": 59.432
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "AREQUIPA",
+    "prov_ubigeo": "040100",
+    "ubigeo": "040119",
+    "nombre": "SOCABAYA"
+  }
+}

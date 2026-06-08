@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 73.109,
+    "contabilizadas": 87,
+    "totalActas": 119,
+    "participacionCiudadana": 59.438,
+    "actasEnviadasJee": 2.521,
+    "enviadasJee": 3,
+    "actasPendientesJee": 24.37,
+    "pendientesJee": 29,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 60100,
+    "idUbigeoDistrito": 60107,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 20641,
+    "totalVotosValidos": 18993,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 9251,
+      "porcentajeVotosValidos": 48.707,
+      "porcentajeVotosEmitidos": 44.819
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 9742,
+      "porcentajeVotosValidos": 51.293,
+      "porcentajeVotosEmitidos": 47.197
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060107",
+    "nombre": "LOS BAÑOS DEL INCA"
+  }
+}

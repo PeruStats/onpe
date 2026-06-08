@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 12,
+    "totalActas": 12,
+    "participacionCiudadana": 76.277,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 210000,
+    "idUbigeoProvincia": 210100,
+    "idUbigeoDistrito": 210106,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2508,
+    "totalVotosValidos": 2324,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1039,
+      "porcentajeVotosValidos": 44.707,
+      "porcentajeVotosEmitidos": 41.427
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1285,
+      "porcentajeVotosValidos": 55.293,
+      "porcentajeVotosEmitidos": 51.236
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "MOYOBAMBA",
+    "prov_ubigeo": "210100",
+    "ubigeo": "210106",
+    "nombre": "YANTALÓ"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 20,
+    "totalActas": 20,
+    "participacionCiudadana": 56.466,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 91100,
+    "idUbigeoDistrito": 91101,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 3205,
+    "totalVotosValidos": 3013,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 369,
+      "porcentajeVotosValidos": 12.247,
+      "porcentajeVotosEmitidos": 11.513
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2644,
+      "porcentajeVotosValidos": 87.753,
+      "porcentajeVotosEmitidos": 82.496
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "YAROWILCA",
+    "prov_ubigeo": "091100",
+    "ubigeo": "091101",
+    "nombre": "CHAVINILLO"
+  }
+}

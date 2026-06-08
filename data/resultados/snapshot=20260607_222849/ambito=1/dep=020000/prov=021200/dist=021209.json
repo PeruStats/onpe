@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 20.0,
+    "contabilizadas": 1,
+    "totalActas": 5,
+    "participacionCiudadana": 10.23,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 80.0,
+    "pendientesJee": 4,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 21200,
+    "idUbigeoDistrito": 21209,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 111,
+    "totalVotosValidos": 108,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 20,
+      "porcentajeVotosValidos": 18.519,
+      "porcentajeVotosEmitidos": 18.018
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 88,
+      "porcentajeVotosValidos": 81.481,
+      "porcentajeVotosEmitidos": 79.279
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021209",
+    "nombre": "LLACLLIN"
+  }
+}

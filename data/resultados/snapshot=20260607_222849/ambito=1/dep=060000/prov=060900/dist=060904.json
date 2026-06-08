@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 20.0,
+    "contabilizadas": 2,
+    "totalActas": 10,
+    "participacionCiudadana": 11.936,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 80.0,
+    "pendientesJee": 8,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 60900,
+    "idUbigeoDistrito": 60904,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 291,
+    "totalVotosValidos": 269,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 129,
+      "porcentajeVotosValidos": 47.955,
+      "porcentajeVotosEmitidos": 44.33
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 140,
+      "porcentajeVotosValidos": 52.045,
+      "porcentajeVotosEmitidos": 48.11
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "SANTA CRUZ",
+    "prov_ubigeo": "060900",
+    "ubigeo": "060904",
+    "nombre": "LA ESPERANZA"
+  }
+}

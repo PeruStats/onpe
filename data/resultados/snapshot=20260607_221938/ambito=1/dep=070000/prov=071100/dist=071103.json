@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 10.345,
+    "contabilizadas": 3,
+    "totalActas": 29,
+    "participacionCiudadana": 7.614,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 89.655,
+    "pendientesJee": 26,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 71100,
+    "idUbigeoDistrito": 71103,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 618,
+    "totalVotosValidos": 581,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 40,
+      "porcentajeVotosValidos": 6.885,
+      "porcentajeVotosEmitidos": 6.472
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 541,
+      "porcentajeVotosValidos": 93.115,
+      "porcentajeVotosEmitidos": 87.54
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PAUCARTAMBO",
+    "prov_ubigeo": "071100",
+    "ubigeo": "071103",
+    "nombre": "COLQUEPATA"
+  }
+}

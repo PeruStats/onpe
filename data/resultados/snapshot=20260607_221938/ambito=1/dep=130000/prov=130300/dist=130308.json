@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 0.719,
+    "contabilizadas": 1,
+    "totalActas": 139,
+    "participacionCiudadana": 0.611,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 99.281,
+    "pendientesJee": 138,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 130000,
+    "idUbigeoProvincia": 130300,
+    "idUbigeoDistrito": 130308,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 242,
+    "totalVotosValidos": 230,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 103,
+      "porcentajeVotosValidos": 44.783,
+      "porcentajeVotosEmitidos": 42.562
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 127,
+      "porcentajeVotosValidos": 55.217,
+      "porcentajeVotosEmitidos": 52.479
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130308",
+    "nombre": "OLMOS"
+  }
+}

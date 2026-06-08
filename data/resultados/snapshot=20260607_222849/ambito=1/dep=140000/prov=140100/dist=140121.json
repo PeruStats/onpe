@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 96.0,
+    "contabilizadas": 24,
+    "totalActas": 25,
+    "participacionCiudadana": 76.257,
+    "actasEnviadasJee": 4.0,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140121,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5553,
+    "totalVotosValidos": 5317,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1628,
+      "porcentajeVotosValidos": 30.619,
+      "porcentajeVotosEmitidos": 29.317
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 3689,
+      "porcentajeVotosValidos": 69.381,
+      "porcentajeVotosEmitidos": 66.433
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140121",
+    "nombre": "PUNTA NEGRA"
+  }
+}

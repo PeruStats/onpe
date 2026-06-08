@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 98.077,
+    "contabilizadas": 51,
+    "totalActas": 52,
+    "participacionCiudadana": 75.635,
+    "actasEnviadasJee": 1.923,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 120000,
+    "idUbigeoProvincia": 120500,
+    "idUbigeoDistrito": 120501,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 11442,
+    "totalVotosValidos": 10629,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 5150,
+      "porcentajeVotosValidos": 48.452,
+      "porcentajeVotosEmitidos": 45.01
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 5479,
+      "porcentajeVotosValidos": 51.548,
+      "porcentajeVotosEmitidos": 47.885
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PACASMAYO",
+    "prov_ubigeo": "120500",
+    "ubigeo": "120501",
+    "nombre": "SAN PEDRO DE LLOC"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 3,
+    "totalActas": 3,
+    "participacionCiudadana": 59.375,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 10000,
+    "idUbigeoProvincia": 10300,
+    "idUbigeoDistrito": 10301,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 513,
+    "totalVotosValidos": 459,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 168,
+      "porcentajeVotosValidos": 36.601,
+      "porcentajeVotosEmitidos": 32.749
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 291,
+      "porcentajeVotosValidos": 63.399,
+      "porcentajeVotosEmitidos": 56.725
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "BONGARÁ",
+    "prov_ubigeo": "010300",
+    "ubigeo": "010301",
+    "nombre": "JUMBILLA"
+  }
+}

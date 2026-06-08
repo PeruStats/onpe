@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 10,
+    "totalActas": 10,
+    "participacionCiudadana": 62.846,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 70800,
+    "idUbigeoDistrito": 70807,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1793,
+    "totalVotosValidos": 1687,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 116,
+      "porcentajeVotosValidos": 6.876,
+      "porcentajeVotosEmitidos": 6.47
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1571,
+      "porcentajeVotosValidos": 93.124,
+      "porcentajeVotosEmitidos": 87.619
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "ESPINAR",
+    "prov_ubigeo": "070800",
+    "ubigeo": "070807",
+    "nombre": "SUYCKUTAMBO"
+  }
+}

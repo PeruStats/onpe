@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 57.895,
+    "contabilizadas": 11,
+    "totalActas": 19,
+    "participacionCiudadana": 42.849,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 42.105,
+    "pendientesJee": 8,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110500,
+    "idUbigeoDistrito": 110506,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2295,
+    "totalVotosValidos": 2119,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 993,
+      "porcentajeVotosValidos": 46.862,
+      "porcentajeVotosEmitidos": 43.268
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1126,
+      "porcentajeVotosValidos": 53.138,
+      "porcentajeVotosEmitidos": 49.063
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "TARMA",
+    "prov_ubigeo": "110500",
+    "ubigeo": "110506",
+    "nombre": "PALCA"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 71.875,
+    "contabilizadas": 46,
+    "totalActas": 64,
+    "participacionCiudadana": 52.197,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 28.125,
+    "pendientesJee": 18,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 70400,
+    "idUbigeoDistrito": 70401,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 9657,
+    "totalVotosValidos": 8993,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1715,
+      "porcentajeVotosValidos": 19.07,
+      "porcentajeVotosEmitidos": 17.759
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 7278,
+      "porcentajeVotosValidos": 80.93,
+      "porcentajeVotosEmitidos": 75.365
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "CALCA",
+    "prov_ubigeo": "070400",
+    "ubigeo": "070401",
+    "nombre": "CALCA"
+  }
+}

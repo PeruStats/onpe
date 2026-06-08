@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 76.589,
+    "contabilizadas": 229,
+    "totalActas": 299,
+    "participacionCiudadana": 60.93,
+    "actasEnviadasJee": 1.003,
+    "enviadasJee": 3,
+    "actasPendientesJee": 22.408,
+    "pendientesJee": 67,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140800,
+    "idUbigeoDistrito": 140801,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 53562,
+    "totalVotosValidos": 49715,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 21421,
+      "porcentajeVotosValidos": 43.088,
+      "porcentajeVotosEmitidos": 39.993
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 28294,
+      "porcentajeVotosValidos": 56.912,
+      "porcentajeVotosEmitidos": 52.825
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUARAL",
+    "prov_ubigeo": "140800",
+    "ubigeo": "140801",
+    "nombre": "HUARAL"
+  }
+}

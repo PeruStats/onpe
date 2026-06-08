@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 75.0,
+    "contabilizadas": 3,
+    "totalActas": 4,
+    "participacionCiudadana": 60.288,
+    "actasEnviadasJee": 25.0,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888561944,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140600,
+    "idUbigeoDistrito": 140616,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 671,
+    "totalVotosValidos": 631,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 289,
+      "porcentajeVotosValidos": 45.8,
+      "porcentajeVotosEmitidos": 43.07
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 342,
+      "porcentajeVotosValidos": 54.2,
+      "porcentajeVotosEmitidos": 50.969
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "HUAROCHIRÍ",
+    "prov_ubigeo": "140600",
+    "ubigeo": "140616",
+    "nombre": "SAN BARTOLOMÉ"
+  }
+}

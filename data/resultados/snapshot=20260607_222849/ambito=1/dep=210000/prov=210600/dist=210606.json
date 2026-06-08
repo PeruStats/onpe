@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 10.0,
+    "contabilizadas": 3,
+    "totalActas": 30,
+    "participacionCiudadana": 7.364,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 90.0,
+    "pendientesJee": 27,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 210000,
+    "idUbigeoProvincia": 210600,
+    "idUbigeoDistrito": 210606,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 620,
+    "totalVotosValidos": 575,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 267,
+      "porcentajeVotosValidos": 46.435,
+      "porcentajeVotosEmitidos": 43.065
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 308,
+      "porcentajeVotosValidos": 53.565,
+      "porcentajeVotosEmitidos": 49.677
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "SAN MARTÍN",
+    "prov_ubigeo": "210600",
+    "ubigeo": "210606",
+    "nombre": "CHAZUTA"
+  }
+}

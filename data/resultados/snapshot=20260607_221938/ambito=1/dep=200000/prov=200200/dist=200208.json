@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 30.0,
+    "contabilizadas": 6,
+    "totalActas": 20,
+    "participacionCiudadana": 20.332,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 70.0,
+    "pendientesJee": 14,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200200,
+    "idUbigeoDistrito": 200208,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1079,
+    "totalVotosValidos": 1043,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 47,
+      "porcentajeVotosValidos": 4.506,
+      "porcentajeVotosEmitidos": 4.356
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 996,
+      "porcentajeVotosValidos": 95.494,
+      "porcentajeVotosEmitidos": 92.308
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "AZÁNGARO",
+    "prov_ubigeo": "200200",
+    "ubigeo": "200208",
+    "nombre": "MUÑANI"
+  }
+}

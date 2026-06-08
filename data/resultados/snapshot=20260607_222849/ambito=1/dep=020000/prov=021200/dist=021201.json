@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 18,
+    "totalActas": 18,
+    "participacionCiudadana": 73.524,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 21200,
+    "idUbigeoDistrito": 21201,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 3338,
+    "totalVotosValidos": 3108,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 957,
+      "porcentajeVotosValidos": 30.792,
+      "porcentajeVotosEmitidos": 28.67
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2151,
+      "porcentajeVotosValidos": 69.208,
+      "porcentajeVotosEmitidos": 64.44
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "RECUAY",
+    "prov_ubigeo": "021200",
+    "ubigeo": "021201",
+    "nombre": "RECUAY"
+  }
+}

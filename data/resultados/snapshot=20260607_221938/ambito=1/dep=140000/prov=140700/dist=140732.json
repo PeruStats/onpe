@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 4,
+    "totalActas": 4,
+    "participacionCiudadana": 54.635,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888561944,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140700,
+    "idUbigeoDistrito": 140732,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 501,
+    "totalVotosValidos": 479,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 223,
+      "porcentajeVotosValidos": 46.555,
+      "porcentajeVotosEmitidos": 44.511
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 256,
+      "porcentajeVotosValidos": 53.445,
+      "porcentajeVotosEmitidos": 51.098
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140732",
+    "nombre": "PUTINZA"
+  }
+}

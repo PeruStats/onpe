@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 6,
+    "totalActas": 6,
+    "participacionCiudadana": 74.276,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 130000,
+    "idUbigeoProvincia": 130300,
+    "idUbigeoDistrito": 130302,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1282,
+    "totalVotosValidos": 1182,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 586,
+      "porcentajeVotosValidos": 49.577,
+      "porcentajeVotosEmitidos": 45.71
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 596,
+      "porcentajeVotosValidos": 50.423,
+      "porcentajeVotosEmitidos": 46.49
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "LAMBAYEQUE",
+    "prov_ubigeo": "130300",
+    "ubigeo": "130302",
+    "nombre": "CHOCHOPE"
+  }
+}

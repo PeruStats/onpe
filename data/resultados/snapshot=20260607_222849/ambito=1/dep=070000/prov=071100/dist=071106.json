@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 20,
+    "totalActas": 20,
+    "participacionCiudadana": 76.612,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 71100,
+    "idUbigeoDistrito": 71106,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 4242,
+    "totalVotosValidos": 4024,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 370,
+      "porcentajeVotosValidos": 9.195,
+      "porcentajeVotosEmitidos": 8.722
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3654,
+      "porcentajeVotosValidos": 90.805,
+      "porcentajeVotosEmitidos": 86.139
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "PAUCARTAMBO",
+    "prov_ubigeo": "071100",
+    "ubigeo": "071106",
+    "nombre": "HUANCARANI"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 3,
+    "totalActas": 3,
+    "participacionCiudadana": 58.81,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140700,
+    "idUbigeoDistrito": 140727,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 494,
+    "totalVotosValidos": 478,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 191,
+      "porcentajeVotosValidos": 39.958,
+      "porcentajeVotosEmitidos": 38.664
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 287,
+      "porcentajeVotosValidos": 60.042,
+      "porcentajeVotosEmitidos": 58.097
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "YAUYOS",
+    "prov_ubigeo": "140700",
+    "ubigeo": "140727",
+    "nombre": "TOMÁS"
+  }
+}

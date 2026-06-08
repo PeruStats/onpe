@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 83.333,
+    "contabilizadas": 10,
+    "totalActas": 12,
+    "participacionCiudadana": 54.843,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 16.667,
+    "pendientesJee": 2,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 30000,
+    "idUbigeoProvincia": 30200,
+    "idUbigeoDistrito": 30213,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1574,
+    "totalVotosValidos": 1494,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 315,
+      "porcentajeVotosValidos": 21.084,
+      "porcentajeVotosEmitidos": 20.013
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1179,
+      "porcentajeVotosValidos": 78.916,
+      "porcentajeVotosEmitidos": 74.905
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "AYMARAES",
+    "prov_ubigeo": "030200",
+    "ubigeo": "030213",
+    "nombre": "TINTAY"
+  }
+}

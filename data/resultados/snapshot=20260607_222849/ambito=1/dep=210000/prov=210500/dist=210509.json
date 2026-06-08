@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 41.935,
+    "contabilizadas": 13,
+    "totalActas": 31,
+    "participacionCiudadana": 28.776,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 58.065,
+    "pendientesJee": 18,
+    "fechaActualizacion": 1780889161712,
+    "idUbigeoDepartamento": 210000,
+    "idUbigeoProvincia": 210500,
+    "idUbigeoDistrito": 210509,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2553,
+    "totalVotosValidos": 2410,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 726,
+      "porcentajeVotosValidos": 30.124,
+      "porcentajeVotosEmitidos": 28.437
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1684,
+      "porcentajeVotosValidos": 69.876,
+      "porcentajeVotosEmitidos": 65.962
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "SAN MARTÍN",
+    "dep_ubigeo": "210000",
+    "prov_name": "RIOJA",
+    "prov_ubigeo": "210500",
+    "ubigeo": "210509",
+    "nombre": "AWAJUN"
+  }
+}

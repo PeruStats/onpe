@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 73.345,
+    "contabilizadas": 853,
+    "totalActas": 1163,
+    "participacionCiudadana": 60.565,
+    "actasEnviadasJee": 1.72,
+    "enviadasJee": 20,
+    "actasPendientesJee": 24.935,
+    "pendientesJee": 290,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140141,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 210429,
+    "totalVotosValidos": 196905,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 72039,
+      "porcentajeVotosValidos": 36.586,
+      "porcentajeVotosEmitidos": 34.234
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 124866,
+      "porcentajeVotosValidos": 63.414,
+      "porcentajeVotosEmitidos": 59.339
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140141",
+    "nombre": "VILLA EL SALVADOR"
+  }
+}

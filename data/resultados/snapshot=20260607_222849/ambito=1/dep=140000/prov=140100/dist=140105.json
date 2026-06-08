@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 84.561,
+    "contabilizadas": 723,
+    "totalActas": 855,
+    "participacionCiudadana": 67.098,
+    "actasEnviadasJee": 1.988,
+    "enviadasJee": 17,
+    "actasPendientesJee": 13.451,
+    "pendientesJee": 115,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140105,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 169599,
+    "totalVotosValidos": 158507,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 68871,
+      "porcentajeVotosValidos": 43.45,
+      "porcentajeVotosEmitidos": 40.608
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 89636,
+      "porcentajeVotosValidos": 56.55,
+      "porcentajeVotosEmitidos": 52.852
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140105",
+    "nombre": "CARABAYLLO"
+  }
+}

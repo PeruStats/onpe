@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 97.26,
+    "contabilizadas": 71,
+    "totalActas": 73,
+    "participacionCiudadana": 73.11,
+    "actasEnviadasJee": 1.37,
+    "enviadasJee": 1,
+    "actasPendientesJee": 1.37,
+    "pendientesJee": 1,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 21900,
+    "idUbigeoDistrito": 21901,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 15552,
+    "totalVotosValidos": 14788,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 6559,
+      "porcentajeVotosValidos": 44.354,
+      "porcentajeVotosEmitidos": 42.175
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 8229,
+      "porcentajeVotosValidos": 55.646,
+      "porcentajeVotosEmitidos": 52.913
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "HUARMEY",
+    "prov_ubigeo": "021900",
+    "ubigeo": "021901",
+    "nombre": "HUARMEY"
+  }
+}

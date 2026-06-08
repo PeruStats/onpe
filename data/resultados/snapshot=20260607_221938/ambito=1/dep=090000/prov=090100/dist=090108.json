@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 77.612,
+    "contabilizadas": 52,
+    "totalActas": 67,
+    "participacionCiudadana": 52.946,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 22.388,
+    "pendientesJee": 15,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 90000,
+    "idUbigeoProvincia": 90100,
+    "idUbigeoDistrito": 90108,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 10065,
+    "totalVotosValidos": 9181,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2668,
+      "porcentajeVotosValidos": 29.06,
+      "porcentajeVotosEmitidos": 26.508
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 6513,
+      "porcentajeVotosValidos": 70.94,
+      "porcentajeVotosEmitidos": 64.709
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "HUÁNUCO",
+    "dep_ubigeo": "090000",
+    "prov_name": "HUÁNUCO",
+    "prov_ubigeo": "090100",
+    "ubigeo": "090108",
+    "nombre": "SANTA MARÍA DEL VALLE"
+  }
+}

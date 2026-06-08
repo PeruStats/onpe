@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 15.385,
+    "contabilizadas": 2,
+    "totalActas": 13,
+    "participacionCiudadana": 11.554,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 84.615,
+    "pendientesJee": 11,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 30000,
+    "idUbigeoProvincia": 30100,
+    "idUbigeoDistrito": 30102,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 377,
+    "totalVotosValidos": 362,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 56,
+      "porcentajeVotosValidos": 15.47,
+      "porcentajeVotosEmitidos": 14.854
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 306,
+      "porcentajeVotosValidos": 84.53,
+      "porcentajeVotosEmitidos": 81.167
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "APURÍMAC",
+    "dep_ubigeo": "030000",
+    "prov_name": "ABANCAY",
+    "prov_ubigeo": "030100",
+    "ubigeo": "030102",
+    "nombre": "CIRCA"
+  }
+}

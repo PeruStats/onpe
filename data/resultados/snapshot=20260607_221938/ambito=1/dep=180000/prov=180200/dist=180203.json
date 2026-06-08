@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 3,
+    "totalActas": 3,
+    "participacionCiudadana": 55.828,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 180000,
+    "idUbigeoProvincia": 180200,
+    "idUbigeoDistrito": 180203,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 455,
+    "totalVotosValidos": 438,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 122,
+      "porcentajeVotosValidos": 27.854,
+      "porcentajeVotosEmitidos": 26.813
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 316,
+      "porcentajeVotosValidos": 72.146,
+      "porcentajeVotosEmitidos": 69.451
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PASCO",
+    "dep_ubigeo": "180000",
+    "prov_name": "DANIEL ALCIDES CARRIÓN",
+    "prov_ubigeo": "180200",
+    "ubigeo": "180203",
+    "nombre": "GOYLLARISQUIZGA"
+  }
+}

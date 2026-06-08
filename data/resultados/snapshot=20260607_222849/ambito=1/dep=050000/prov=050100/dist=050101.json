@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 97.211,
+    "contabilizadas": 244,
+    "totalActas": 251,
+    "participacionCiudadana": 72.586,
+    "actasEnviadasJee": 1.992,
+    "enviadasJee": 5,
+    "actasPendientesJee": 0.797,
+    "pendientesJee": 2,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 50000,
+    "idUbigeoProvincia": 50100,
+    "idUbigeoDistrito": 50101,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 53663,
+    "totalVotosValidos": 50877,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 13759,
+      "porcentajeVotosValidos": 27.044,
+      "porcentajeVotosEmitidos": 25.64
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 37118,
+      "porcentajeVotosValidos": 72.956,
+      "porcentajeVotosEmitidos": 69.169
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUAMANGA",
+    "prov_ubigeo": "050100",
+    "ubigeo": "050101",
+    "nombre": "AYACUCHO"
+  }
+}

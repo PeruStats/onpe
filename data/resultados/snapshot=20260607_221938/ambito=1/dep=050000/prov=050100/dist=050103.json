@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 71,
+    "totalActas": 71,
+    "participacionCiudadana": 78.798,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 50000,
+    "idUbigeoProvincia": 50100,
+    "idUbigeoDistrito": 50103,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 16338,
+    "totalVotosValidos": 15580,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 3124,
+      "porcentajeVotosValidos": 20.051,
+      "porcentajeVotosEmitidos": 19.121
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 12456,
+      "porcentajeVotosValidos": 79.949,
+      "porcentajeVotosEmitidos": 76.239
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "HUAMANGA",
+    "prov_ubigeo": "050100",
+    "ubigeo": "050103",
+    "nombre": "CARMEN ALTO"
+  }
+}

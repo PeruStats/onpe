@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 91.429,
+    "contabilizadas": 32,
+    "totalActas": 35,
+    "participacionCiudadana": 69.263,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 8.571,
+    "pendientesJee": 3,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 120000,
+    "idUbigeoProvincia": 120500,
+    "idUbigeoDistrito": 120508,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 7087,
+    "totalVotosValidos": 6549,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2945,
+      "porcentajeVotosValidos": 44.969,
+      "porcentajeVotosEmitidos": 41.555
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 3604,
+      "porcentajeVotosValidos": 55.031,
+      "porcentajeVotosEmitidos": 50.854
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LA LIBERTAD",
+    "dep_ubigeo": "120000",
+    "prov_name": "PACASMAYO",
+    "prov_ubigeo": "120500",
+    "ubigeo": "120508",
+    "nombre": "SAN JOSÉ"
+  }
+}

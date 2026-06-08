@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 38.509,
+    "contabilizadas": 124,
+    "totalActas": 322,
+    "participacionCiudadana": 25.063,
+    "actasEnviadasJee": 0.311,
+    "enviadasJee": 1,
+    "actasPendientesJee": 61.18,
+    "pendientesJee": 197,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 150000,
+    "idUbigeoProvincia": 150100,
+    "idUbigeoDistrito": 150113,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 23826,
+    "totalVotosValidos": 22194,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 9252,
+      "porcentajeVotosValidos": 41.687,
+      "porcentajeVotosEmitidos": 38.832
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 12942,
+      "porcentajeVotosValidos": 58.313,
+      "porcentajeVotosEmitidos": 54.319
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LORETO",
+    "dep_ubigeo": "150000",
+    "prov_name": "MAYNAS",
+    "prov_ubigeo": "150100",
+    "ubigeo": "150113",
+    "nombre": "SAN JUAN BAUTISTA"
+  }
+}

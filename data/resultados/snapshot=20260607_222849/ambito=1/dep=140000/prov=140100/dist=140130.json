@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 70.693,
+    "contabilizadas": 837,
+    "totalActas": 1184,
+    "participacionCiudadana": 54.143,
+    "actasEnviadasJee": 1.605,
+    "enviadasJee": 19,
+    "actasPendientesJee": 27.702,
+    "pendientesJee": 328,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140130,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 189570,
+    "totalVotosValidos": 179782,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 37554,
+      "porcentajeVotosValidos": 20.889,
+      "porcentajeVotosEmitidos": 19.81
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 142228,
+      "porcentajeVotosValidos": 79.111,
+      "porcentajeVotosEmitidos": 75.027
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140130",
+    "nombre": "SANTIAGO DE SURCO"
+  }
+}

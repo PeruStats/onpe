@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 68.75,
+    "contabilizadas": 11,
+    "totalActas": 16,
+    "participacionCiudadana": 58.402,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 31.25,
+    "pendientesJee": 5,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40100,
+    "idUbigeoDistrito": 40113,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2697,
+    "totalVotosValidos": 2502,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 998,
+      "porcentajeVotosValidos": 39.888,
+      "porcentajeVotosEmitidos": 37.004
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1504,
+      "porcentajeVotosValidos": 60.112,
+      "porcentajeVotosEmitidos": 55.766
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "AREQUIPA",
+    "prov_ubigeo": "040100",
+    "ubigeo": "040113",
+    "nombre": "SABANDIA"
+  }
+}

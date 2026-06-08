@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 75.0,
+    "contabilizadas": 9,
+    "totalActas": 12,
+    "participacionCiudadana": 55.028,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 25.0,
+    "pendientesJee": 3,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 141000,
+    "idUbigeoDistrito": 141005,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1494,
+    "totalVotosValidos": 1418,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 604,
+      "porcentajeVotosValidos": 42.595,
+      "porcentajeVotosEmitidos": 40.428
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 814,
+      "porcentajeVotosValidos": 57.405,
+      "porcentajeVotosEmitidos": 54.485
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "OYÓN",
+    "prov_ubigeo": "141000",
+    "ubigeo": "141005",
+    "nombre": "PACHANGARA"
+  }
+}

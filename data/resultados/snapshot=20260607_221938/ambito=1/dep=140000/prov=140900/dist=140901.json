@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 37.629,
+    "contabilizadas": 73,
+    "totalActas": 194,
+    "participacionCiudadana": 30.257,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 62.371,
+    "pendientesJee": 121,
+    "fechaActualizacion": 1780888561944,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140900,
+    "idUbigeoDistrito": 140901,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 17260,
+    "totalVotosValidos": 16182,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 6761,
+      "porcentajeVotosValidos": 41.781,
+      "porcentajeVotosEmitidos": 39.171
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 9421,
+      "porcentajeVotosValidos": 58.219,
+      "porcentajeVotosEmitidos": 54.583
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "BARRANCA",
+    "prov_ubigeo": "140900",
+    "ubigeo": "140901",
+    "nombre": "BARRANCA"
+  }
+}

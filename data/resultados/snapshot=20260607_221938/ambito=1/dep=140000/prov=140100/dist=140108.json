@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 42.969,
+    "contabilizadas": 385,
+    "totalActas": 896,
+    "participacionCiudadana": 34.448,
+    "actasEnviadasJee": 1.897,
+    "enviadasJee": 17,
+    "actasPendientesJee": 55.134,
+    "pendientesJee": 494,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140108,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 92247,
+    "totalVotosValidos": 86512,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 26055,
+      "porcentajeVotosValidos": 30.117,
+      "porcentajeVotosEmitidos": 28.245
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 60457,
+      "porcentajeVotosValidos": 69.883,
+      "porcentajeVotosEmitidos": 65.538
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140108",
+    "nombre": "CHORRILLOS"
+  }
+}

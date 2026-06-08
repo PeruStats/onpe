@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 8.0,
+    "contabilizadas": 2,
+    "totalActas": 25,
+    "participacionCiudadana": 5.728,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 92.0,
+    "pendientesJee": 23,
+    "fechaActualizacion": 1780889161712,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 60800,
+    "idUbigeoDistrito": 60809,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 380,
+    "totalVotosValidos": 361,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 92,
+      "porcentajeVotosValidos": 25.485,
+      "porcentajeVotosEmitidos": 24.211
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 269,
+      "porcentajeVotosValidos": 74.515,
+      "porcentajeVotosEmitidos": 70.789
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "JAÉN",
+    "prov_ubigeo": "060800",
+    "ubigeo": "060809",
+    "nombre": "SAN JOSÉ DEL ALTO"
+  }
+}

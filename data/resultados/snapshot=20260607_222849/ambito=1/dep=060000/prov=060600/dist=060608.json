@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 24,
+    "totalActas": 24,
+    "participacionCiudadana": 56.127,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 60600,
+    "idUbigeoDistrito": 60608,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 3893,
+    "totalVotosValidos": 3544,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1261,
+      "porcentajeVotosValidos": 35.581,
+      "porcentajeVotosEmitidos": 32.391
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2283,
+      "porcentajeVotosValidos": 64.419,
+      "porcentajeVotosEmitidos": 58.644
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CHOTA",
+    "prov_ubigeo": "060600",
+    "ubigeo": "060608",
+    "nombre": "HUAMBOS"
+  }
+}

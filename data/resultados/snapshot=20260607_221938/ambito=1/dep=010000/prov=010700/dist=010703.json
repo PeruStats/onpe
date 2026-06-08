@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 7.407,
+    "contabilizadas": 2,
+    "totalActas": 27,
+    "participacionCiudadana": 5.145,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 92.593,
+    "pendientesJee": 25,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 10000,
+    "idUbigeoProvincia": 10700,
+    "idUbigeoDistrito": 10703,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 370,
+    "totalVotosValidos": 362,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 73,
+      "porcentajeVotosValidos": 20.166,
+      "porcentajeVotosEmitidos": 19.73
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 289,
+      "porcentajeVotosValidos": 79.834,
+      "porcentajeVotosEmitidos": 78.108
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AMAZONAS",
+    "dep_ubigeo": "010000",
+    "prov_name": "UTCUBAMBA",
+    "prov_ubigeo": "010700",
+    "ubigeo": "010703",
+    "nombre": "CUMBA"
+  }
+}

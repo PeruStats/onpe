@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 12,
+    "totalActas": 12,
+    "participacionCiudadana": 79.419,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200200,
+    "idUbigeoDistrito": 200215,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2597,
+    "totalVotosValidos": 2483,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 162,
+      "porcentajeVotosValidos": 6.524,
+      "porcentajeVotosEmitidos": 6.238
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2321,
+      "porcentajeVotosValidos": 93.476,
+      "porcentajeVotosEmitidos": 89.372
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "AZÁNGARO",
+    "prov_ubigeo": "200200",
+    "ubigeo": "200215",
+    "nombre": "SAN JUAN DE SALINAS"
+  }
+}

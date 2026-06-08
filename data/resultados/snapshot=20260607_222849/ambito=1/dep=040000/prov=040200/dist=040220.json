@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 55.263,
+    "contabilizadas": 105,
+    "totalActas": 190,
+    "participacionCiudadana": 44.052,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 44.737,
+    "pendientesJee": 85,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 40000,
+    "idUbigeoProvincia": 40200,
+    "idUbigeoDistrito": 40220,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 24676,
+    "totalVotosValidos": 23440,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 4171,
+      "porcentajeVotosValidos": 17.794,
+      "porcentajeVotosEmitidos": 16.903
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 19269,
+      "porcentajeVotosValidos": 82.206,
+      "porcentajeVotosEmitidos": 78.088
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AREQUIPA",
+    "dep_ubigeo": "040000",
+    "prov_name": "CAYLLOMA",
+    "prov_ubigeo": "040200",
+    "ubigeo": "040220",
+    "nombre": "MAJES"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 89.286,
+    "contabilizadas": 25,
+    "totalActas": 28,
+    "participacionCiudadana": 65.231,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 10.714,
+    "pendientesJee": 3,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 50000,
+    "idUbigeoProvincia": 50200,
+    "idUbigeoDistrito": 50206,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 4876,
+    "totalVotosValidos": 4555,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 766,
+      "porcentajeVotosValidos": 16.817,
+      "porcentajeVotosEmitidos": 15.71
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 3789,
+      "porcentajeVotosValidos": 83.183,
+      "porcentajeVotosEmitidos": 77.707
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "CANGALLO",
+    "prov_ubigeo": "050200",
+    "ubigeo": "050206",
+    "nombre": "LOS MOROCHUCOS"
+  }
+}

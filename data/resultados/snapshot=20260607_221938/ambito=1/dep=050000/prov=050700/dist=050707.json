@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 83.333,
+    "contabilizadas": 5,
+    "totalActas": 6,
+    "participacionCiudadana": 46.133,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 16.667,
+    "pendientesJee": 1,
+    "fechaActualizacion": 1780888682045,
+    "idUbigeoDepartamento": 50000,
+    "idUbigeoProvincia": 50700,
+    "idUbigeoDistrito": 50707,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 692,
+    "totalVotosValidos": 664,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 116,
+      "porcentajeVotosValidos": 17.47,
+      "porcentajeVotosEmitidos": 16.763
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 548,
+      "porcentajeVotosValidos": 82.53,
+      "porcentajeVotosEmitidos": 79.191
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "VÍCTOR FAJARDO",
+    "prov_ubigeo": "050700",
+    "ubigeo": "050707",
+    "nombre": "COLCA"
+  }
+}

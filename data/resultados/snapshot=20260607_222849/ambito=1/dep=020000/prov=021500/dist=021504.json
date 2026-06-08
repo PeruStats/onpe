@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 6,
+    "totalActas": 6,
+    "participacionCiudadana": 78.901,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 21500,
+    "idUbigeoDistrito": 21504,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 1264,
+    "totalVotosValidos": 1122,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 496,
+      "porcentajeVotosValidos": 44.207,
+      "porcentajeVotosEmitidos": 39.241
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 626,
+      "porcentajeVotosValidos": 55.793,
+      "porcentajeVotosEmitidos": 49.525
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "YUNGAY",
+    "prov_ubigeo": "021500",
+    "ubigeo": "021504",
+    "nombre": "MATACOTO"
+  }
+}

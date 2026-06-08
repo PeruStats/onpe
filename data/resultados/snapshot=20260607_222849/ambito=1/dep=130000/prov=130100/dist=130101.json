@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 96.807,
+    "contabilizadas": 849,
+    "totalActas": 877,
+    "participacionCiudadana": 73.902,
+    "actasEnviadasJee": 0.798,
+    "enviadasJee": 7,
+    "actasPendientesJee": 2.395,
+    "pendientesJee": 21,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 130000,
+    "idUbigeoProvincia": 130100,
+    "idUbigeoDistrito": 130101,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 191786,
+    "totalVotosValidos": 177192,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 66782,
+      "porcentajeVotosValidos": 37.689,
+      "porcentajeVotosEmitidos": 34.821
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 110410,
+      "porcentajeVotosValidos": 62.311,
+      "porcentajeVotosEmitidos": 57.569
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LAMBAYEQUE",
+    "dep_ubigeo": "130000",
+    "prov_name": "CHICLAYO",
+    "prov_ubigeo": "130100",
+    "ubigeo": "130101",
+    "nombre": "CHICLAYO"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 25.0,
+    "contabilizadas": 2,
+    "totalActas": 8,
+    "participacionCiudadana": 13.067,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 75.0,
+    "pendientesJee": 6,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 20000,
+    "idUbigeoProvincia": 20300,
+    "idUbigeoDistrito": 20304,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 245,
+    "totalVotosValidos": 235,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 102,
+      "porcentajeVotosValidos": 43.404,
+      "porcentajeVotosEmitidos": 41.633
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 133,
+      "porcentajeVotosValidos": 56.596,
+      "porcentajeVotosEmitidos": 54.286
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "ÁNCASH",
+    "dep_ubigeo": "020000",
+    "prov_name": "BOLOGNESI",
+    "prov_ubigeo": "020300",
+    "ubigeo": "020304",
+    "nombre": "AQUIA"
+  }
+}

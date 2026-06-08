@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 50.501,
+    "contabilizadas": 908,
+    "totalActas": 1798,
+    "participacionCiudadana": 39.729,
+    "actasEnviadasJee": 1.279,
+    "enviadasJee": 23,
+    "actasPendientesJee": 48.22,
+    "pendientesJee": 867,
+    "fechaActualizacion": 1780888921885,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140126,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 211140,
+    "totalVotosValidos": 197895,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 72020,
+      "porcentajeVotosValidos": 36.393,
+      "porcentajeVotosEmitidos": 34.11
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 125875,
+      "porcentajeVotosValidos": 63.607,
+      "porcentajeVotosEmitidos": 59.617
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "LIMA",
+    "dep_ubigeo": "140000",
+    "prov_name": "LIMA",
+    "prov_ubigeo": "140100",
+    "ubigeo": "140126",
+    "nombre": "SAN MARTÍN DE PORRES"
+  }
+}

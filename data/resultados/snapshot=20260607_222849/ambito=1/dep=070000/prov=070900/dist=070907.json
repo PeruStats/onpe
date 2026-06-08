@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 8.108,
+    "contabilizadas": 3,
+    "totalActas": 37,
+    "participacionCiudadana": 4.049,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 91.892,
+    "pendientesJee": 34,
+    "fechaActualizacion": 1780889282258,
+    "idUbigeoDepartamento": 70000,
+    "idUbigeoProvincia": 70900,
+    "idUbigeoDistrito": 70907,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 415,
+    "totalVotosValidos": 402,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 62,
+      "porcentajeVotosValidos": 15.423,
+      "porcentajeVotosEmitidos": 14.94
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 340,
+      "porcentajeVotosValidos": 84.577,
+      "porcentajeVotosEmitidos": 81.928
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CUSCO",
+    "dep_ubigeo": "070000",
+    "prov_name": "LA CONVENCIÓN",
+    "prov_ubigeo": "070900",
+    "ubigeo": "070907",
+    "nombre": "VILCABAMBA"
+  }
+}
