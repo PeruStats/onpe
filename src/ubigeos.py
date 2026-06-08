@@ -64,7 +64,11 @@ async def get_resultados_dist(ambito, dep, prov, dist):
     print(data_candidatos)
 
 
-async def main_paralelo():
+async def main_ubigeos():
+    # obtiene los ubigeos, pero tiene que tener la metadata de los loops mas arrriba para poder extraer
+    # informacion de resultados y totales  y guardar a nivel de provincia.json
+    # output prefereido para un cloud storage
+    # ubigeos/snapshot=timestamp/ambito=1,2/departamento=ubigeo_dep/provincia_{ubigeo_provincia}.json
     for amb in [1, 2]:  # 1 para peru, 2 para extranjero
         departamentos = await get_departamentos(amb)
 
@@ -83,6 +87,20 @@ async def main_paralelo():
                 )
 
         todos_distritos = await asyncio.gather(*tareas_distritos)
+
+
+async def main_resultados():
+    # primero se leera todos los snapshot, luego se obtendra los ubigeos_unicos
+    # luego esa tabla se exportara a un 'silver'
+    # luego se lee la tabla y fila por fila (httx) se hace la peticion de la api para los resultados y totales y se guarda en el storage
+    # output preferido para el cloud storge
+    # resultados_candidatos/snapshotf=timestamp/ambito=1,2/departamento=ubigeo_dep/provincia=ubigeo_prov/distrito=ubigeo_dist.json
+    # totales_actas/snapshotf=timestamp/ambito=1,2/departamento=ubigeo_dep/provincia=ubigeo_prov/distrito=ubigeo_dist.json
+    # for results
+    # luego se lee todos los snapshot json se procesa y se guarda en un silver usando el timestamp para filstros de evolucion
+    # de esta tabla se toma el resultado por el ubigeo distrital y el tiempo mas actual y se exporta las tablas gold, para el uso de los dashboards
+    # luego compartir como delta share para el uso del endopoint
+    pass
 
 
 if __name__ == "__main__":
@@ -104,7 +122,7 @@ if __name__ == "__main__":
         return elapsed
 
     # secuencial = benchmark("Secuencial", main)
-    paralelo = benchmark("Paralelo", main_paralelo)  # 6 SEGUNDOS
+    paralelo = benchmark("Paralelo", main_ubigeos)  # 6 SEGUNDOS
 
     asyncio.run(get_resultados_dist(1, "010000", "010200", "010202"))
 
