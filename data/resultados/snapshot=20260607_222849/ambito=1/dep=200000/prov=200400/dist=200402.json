@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 37.5,
+    "contabilizadas": 12,
+    "totalActas": 32,
+    "participacionCiudadana": 26.803,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 62.5,
+    "pendientesJee": 20,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200400,
+    "idUbigeoDistrito": 200402,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2394,
+    "totalVotosValidos": 2252,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 315,
+      "porcentajeVotosValidos": 13.988,
+      "porcentajeVotosEmitidos": 13.158
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 1937,
+      "porcentajeVotosValidos": 86.012,
+      "porcentajeVotosEmitidos": 80.911
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "CHUCUITO",
+    "prov_ubigeo": "200400",
+    "ubigeo": "200402",
+    "nombre": "DESAGUADERO"
+  }
+}

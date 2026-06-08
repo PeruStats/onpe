@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 95.984,
+    "contabilizadas": 239,
+    "totalActas": 249,
+    "participacionCiudadana": 73.925,
+    "actasEnviadasJee": 0.402,
+    "enviadasJee": 1,
+    "actasPendientesJee": 3.614,
+    "pendientesJee": 9,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110100,
+    "idUbigeoDistrito": 110108,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 54461,
+    "totalVotosValidos": 51377,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 20798,
+      "porcentajeVotosValidos": 40.481,
+      "porcentajeVotosEmitidos": 38.189
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 30579,
+      "porcentajeVotosValidos": 59.519,
+      "porcentajeVotosEmitidos": 56.148
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "HUANCAYO",
+    "prov_ubigeo": "110100",
+    "ubigeo": "110108",
+    "nombre": "CHILCA"
+  }
+}

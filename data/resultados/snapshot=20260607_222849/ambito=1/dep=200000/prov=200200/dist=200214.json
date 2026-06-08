@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 87.5,
+    "contabilizadas": 14,
+    "totalActas": 16,
+    "participacionCiudadana": 64.341,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 12.5,
+    "pendientesJee": 2,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200200,
+    "idUbigeoDistrito": 200214,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 2739,
+    "totalVotosValidos": 2599,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 146,
+      "porcentajeVotosValidos": 5.618,
+      "porcentajeVotosEmitidos": 5.33
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2453,
+      "porcentajeVotosValidos": 94.382,
+      "porcentajeVotosEmitidos": 89.558
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "AZÁNGARO",
+    "prov_ubigeo": "200200",
+    "ubigeo": "200214",
+    "nombre": "SAN JOSÉ"
+  }
+}

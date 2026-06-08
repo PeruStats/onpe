@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 65.0,
+    "contabilizadas": 26,
+    "totalActas": 40,
+    "participacionCiudadana": 47.7,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 35.0,
+    "pendientesJee": 14,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 190000,
+    "idUbigeoProvincia": 190400,
+    "idUbigeoDistrito": 190404,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5403,
+    "totalVotosValidos": 5035,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2392,
+      "porcentajeVotosValidos": 47.507,
+      "porcentajeVotosEmitidos": 44.272
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2643,
+      "porcentajeVotosValidos": 52.493,
+      "porcentajeVotosEmitidos": 48.917
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "MORROPÓN",
+    "prov_ubigeo": "190400",
+    "ubigeo": "190404",
+    "nombre": "MORROPÓN"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 90.526,
+    "contabilizadas": 430,
+    "totalActas": 475,
+    "participacionCiudadana": 70.397,
+    "actasEnviadasJee": 0.211,
+    "enviadasJee": 1,
+    "actasPendientesJee": 9.263,
+    "pendientesJee": 44,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110100,
+    "idUbigeoDistrito": 110113,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 98886,
+    "totalVotosValidos": 92902,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 45080,
+      "porcentajeVotosValidos": 48.524,
+      "porcentajeVotosEmitidos": 45.588
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 47822,
+      "porcentajeVotosValidos": 51.476,
+      "porcentajeVotosEmitidos": 48.361
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "HUANCAYO",
+    "prov_ubigeo": "110100",
+    "ubigeo": "110113",
+    "nombre": "EL TAMBO"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 100.0,
+    "contabilizadas": 36,
+    "totalActas": 36,
+    "participacionCiudadana": 66.812,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 50000,
+    "idUbigeoProvincia": 50500,
+    "idUbigeoDistrito": 50501,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 6750,
+    "totalVotosValidos": 6456,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 1141,
+      "porcentajeVotosValidos": 17.673,
+      "porcentajeVotosEmitidos": 16.904
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 5315,
+      "porcentajeVotosValidos": 82.327,
+      "porcentajeVotosEmitidos": 78.741
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "LUCANAS",
+    "prov_ubigeo": "050500",
+    "ubigeo": "050501",
+    "nombre": "PUQUIO"
+  }
+}

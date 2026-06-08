@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 14.286,
+    "contabilizadas": 1,
+    "totalActas": 7,
+    "participacionCiudadana": 5.64,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 85.714,
+    "pendientesJee": 6,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 50000,
+    "idUbigeoProvincia": 51000,
+    "idUbigeoDistrito": 51004,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 89,
+    "totalVotosValidos": 81,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 8,
+      "porcentajeVotosValidos": 9.877,
+      "porcentajeVotosEmitidos": 8.989
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 73,
+      "porcentajeVotosValidos": 90.123,
+      "porcentajeVotosEmitidos": 82.022
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "AYACUCHO",
+    "dep_ubigeo": "050000",
+    "prov_name": "PÁUCAR DEL SARA SARA",
+    "prov_ubigeo": "051000",
+    "ubigeo": "051004",
+    "nombre": "LAMPA"
+  }
+}

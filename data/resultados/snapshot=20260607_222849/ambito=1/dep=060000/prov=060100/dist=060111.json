@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 6.452,
+    "contabilizadas": 2,
+    "totalActas": 31,
+    "participacionCiudadana": 4.402,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 93.548,
+    "pendientesJee": 29,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 60000,
+    "idUbigeoProvincia": 60100,
+    "idUbigeoDistrito": 60111,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 394,
+    "totalVotosValidos": 353,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 152,
+      "porcentajeVotosValidos": 43.059,
+      "porcentajeVotosEmitidos": 38.579
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 201,
+      "porcentajeVotosValidos": 56.941,
+      "porcentajeVotosEmitidos": 51.015
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "CAJAMARCA",
+    "dep_ubigeo": "060000",
+    "prov_name": "CAJAMARCA",
+    "prov_ubigeo": "060100",
+    "ubigeo": "060111",
+    "nombre": "NAMORA"
+  }
+}

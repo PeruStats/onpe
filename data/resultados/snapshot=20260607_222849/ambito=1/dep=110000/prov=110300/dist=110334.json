@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 95.833,
+    "contabilizadas": 23,
+    "totalActas": 24,
+    "participacionCiudadana": 73.727,
+    "actasEnviadasJee": 4.167,
+    "enviadasJee": 1,
+    "actasPendientesJee": 0.0,
+    "pendientesJee": 0,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 110000,
+    "idUbigeoProvincia": 110300,
+    "idUbigeoDistrito": 110334,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 5228,
+    "totalVotosValidos": 4879,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 2308,
+      "porcentajeVotosValidos": 47.305,
+      "porcentajeVotosEmitidos": 44.147
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 2571,
+      "porcentajeVotosValidos": 52.695,
+      "porcentajeVotosEmitidos": 49.178
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "JUNÍN",
+    "dep_ubigeo": "110000",
+    "prov_name": "JAUJA",
+    "prov_ubigeo": "110300",
+    "ubigeo": "110334",
+    "nombre": "YAUYOS"
+  }
+}

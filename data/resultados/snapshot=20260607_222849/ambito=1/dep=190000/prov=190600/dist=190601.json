@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 92.418,
+    "contabilizadas": 451,
+    "totalActas": 488,
+    "participacionCiudadana": 70.963,
+    "actasEnviadasJee": 1.23,
+    "enviadasJee": 6,
+    "actasPendientesJee": 6.352,
+    "pendientesJee": 31,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 190000,
+    "idUbigeoProvincia": 190600,
+    "idUbigeoDistrito": 190601,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 101742,
+    "totalVotosValidos": 93102,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 28110,
+      "porcentajeVotosValidos": 30.193,
+      "porcentajeVotosEmitidos": 27.629
+    },
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 64992,
+      "porcentajeVotosValidos": 69.807,
+      "porcentajeVotosEmitidos": 63.879
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PIURA",
+    "dep_ubigeo": "190000",
+    "prov_name": "SULLANA",
+    "prov_ubigeo": "190600",
+    "ubigeo": "190601",
+    "nombre": "SULLANA"
+  }
+}

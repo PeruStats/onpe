@@ -1,0 +1,50 @@
+{
+  "totales": {
+    "actasContabilizadas": 82.222,
+    "contabilizadas": 37,
+    "totalActas": 45,
+    "participacionCiudadana": 64.373,
+    "actasEnviadasJee": 0.0,
+    "enviadasJee": 0,
+    "actasPendientesJee": 17.778,
+    "pendientesJee": 8,
+    "fechaActualizacion": 1780889521837,
+    "idUbigeoDepartamento": 200000,
+    "idUbigeoProvincia": 200200,
+    "idUbigeoDistrito": 200204,
+    "idUbigeoDistritoElectoral": null,
+    "totalVotosEmitidos": 8241,
+    "totalVotosValidos": 7905,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  },
+  "participantes": [
+    {
+      "nombreAgrupacionPolitica": "FUERZA POPULAR",
+      "codigoAgrupacionPolitica": 8,
+      "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "dniCandidato": "10001088",
+      "totalVotosValidos": 500,
+      "porcentajeVotosValidos": 6.325,
+      "porcentajeVotosEmitidos": 6.067
+    },
+    {
+      "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
+      "codigoAgrupacionPolitica": 10,
+      "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
+      "dniCandidato": "16002918",
+      "totalVotosValidos": 7405,
+      "porcentajeVotosValidos": 93.675,
+      "porcentajeVotosEmitidos": 89.856
+    }
+  ],
+  "metadata_loc": {
+    "ambito": 1,
+    "dep_name": "PUNO",
+    "dep_ubigeo": "200000",
+    "prov_name": "AZÁNGARO",
+    "prov_ubigeo": "200200",
+    "ubigeo": "200204",
+    "nombre": "ASILLO"
+  }
+}
