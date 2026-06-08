@@ -72,5 +72,9 @@ async def get_data(snapshot_dir: str = "data/ubigeos"):
         tasks = [process_distrito(sem, client, reg, base_path) for reg in registros]
         await tqdm_asyncio.gather(*tasks, desc="Distritos")
 
+    from src.storage import upload_snapshot
+
+    upload_snapshot(base_path)
+
 
 asyncio.run(get_data())
