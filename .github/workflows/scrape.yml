@@ -1,12 +1,12 @@
 name: ONPE Scrapper
 
-on:
-  schedule:
-    - cron: "*/30 * * * *" # Cada 30 minutos
-  workflow_dispatch:
-  push:
-    branches:
-      - segunda_vuelta
+# on:
+#   schedule:
+#     - cron: "*/30 * * * *" # Cada 30 minutos
+#   workflow_dispatch:
+#   push:
+#     branches:
+#       - segunda_vuelta
 
 jobs:
   scrape:
