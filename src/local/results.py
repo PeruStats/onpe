@@ -19,7 +19,7 @@ def load_ubigeos(snapshot_dir: str):
     for file in Path(snapshot_dir).rglob("*.json"):
         with open(file, encoding="utf-8") as f:
             registros.extend(json.load(f))
-    return pd.DataFrame(registros).drop_duplicates().to_dict("records")
+    return pd.DataFrame(registros).sample(10).drop_duplicates().to_dict("records")
 
 
 def save_resultado(result, base_path, ambito, dep, prov, dist):
