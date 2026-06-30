@@ -14,12 +14,11 @@ from src.resultados import get_resultados_distrito
 CONCURRENCY = 5
 
 
-def load_ubigeos(snapshot_dir: str):
-    registros = []
-    for file in Path(snapshot_dir).rglob("*.json"):
-        with open(file, encoding="utf-8") as f:
-            registros.extend(json.load(f))
-    return pd.DataFrame(registros).drop_duplicates().to_dict("records")
+def load_ubigeos():
+
+    # leer la tabla de databricks
+    data = pd.read_csv(Path("data") / "pendientes" / "pendientes_onpe.csv", dtype=str)
+    return data.drop_duplicates().to_dict("records")
 
 
 def save_resultado(result, base_path, ambito, dep, prov, dist):
@@ -64,7 +63,7 @@ async def process_distrito(sem, client, reg, base_path):
 async def get_data(snapshot_dir: str = "data/ubigeos"):
     snapshot = datetime.now().strftime("%Y%m%d_%H%M%S")
     base_path = Path("data") / "resultados" / f"snapshot={snapshot}"
-    registros = load_ubigeos(snapshot_dir)
+    registros = load_ubigeos()
 
     sem = asyncio.Semaphore(CONCURRENCY)
 
@@ -72,9 +71,11 @@ async def get_data(snapshot_dir: str = "data/ubigeos"):
         tasks = [process_distrito(sem, client, reg, base_path) for reg in registros]
         await tqdm_asyncio.gather(*tasks, desc="Distritos")
 
-    from src.storage import upload_snapshot
-
     # upload_snapshot(base_path)
 
+
+# regs = load_ubigeos()
+# reg = regs[2]
+# print(reg)
 
 asyncio.run(get_data())
